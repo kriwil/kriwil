@@ -1,4 +1,4 @@
-## Yahoo Mash, selamat tinggal 360°
+## Yahoo Mash, selamat tinggal 360&deg;
 
 ![Yahoo Mash Beta](http://kriwil.com/images/2.png "Mash")
 

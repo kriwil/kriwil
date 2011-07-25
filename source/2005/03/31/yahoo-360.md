@@ -1,4 +1,4 @@
-## Yahoo 360°
+## Yahoo 360&deg;
 
 <p>Hore! akhirnya gw <a href="http://360.yahoo.com/groho101">punya</a> <a href="http://360.yahoo.com">Yahoo 360&#176;</a> juga ^^
 Terima kasih buat <a href="http://360.yahoo.com/enda_001">Enda</a> atas undangannya :)</p>
