@@ -1,4 +1,4 @@
-## World of Goo versi Linux
+### World of Goo versi Linux
 
 Akhirnya ada versi linux dari [World of Goo](http://www.2dboy.com/games.php). _One of the best game I ever played._
 

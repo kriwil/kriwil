@@ -1,4 +1,4 @@
-## Tiket Final NBA Seharga 54055
+### Tiket Final NBA Seharga 54055
 
 Tiket pertandingan ke-7 final NBA antara Boston Celtics vs LA Lakers untuk kursi _courtside_ (pinggir lapangan) dijual dengan harga [*54,055 USD*](http://www.stubhub.com/boston-celtics-playoff-tickets/?ticket_id=134255886). Iya, 54ribu dolar. Gokil. Padahal pertandingan ke-7 itu aja belum tentu ada.
 

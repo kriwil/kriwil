@@ -1,4 +1,4 @@
-## Wine 1.0
+### Wine 1.0
 
 [Wine 1.0 dirilis](http://winehq.org/?announce=1.0)! Rilis stabil pertama setelah pengembangan 15 tahun. Silahkan [didownload](http://www.winehq.org/site/download).
 

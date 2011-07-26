@@ -1,4 +1,4 @@
-## HTML dan CSS
+### HTML dan CSS
 
 > HTML without CSS is like a gun without ammunition. you can beat people to death with the butt of a gun, but bullets are so much more efficient.
 

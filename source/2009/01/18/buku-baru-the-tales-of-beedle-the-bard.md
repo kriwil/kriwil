@@ -1,4 +1,4 @@
-## Buku baru: The Tales of Beedle the Bard
+### Buku baru: The Tales of Beedle the Bard
 
 <a href="http://www.flickr.com/photos/kriwil/3206319083/" title="The Tales of Beddle The Bard by kriwil, on Flickr"><img class="floatleft" src="http://farm4.static.flickr.com/3373/3206319083_8df933a37a_t.jpg" width="75" height="100" alt="The Tales of Beddle The Bard" /></a>
 

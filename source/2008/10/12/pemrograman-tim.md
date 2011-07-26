@@ -1,4 +1,4 @@
-## Pemrograman Tim
+### Pemrograman Tim
 
 _Udah lama gak ngeblog. Yuk mari kita mulai belajar nulis lagi._
 

@@ -1,4 +1,4 @@
-## Review Ubuntu Netbook Remix
+### Review Ubuntu Netbook Remix
 
 Tidak lama setelah Ubuntu Netbook Remix [dirilis](http://kriwil.com/journal/ubuntu-netbook-remix), arstechnica melakukan review terhadap produk Canonical yang diperuntukan untuk netbook tersebut. Arstechnica mengambil kode sumber dari [launchpad](https://launchpad.net/netbook-remix) dan memasangnya di Ubuntu 8.04 standar.
 

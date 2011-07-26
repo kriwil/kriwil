@@ -1,4 +1,4 @@
-## Ilmu Pengetahuan itu (Harusnya) Gratis
+### Ilmu Pengetahuan itu (Harusnya) Gratis
 
 Ilmu pengetahuan itu harusnya gratis. Apalagi kalau ilmunya bisa dicari di internet dengan sangat mudah. Gue suka kesal melihat orang-orang yang memanfaatkan orang-orang lain yang tidak tau bahwa isi dari _e-book_ yang dia beli bisa dicari didapat di internet dengan mudah. Dan gratis. Dan Legal.
 

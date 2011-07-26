@@ -1,4 +1,4 @@
-## Seri ketiga From Win32 to Cocoa
+### Seri ketiga From Win32 to Cocoa
 
 [Bagian ketiga](http://arstechnica.com/articles/culture/microsoft-learn-from-apple-iii.ars) dari cerita seorang developer yang melakukan migrasi dari Windows ke Mac OS X. OSX memberikan kemudahan dalam mengembangkan aplikasi.
 

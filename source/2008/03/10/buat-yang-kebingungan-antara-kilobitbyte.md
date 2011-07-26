@@ -1,4 +1,4 @@
-## Buat yang kebingungan antara Kilobit/Byte
+### Buat yang kebingungan antara Kilobit/Byte
 
 <img src="http://imgs.xkcd.com/comics/kilobyte.png" width="500px" height="470px" />
 

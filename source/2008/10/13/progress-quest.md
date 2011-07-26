@@ -1,4 +1,4 @@
-## Progress Quest
+### Progress Quest
 
 Ternyata [Progress Quest](http://progressquest.com/) ada di [repositori ubuntu](http://packages.ubuntu.com/hardy/games/pq). Yah, walau menggunakan wine, tapi tetap aja niat banget dibikin paketnya :D
 

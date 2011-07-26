@@ -1,4 +1,4 @@
-## Kostum Putih di Kandang
+### Kostum Putih di Kandang
 
 Sejak kapan tradisi klub NBA yang menggunakan kostum putih di kandang hilang? Pagi ini gue nonton [Dallas Mavericks](http://nba.com/mavericks) lawan [Cleveland Cavaliers](http://nba.com/cavaliers) di kandang Mavericks, dan yang menggunakan kostum warna putih adalah Cavaliers.
 

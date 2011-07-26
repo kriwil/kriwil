@@ -1,4 +1,4 @@
-## Java Open Source
+### Java Open Source
 
 Lah, emang baru yah? Kayaknya gue udah pake openjdk-6 dari kapan tau di ubuntu deh. Tapi, bagaimana pun, selamat buat java yang akhirnya [100% opensource](http://blog.softwhere.org/archives/196). 
 

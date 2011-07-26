@@ -1,4 +1,4 @@
-## iPhone ke Indonesia, Lewat Mana?
+### iPhone ke Indonesia, Lewat Mana?
 
 Kalau emang iPhone masuk ke Indonesia secara resmi, kira-kira siapa yang akan menyediakan? Kalau dari [rumor yang beredar](http://3gweek.net/2008/05/30/hutchison-to-offer-iphone-in-indonesia/), kemungkinan antara 3 yang dimiliki Hutchison, atau Telkomsel yang sebagian sahamnya dipegang Singtel.
 

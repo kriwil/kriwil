@@ -1,4 +1,4 @@
-## Bye Yahoo Messenger
+### Bye Yahoo Messenger
 
 Buat yang memiliki nama gue di daftar teman di yahoo messengernya pasti sadar kalau gue sudah sangat lama tidak login di yahoo messenger. Gue tidak lagi menggunakan protokol yahoo messenger untuk melakukan aktivitas _chat_. Alasannya? Yang utama adalah protokol tertutup yahoo messenger.
 

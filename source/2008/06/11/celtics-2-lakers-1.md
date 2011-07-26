@@ -1,4 +1,4 @@
-## Celtics 2 - Lakers 1
+### Celtics 2 - Lakers 1
 
 Yak gue telat bikin entrynya. Akhirnya Lakers berhasil [memenangkan pertandingan final ketiga](http://www.nba.com/games/20080610/BOSLAL/boxscore.html) yang berlangsung di Staples Center dengan skor akhir 81 - 87 untuk Lakers.
 

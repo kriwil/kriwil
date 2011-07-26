@@ -1,4 +1,4 @@
-## Hiburan Hari Ini
+### Hiburan Hari Ini
 
 Baca berita di <a href="http://digg.com">digg</a> emang sangat menghibur. Bukan, bukan beritanya yang menghibur, meski kadang ada berita emang bagus. Komentar-komentar dari para <em>diggers</em> itu yang sering membuat gue tertawa sendiri kalau sedang buka digg.
 

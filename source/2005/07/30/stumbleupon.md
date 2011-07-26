@@ -1,4 +1,4 @@
-## StumbleUpon
+### StumbleUpon
 
 [StumbleUpon]: http://www.stumbleupon.com
 

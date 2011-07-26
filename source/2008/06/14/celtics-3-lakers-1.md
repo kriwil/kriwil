@@ -1,4 +1,4 @@
-## Celtics 3 - Lakers 1
+### Celtics 3 - Lakers 1
 
 Sigh. [Celtics 97 - Lakers 91](http://www.nba.com/games/20080612/BOSLAL/boxscore.html). 
 

@@ -1,4 +1,4 @@
-## Weekend Kemarin
+### Weekend Kemarin
 
 Niatnya sih cuma cari buku [The Amulet of Samarkand](http://en.wikipedia.org/wiki/The_Amulet_of_Samarkand), buku pertama dari [Bartimaeus Trilogy](http://en.wikipedia.org/wiki/Bartimaeus_Trilogy), tapi ternyata ngga ada. Berhubung lagi ngga punya buku yang bisa dibaca, jadi akhirnya muter-muter lah nyari buku yang bisa dan layak dibaca buat ngisi waktu. Dan gue keluar dari Gramedia dengan ... 5 buku.
 

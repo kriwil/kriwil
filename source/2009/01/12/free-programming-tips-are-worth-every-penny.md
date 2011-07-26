@@ -1,4 +1,4 @@
-## Free Programming Tips are Worth Every Penny
+### Free Programming Tips are Worth Every Penny
 
 [Free Programming Tips are Worth Every Penny](http://wilshipley.com/blog/2005/02/free-programming-tips-are-worth-every.html).
 

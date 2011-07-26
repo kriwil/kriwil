@@ -1,4 +1,4 @@
-## Simplicity Rules
+### Simplicity Rules
 
 I always love simplicity and usability. I prefer [gnome](http://gnome.org) over [KDE](http://kde.org) for simplicity reason ... and sentimental reason :P I'm a big gnome fans since gnome 1.4 :D
 I use [epiphany](http://www.gnome.org/projects/epiphany/ as my main browser. [Firefox](http://www.mozilla.com/en-US/firefox/ is used when I need to check my web design using [Web Developer](https://addons.mozilla.org/en-US/firefox/addon/60 addons.

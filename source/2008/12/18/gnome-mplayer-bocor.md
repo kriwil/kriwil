@@ -1,4 +1,4 @@
-## GNOME MPlayer Bocor?
+### GNOME MPlayer Bocor?
 
 [GNOME MPlayer](http://en.wikipedia.org/wiki/Gnome_MPlayer) bocor ya? Masa 900MiB lebih sih?
 

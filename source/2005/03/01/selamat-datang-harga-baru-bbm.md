@@ -1,4 +1,4 @@
-## Selamat Datang Harga baru BBM!
+### Selamat Datang Harga baru BBM!
 
 Jadi makin ngga ngerti deh jalan pikir Pemerintah sekarang, kok bisa-bisanya yah, di tengah-tengah musibah yang lagi menimpa bangsa, harga BBM dinaikin. Katanya sih, subsidi BBM cuma dinikmati sama kalangan yang mampu, jadi, daripada begitu, mendingan dana subsidinya dialihkan ke sektor yang lebih membutuhkan. Kalo di iklan sih, katanya bakal dialihkan untuk beasiswa sekian juta anak sekolah, biaya kesehatan sekian juta orang tidak mampu, pembangunan sekian ribu desa tertinggal. Tapi apa bener sampe ke tangan mereka yang membutuhkan? Sementara kepastian sampe atau tidak belum ada, harga-harga kebutuhan pokok udah naik, seiring dengan naiknya harga BBM, dan itu berarti pengeluaran lebih bagi mereka yang kurang mampu.
 

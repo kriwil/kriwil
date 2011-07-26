@@ -1,4 +1,4 @@
-## Solidaritas Kebersamaan
+### Solidaritas Kebersamaan
 
 <img src="http://img.photobucket.com/albums/v451/kriwil/gelang.gif" alt="gelang solidaritasKEBERSAMAAN" class="imageright" />
 

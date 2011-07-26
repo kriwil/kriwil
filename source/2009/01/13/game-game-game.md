@@ -1,4 +1,4 @@
-## Game game game
+### Game game game
 
 Kacau ini, diracunin sama [orang](http://rinaldi.wordpress.com). Baru aja install 3 game, [Dead Space](http://en.wikipedia.org/wiki/Dead_Space_(video_game)), [Crayon Physics](http://en.wikipedia.org/wiki/Crayon_Physics), [World of Goo](http://en.wikipedia.org/wiki/World_of_Goo).
 

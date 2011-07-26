@@ -1,4 +1,4 @@
-## Install Hackintosh
+### Install Hackintosh
 
 Akhirnya gue punya waktu untuk mencoba [hackintosh](http://en.wikipedia.org/wiki/OSx86) yang gue download. Alasan gue untuk mencoba install hackintosh ini adalah (selain kurang kerjaan tentu saja) untuk mengetahui kemampuan komputer (_bukan PC! PC is personal computer, fgs_) non Apple.
 

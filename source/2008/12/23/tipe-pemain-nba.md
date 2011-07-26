@@ -1,4 +1,4 @@
-## Tipe Pemain NBA
+### Tipe Pemain NBA
 
 Jadi kalau dilihat-lihat, pemain NBA itu ada [tipe-tipenya](http://upsideandmotor.com/20081217351/articles/december-2008/charting-out-nba-archetypes.html). Gue suka melihat abang [LeBron James](http://en.wikipedia.org/wiki/LeBron_James) mempunyai klasifikasi sendiri. Yang jelas, si abang benar-benar mendefinisikan frase "bisa segalanya" ke level yang baru. Tapi gue agak gak setuju dengan penempatan [KG](http://en.wikipedia.org/wiki/Kevin_Garnett) sebagai contoh _refined big man_. Mungkin yang buat lupa atau benci sama [Tim Duncan](http://en.wikipedia.org/wiki/Tim_Duncan) :D
 

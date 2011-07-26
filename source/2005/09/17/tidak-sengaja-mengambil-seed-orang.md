@@ -1,4 +1,4 @@
-## <del>Tidak</del> Sengaja Mengambil Seed Orang
+### <del>Tidak</del> Sengaja Mengambil Seed Orang
 
 [seed]: http://www.id-blogshares.jagoan.net/index.php?title=Seed
 

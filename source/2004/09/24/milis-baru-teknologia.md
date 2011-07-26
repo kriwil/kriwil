@@ -1,4 +1,4 @@
-## Milis Baru, Teknologia
+### Milis Baru, Teknologia
 
 Priyadi, melalui <a href="http://priyadi.net/">web</a>-nya, menyatakan <a href="http://priyadi.net/archives/2004/09/22/rindu-milis-teknis-berkualitas/">kerinduannya</a> kepada milis berbahasa Indonesia yang berkualitas, cukup teknis, tidak terlalu spesifik, dan relatif sopan.
 Beberapa waktu lalu ada milis PAU Mikro yang menurut beliau memenuhi kriteria yang diinginkan. Namun sayang milis tersebut vakum.

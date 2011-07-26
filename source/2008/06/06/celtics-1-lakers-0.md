@@ -1,4 +1,4 @@
-## Celtics 1 - Lakers 0
+### Celtics 1 - Lakers 0
 
 [Game pertama final NBA 2008](http://www.nba.com/games/20080605/LALBOS/boxscore.html) dimenangkan oleh Celtics dengan skor akhir 98 - 88. 
 

@@ -1,4 +1,4 @@
-## Gnome Do 0.5 Dirilis
+### Gnome Do 0.5 Dirilis
 
 [Gnome Do 0.5 dirilis](http://blog.davebsd.com/2008/06/09/gnome-do-05/) dengan penambahan plugin yang sangat menarik. Sekarang bisa set status pidgin, update twitter, mengatur window, upload ke flickr, dan masih banyak lagi.
 

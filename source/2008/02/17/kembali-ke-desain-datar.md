@@ -1,4 +1,4 @@
-## Kembali ke Desain Datar
+### Kembali ke Desain Datar
 
 Soalnya desain sebelumnya kebanyakan gambar dan terlalu ramai buat mata gue, jadi gue ganti (lagi!) desainnya ke yang lebih enak diliat (gue), dan gak terlalu berat.
 

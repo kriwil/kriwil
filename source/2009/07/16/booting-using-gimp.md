@@ -1,4 +1,4 @@
-## booting using gimp?
+### booting using gimp?
 
 > I had ubuntu installed and i installed windows inside it. How do I uninstall ubuntu without reinstalling windows? It is booting using gimp if that?s any help.
 

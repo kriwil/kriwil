@@ -1,4 +1,4 @@
-## Resize to Max Width / Resize to Max Height
+### Resize to Max Width / Resize to Max Height
 
 Hore nemu trik mouse baru buat resize windows. Sebelum lanjut, perlu diketahui bahwa trik ini cuma -bekerja- dicoba di gnome, lebih spesifiknya gnome 2.22 bawaan ubuntu 8.04. -Tidak- Belum dicoba di KDE, soalnya gak pakai KDE. Dan tidak dicoba di Windows, karena pasti gak bisa :D
 

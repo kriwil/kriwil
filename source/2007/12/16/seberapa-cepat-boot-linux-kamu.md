@@ -1,4 +1,4 @@
-## Seberapa Cepat boot Linux Kamu?
+### Seberapa Cepat boot Linux Kamu?
 
 Iseng kurang kerjaan. Dari [milis id-ubuntu](http://groups.google.com/group/id-ubuntu). Awalnya [ada yang menghitung waktu boot ubuntu-nya dengan menggunakan stopwatch](http://groups.google.com/group/id-ubuntu/msg/7c5f1cce7f1a308f). Kemudian [MDAMT](http://aksi.mdamt.net/) [memberikan sebuah link](http://groups.google.com/group/id-ubuntu/msg/1aef1beec5903fac) ke [Bootchart](http://bootchart.org/).
 

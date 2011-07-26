@@ -1,4 +1,4 @@
-## Easter Egg di Google Reader
+### Easter Egg di Google Reader
 
 Buat yang menggunakan google reader, coba lakukan ini di window google readernya:
 

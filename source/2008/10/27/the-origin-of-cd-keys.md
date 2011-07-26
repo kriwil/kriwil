@@ -1,4 +1,4 @@
-## The Origin of CD-Keys
+### The Origin of CD-Keys
 
 The Origin of CD-Keys versi [Penny Arcade](http://www.penny-arcade.com):
 

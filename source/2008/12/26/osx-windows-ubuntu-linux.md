@@ -1,4 +1,4 @@
-## OSX - Windows - Ubuntu Linux
+### OSX - Windows - Ubuntu Linux
 
 Di komputer gue ada 3 OS: Windows, OSX, dan Ubuntu Linux. OSX (melalui hackintosh) [belum lama gue install](http://kriwil.com/journal/install-hackintosh). Tentu tidak mungkin menggunakan ketiganya sekaligus. Tapi, sebagus-bagusnya OSX, gue tetap menggunakan Ubuntu gue sebagai OS utama.
 

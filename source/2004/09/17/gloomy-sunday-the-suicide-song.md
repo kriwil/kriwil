@@ -1,4 +1,4 @@
-## Gloomy Sunday - the suicide song
+### Gloomy Sunday - the suicide song
 
 **Gloomy Sunday**, the suicide song. Ya, lagu bunuh diri. Mungkin terdengar aneh, ada sebuah lagu yang sangat identik dengan bunuh diri. Banyak sekali kasus bunuh diri yang berhubungan dengan lagu ini. Ada yang meninggalkan pesan berupa lirik lagu ini, dan ada juga yang memutar lagu ini ketika bunuh diri. Tidak heran jika lagu ini pernah dilarang untuk disebarluaskan.
 

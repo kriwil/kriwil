@@ -1,4 +1,4 @@
-## GTK Theme: Elegant Blankon
+### GTK Theme: Elegant Blankon
 
 [GTK Theme: Elegant Blankon](http://gnome-look.org/content/show.php?content=78134)
 

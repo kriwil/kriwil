@@ -1,4 +1,4 @@
-## Google SMS
+### Google SMS
 
 Fitur baru google, <a href="http://www.google.com/sms/index.html">Google SMS</a>.
 Dengan fitur itu, kita bisa melakukan search melalui <i>mobile device</i> kita.

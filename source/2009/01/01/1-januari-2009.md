@@ -1,4 +1,4 @@
-## 1 Januari 2009
+### 1 Januari 2009
 
 Post pertama di 2009. Sekedar tulisan gak penting biar tanggal 20090101 ada isinya. Gak penting juga sih, iseng aja. Sebenarnya gue gak terlalu perduli dengan pergantian tahun, tapi kayaknya gak ada yang salah juga dengan nulis hal ini.
 

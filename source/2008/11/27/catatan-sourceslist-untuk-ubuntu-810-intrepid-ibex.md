@@ -1,4 +1,4 @@
-## Catatan: sources.list untuk Ubuntu 8.10 Intrepid Ibex
+### Catatan: sources.list untuk Ubuntu 8.10 Intrepid Ibex
 
 Ini repositori tambahan yang gue gunakan untuk ubuntu 8.10 gue. Terdiri dari openoffice.org 3.0, opera, compiz fusion, gnome-do, banshee, repositori google (google earth, picassa), wine, gscrot, medibuntu, ubuntu tweak, gwibber, virtualbox.
 

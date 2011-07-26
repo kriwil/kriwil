@@ -1,4 +1,4 @@
-## Obama (hampir) Pasti Menjadi Calon Presiden
+### Obama (hampir) Pasti Menjadi Calon Presiden
 
 Menurut [Yahoo News](http://news.yahoo.com/s/ap/primary_rdp;_ylt=AspXNnYFkHqUYOyfygYYeUas0NUE), Obama sudah bisa dipastikan menjadi kandidat presiden Amerika Serikat dari partai Demokrat.
 

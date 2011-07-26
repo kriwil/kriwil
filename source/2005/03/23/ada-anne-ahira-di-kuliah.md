@@ -1,4 +1,4 @@
-## Ada Anne Ahira di Kuliah
+### Ada Anne Ahira di Kuliah
 
 Hari ini, di kuliah <abbr title="Komputer dan Masyrakat">Komas</abbr>, membahas seorang (bukan) pahlawan Indonesia, Anne Ahira. Pembahasan ditekankan pada bagaimana efek dari tekonologi dan pemanfaatannya terhadap masyarakat. Artikel yang menjadi pembahasan adalah artikel <a href="http://www.kompas.com/kompas%2Dcetak/0503/20/naper/1631428.htm">Persona di Kompas 20 Maret</a>.
 

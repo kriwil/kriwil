@@ -1,4 +1,4 @@
-## Bleeding Edge
+### Bleeding Edge
 
 Now I'm using bleeding edge textpattern from its subversion. It's the [4.0.x development branch](http://svn.textpattern.com/development/4.0/). I was planning to use [4.1/crockery branch](http://svn.textpattern.com/development/crockery/), but I haven't tested a lot, so I didn't know how good it is for live usage. So, the 4.1 stays in localhost.
 

@@ -1,4 +1,4 @@
-## Kinerja Firefox: Wine > Linux
+### Kinerja Firefox: Wine > Linux
 
 ![firefox wine vs firefox linux](http://dl.getdropbox.com/u/112837/kriwil.com/image/firefox-wine-vs-firefox-linux.png)
 

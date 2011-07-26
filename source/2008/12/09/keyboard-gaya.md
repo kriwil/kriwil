@@ -1,4 +1,4 @@
-## Keyboard Gaya
+### Keyboard Gaya
 
 Beberapa waktu yang lalu gue pernah nulis tentang [Das Keyboard](http://kriwil.com/journal/das-keyboard). Gue tertarik banget beli keyboard itu, tapi apa daya dana gak ada. Nah, beberapa minggu lalu gue iseng melakukan perubahan pada keyboard gue supaya mirip dengan tampilan Das Keyboard Ultimate yang tanpa satu pun huruf di key-nya. Kebetulan ada keyboard dan waktu nganggur. Tadinya mau pake [Logitech EX 90](http://www.logitech.com/index.cfm/keyboards/keyboard_mice_combos/devices/345&cl=IN,EN) gue. Tapi kok sayang yah.
 

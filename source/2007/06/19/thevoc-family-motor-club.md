@@ -1,4 +1,4 @@
-## Thevoc Family Motor Club
+### Thevoc Family Motor Club
 
 Tulisan itu terbaca di jaket seseorang di pagi hari menuju kantor. Sempat terlintas, "Wah keren juga namanya. Kira-kira apa artinya ya?". Dan gue mencoba menebak arti kata pertama dari tulisan tersebut sambil meninggalkan stasiun UI.
 

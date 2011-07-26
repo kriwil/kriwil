@@ -1,4 +1,4 @@
-## Sony Ericsson Happy Family
+### Sony Ericsson Happy Family
 
 ![SE Happy Family](http://aldi.kriwil.com/wp-content/images/01-se-fam.jpg "SE Happy Family")
 

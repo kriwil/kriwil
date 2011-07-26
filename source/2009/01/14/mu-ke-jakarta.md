@@ -1,4 +1,4 @@
-## MU Ke Jakarta
+### MU Ke Jakarta
 
 ![MU to Jakarta](http://dl.getdropbox.com/u/112837/kriwil.com/image/mu-to-jakarta.png)
 

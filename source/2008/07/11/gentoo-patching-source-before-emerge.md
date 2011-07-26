@@ -1,4 +1,4 @@
-## gentoo: patching source before emerge
+### gentoo: patching source before emerge
 
 Penting nih, baru belajar [gentoo](http://gentoo.org) soalnya. Patch source code sebelum diinstall.
 

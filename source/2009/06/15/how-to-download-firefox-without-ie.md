@@ -1,4 +1,4 @@
-## How To Download Firefox Without IE
+### How To Download Firefox Without IE
 
 [European won't get Internet Explorer (IE) in Windows 7](http://news.bbc.co.uk/2/hi/technology/8096701.stm). So, how could we [download](http://www.ixibo.com/2009/03/5-reasons-why-people-use-internet-explorer/) Mozilla Firefox?
 

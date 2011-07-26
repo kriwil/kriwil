@@ -1,4 +1,4 @@
-## Setahun Sekali
+### Setahun Sekali
 
 Setahun sekali. Itu yang terpikir ketika gue sehabis sholat Ied berjalan berkeliling ke tetangga-tetangga. Iya, ternyata gue cuma setahun sekali ketemu tetangga-tetangga gue dan ngobrol banyak, sementara hampir setiap hari ketemu ketika berangkat dan pulang, dan cuma mengucapkan salam semata. Cuma setahun sekali gue bersilaturahmi ke rumah tetangga-tetangga gue. Cuma setahun sekali gue ketemu teman-teman bermain gue waktu kecil, dan bisa bercanda lagi. Bahkan gue baru menyadari kalau gue punya tetangga baru, padahal sudah hampir setahun mereka tinggal. Gara-gara cuma setahun sekali. Miris. Cuma setahun sekali.
 

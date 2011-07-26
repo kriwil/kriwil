@@ -1,4 +1,4 @@
-## Apa Kabar?
+### Apa Kabar?
 
 Sebenarnya gak tau juga mau nulis apa. Banyak sih yang mau ditulis kalau emang niat. _Euh_, niat sih ada. Banyak malah. Cuma semua isi kepala yang mau ditulis ternyata isinya sangat personal. _Secara_ gitu, gue self-proclaimed [introvert](http://www.thefreedictionary.com/self-proclaimed). Jadi mungkin nulis yang tidak masuk daerah personal aja.
 

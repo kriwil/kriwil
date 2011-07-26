@@ -1,4 +1,4 @@
-## Ganti Desain?
+### Ganti Desain?
 
 Hwaaa. Abis blogwalking trus ngeliat layout-layout bagus. Jadi ngiler pengen ganti lagi. Tapi apa daya otak gak mampu. Gue gak ada bakat desain.
 

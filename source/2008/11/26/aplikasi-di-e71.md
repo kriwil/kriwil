@@ -1,4 +1,4 @@
-## Aplikasi di E71
+### Aplikasi di E71
 
 Daripada gak ngeblog, mending bikin daftar aplikasi yang terinstall di hp. Sekalian buat catatan kalau butuh lagi nantinya :)
 

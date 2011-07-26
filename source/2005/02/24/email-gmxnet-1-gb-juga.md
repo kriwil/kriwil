@@ -1,4 +1,4 @@
-## email @ gmx.net 1 GB juga
+### email @ gmx.net 1 GB juga
 
 Barusan ngecek, ternyata kapasitas di <a href="http://gmx.net">gmx.net</a> jadi 1 GB juga, ikut-ikut trend mail provider jaman sekarang, yang terus membengkakkan kapasitasnya gara-gara <a href="http://gmail.com">GMail</a>. Gw ngga tau pasti sih kapan kapasitasnya naik jadi 1 GB dari yang sebelumnya cuma 25 MB (eh, apa 35 MB yah? ^^).
 

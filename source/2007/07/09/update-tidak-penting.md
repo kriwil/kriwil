@@ -1,4 +1,4 @@
-## Update Tidak Penting
+### Update Tidak Penting
 
 Sesuai judul, cuma mau mengisi aja biar kelihatan masih di-update. Gue masih terlalu sibuk untuk berkonsentrasi ngeblog lagi. Sebenarnya sih udah pengen banget ngeblog, tapi ya begitulah. Males juga kalau cuma setengah-setengah. Mending hilang sekalian kan?
 

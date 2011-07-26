@@ -1,4 +1,4 @@
-## Sinkronisasi P800
+### Sinkronisasi P800
 
 Akhirnya saya berhasil melakukan sinkronisasi [P800](http://www.gsmarena.com/sony_ericsson_p800-326.php) saya dengan [Linux-box](http://www.ubuntu.com/) saya. Cukup lama setelah saya memiliki P800. Soalnya memang sebenarnya saya ngga butuh meng-sinkronisasi ponsel dengan komputer saya, karena saya hanya butuh mem-*backup* daftar nomor telepon. Dan itu bisa dilakukan dengan menyimpan daftar nomor telepon dari P800 ke sebuah file, kemudian dikirim melalui bluetooth atau email :P
 

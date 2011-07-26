@@ -1,4 +1,4 @@
-## Gmail invitation
+### Gmail invitation
 
 Duuh ... dulu sempet dapet 1 invitation, trus gw pake, eh besoknya dapet 6 lagi. Trus yang 6 itu gw pake 3, besoknya ada 6 lagi. Akhirnya, 6 invitation berhasil gw abisin.
 Hari ini, gw cek email di gmail, pas gw buka inbox, eh dapet 6 lagi. Tempatnya pindah ternyata, dulu di bawah label, sekarang di inbox.

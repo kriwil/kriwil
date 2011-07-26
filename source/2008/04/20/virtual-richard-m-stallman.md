@@ -1,4 +1,4 @@
-## Virtual Richard M. Stallman
+### Virtual Richard M. Stallman
 
 Ternyata ada paket yang bernama [vrms](http://en.wikipedia.org/wiki/Vrms), yang merupakan paket untuk melihat paket-paket non-free software yang terinstall di linux berbasis debian. Gokil. Gak sengaja ketemu pas lagi nyari paket ubuntu core.
 

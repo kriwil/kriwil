@@ -1,4 +1,4 @@
-## Harry Potter and the Half-Blood Prince
+### Harry Potter and the Half-Blood Prince
 
 Akhirnya berkesempatan juga nonton [Harry Potter and the Half-Blood Prince](http://www.imdb.com/title/tt0417741/). Harusnya minggu lalu, tapi berhubung pas Jumat tanggal 17 Juli kemarin Jakarta kena bom, gue memutuskan menunda demi keselamatan semua.
 

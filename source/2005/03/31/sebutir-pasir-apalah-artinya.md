@@ -1,4 +1,4 @@
-## Sebutir Pasir, Apalah Artinya?
+### Sebutir Pasir, Apalah Artinya?
 
 <small>Oleh : Asro Kamal Rokan</small>
 

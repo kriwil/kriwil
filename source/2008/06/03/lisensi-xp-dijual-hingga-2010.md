@@ -1,4 +1,4 @@
-## Lisensi XP Dijual Hingga 2010
+### Lisensi XP Dijual Hingga 2010
 
 Microsoft memutuskan [tetap menjual lisensi XP hingga tahun 2010](http://www.nytimes.com/idg/IDG_852573C4006938804825745D0035EE3E.html) untuk komputer tipe netbook, tipe yang dipopulerkan oleh Asus EEE PC. Tampaknya MS tidak mau kehilangan kesempatan mendapatkan keuntungan dari berkembangnya tipe netbook ini belakangan.
 

@@ -1,4 +1,4 @@
-## Bukan Ngeblog
+### Bukan Ngeblog
 
 Gue suka sama [Maniacal Rage](http://maniacalrage.net/)! Bukan, bukan gaya tulisannya -- soalnya gue belum baca, baru liat-liat seklias -- tapi sama idenye [menghilangkan judul dan komentar](http://maniacalrage.net/past/2007/9/13/the_primary_reason_i_redesigned/).
 

@@ -1,4 +1,4 @@
-## Ganti Desain Lagi!
+### Ganti Desain Lagi!
 
 Akhirnya gue ganti desain lagi, entah untuk yang keberapa. Selain karena ingin ganti suasana, gue juga sekalian menyegarkan kembali ingatan tentang _html_ dan _css_, karena udah lama banget gak bersentuhan dengan html dan css secara intensif.
 

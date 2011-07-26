@@ -1,4 +1,4 @@
-## Qt Programming Contest
+### Qt Programming Contest
 
 [Qt Programming Contest](http://www.qtcentre.org/news/28-qt-centre/91-qt-centre-programming-contest-2008).
 

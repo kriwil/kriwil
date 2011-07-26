@@ -1,4 +1,4 @@
-## Lah Saya Gimana?
+### Lah Saya Gimana?
 
 Itu yang jadi pikiran gue ketika mendengarkan berita bahwa pemilih untuk pemilu Gubernur DKI Jakarta sedang didata oleh petugas. Iya, gue gimana yah?
 
