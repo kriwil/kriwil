@@ -1,4 +1,4 @@
-## Celtics 2 - Lakers 0
+### Celtics 2 - Lakers 0
 
 [Lakers kalah lagi](http://www.nba.com/games/20080608/LALBOS/boxscore.html). [Harapan](http://kriwil.com/journal/celtics-1-lakers-0) gue gak jadi kenyataan :(
 

@@ -1,4 +1,4 @@
-## What Will Life Be Like in the Year 2008?
+### What Will Life Be Like in the Year 2008?
 
 [What Will Life Be Like in the Year 2008?](http://blog.modernmechanix.com/2008/03/24/what-will-life-be-like-in-the-year-2008/)
 

@@ -1,4 +1,4 @@
-## Twitter Harusnya Ditutup Dulu
+### Twitter Harusnya Ditutup Dulu
 
 Setelah [kehilangan database](http://status.twitter.com/post/37338586/lost-a-database) (?!), dan [lagi](http://status.twitter.com/post/37417380/friday-morning-db-problem), dan mati yang tidak terhitung, mungkin memang sudah saatnya twitter beristirahat.
 

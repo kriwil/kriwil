@@ -1,4 +1,4 @@
-## Bermain dengan Fluxbox
+### Bermain dengan Fluxbox
 
 Hehehehe. Liburan tanggal 1 kemarin gue iseng main-main dengan fluxbox. Awalnya sih dari udah mulai gimana gitu sama waktu startup Gnome Gutsy yang mulai makin lama di laptop gue. Karena gue sekarang buka tutup laptop di tempat-tempat umum, jadi kalau harus nunggu hampir satu menit buat masuk gnome aja, kayaknya agak menyebalkan. Jadi gue mencari alternatif selain dari Gnome dan KDE.
 

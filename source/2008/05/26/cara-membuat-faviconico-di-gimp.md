@@ -1,4 +1,4 @@
-## Cara Membuat favicon.ico di Gimp
+### Cara Membuat favicon.ico di Gimp
 
 Ternyata gak bisa langsung buat favicon.ico lewat Gimp gitu yah. Gue kira bisa lansung _save as_. [Harus diubah dari format ppm](http://linuxproblem.org/art_19.html) ternyata.
 

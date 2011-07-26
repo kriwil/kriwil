@@ -1,4 +1,4 @@
-## Rails deployment that just works
+### Rails deployment that just works
 
 [![passenger at wordcountjournal.com](http://dl.getdropbox.com/u/112837/kriwil.com/image/wordcountjournal-t.png)](http://dl.getdropbox.com/u/112837/kriwil.com/image/wordcountjournal.png)
 

@@ -1,4 +1,4 @@
-## Ganti Domain Ganti Semua?
+### Ganti Domain Ganti Semua?
 
 Ini pasti masalah uang. Pasti. Berhubung gue jarang baca detik (_well_, sering sih, tapi bacanya _sekip-sekip_), gue baru tau kalau sekarang sudah ada aturan untuk penggunaan nama domain buat situs pemerintahan. Ternyata dari 2006 ... dan sekarang akhir 2007 ... duh kasian amat gue.
 

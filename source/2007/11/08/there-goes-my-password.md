@@ -1,4 +1,4 @@
-## There Goes My Password
+### There Goes My Password
 
 Gue heran hari gini masih ada yang menyimpan password di database menggunakan plaintext. GOBLOK BANGET kalau gue bilang. Maaf untuk bahasanya. Gak tahan untuk tidak menghina.
 

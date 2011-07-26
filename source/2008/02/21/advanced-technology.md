@@ -1,4 +1,4 @@
-## Advanced Technology
+### Advanced Technology
 
 [![](http://imgs.xkcd.com/comics/advanced_technology.png)](http://xkcd.com/387/)
 

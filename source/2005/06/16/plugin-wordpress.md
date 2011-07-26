@@ -1,4 +1,4 @@
-## Plugin WordPress
+### Plugin WordPress
 
 [WordPress]: http://wordpress.org
 

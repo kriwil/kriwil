@@ -1,4 +1,4 @@
-## Update!
+### Update!
 
 Yak, update setelah 2 minggu dari tulisan terakhir. Itu juga tulisan gak berisi. Jadi gue
 

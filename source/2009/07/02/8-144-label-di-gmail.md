@@ -1,4 +1,4 @@
-## 8 + 144 Label di Gmail
+### 8 + 144 Label di Gmail
 
 ![8 + 144 label](http://files.getdropbox.com/u/112837/kriwil.com/image/post/gmail_labels.png)
 

@@ -1,4 +1,4 @@
-## Database Boros Space?
+### Database Boros Space?
 
 [The Daily WTF](http://thedailywtf.com) memberikan sebuah [artikel bagaimana desain database yang hemat ruang harddisk](http://thedailywtf.com/Articles/Pretty-Simple.aspx). Boleh tuh dicoba caranya, siapa tau bisa menghemat ruang harddisk anda.
 

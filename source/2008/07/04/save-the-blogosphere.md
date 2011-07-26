@@ -1,4 +1,4 @@
-## Save The Blogosphere!
+### Save The Blogosphere!
 
 Save the [blogosphere](http://en.wikipedia.org/wiki/Blogosphere)! Create your own content.
 

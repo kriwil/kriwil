@@ -1,4 +1,4 @@
-## This Design is Good
+### This Design is Good
 
 I'll stick with this default design for a while. I don't have any inspiration right now. Well, actually I do have some ideas, but I just don't have time (hint: lazy) to put it in codes. I'm afraid the design will be very bad (as if I ever did good ones) if I create on lazy mood.
 

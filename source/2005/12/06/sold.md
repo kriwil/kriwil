@@ -1,4 +1,4 @@
-## Sold!
+### Sold!
 
 <img src='http://aldi.kriwil.com/wp-content/b2661yn.gif' alt='B 2661 YN' />
 

@@ -1,4 +1,4 @@
-## Tutorial CodeIgniter dan Ajax dengan JQuery
+### Tutorial CodeIgniter dan Ajax dengan JQuery
 
 Ternyata masih susah cari tutorial CI + Ajax JQuery yang bagus dan benar. Akhirnya, di sela-sela kesibukan gue mencoba membuat sedikit [tutorial tentang Ajax menggunakan CI + JQuery](http://littlebrain.org/2008/05/27/codeigniter-and-ajax-using-jquery-tutorial/).
 

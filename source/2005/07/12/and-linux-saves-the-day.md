@@ -1,4 +1,4 @@
-## And Linux saves the day
+### And Linux saves the day
 
 Linux menunjukkan ketangguhannya! Dia kembali melakukan hal yang tidak bisa dilakukan Windows.
 

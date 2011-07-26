@@ -1,4 +1,4 @@
-## BUZZ !!
+### BUZZ !!
 
 Hwaaaa ... udah brapa lama nih gw ngga nge-post? post <a href="http://aldi.kriwil.com/2004/09/28/surat-cinta-seorang-ilmuwan/">terakhir</a> gw itu tanggal 28 September, dan sekarang tanggal 8 Oktober !! Berarti udah 10 hari gw ngga nge-post :P
 Tapi emang sih, seperti yang gw bilang di post <a href="http://aldi.kriwil.com/2004/09/05/iya-iya-gw-nyerah/">pertama</a> gw, gw emang ngga bakal konsisten ngisi weblog ini ^^

@@ -1,4 +1,4 @@
-## Black September
+### Black September
 
 Ya, September kelabu. Warna weblog gw sekarang hitam.
 Turut berduka cita atas korban BOM di Kedubes Australia. Sebuah tragedi tanpa hati, tanpa perasaan.

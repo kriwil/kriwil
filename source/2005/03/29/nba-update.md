@@ -1,4 +1,4 @@
-## NBA update
+### NBA update
 
 <p>Ya, begini nih kalo <a href="http://aldi.kriwil.com/2005/02/22/mau-nonton-nba-allstar-2005/">ngga bisa nonton pertandingan NBA di TV</a>,
 jadi suka lupa baca berita terbaru <a href="http://www.nba.com" title="NBA">NBA</a>. Habisnya, kalau baca di internet, suka ngga sempat sih :P</p>

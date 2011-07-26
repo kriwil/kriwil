@@ -1,4 +1,4 @@
-## Rapidshare Ganti Wajah
+### Rapidshare Ganti Wajah
 
 [Rapidshare":http://rapidshare.com/), salah satu web penyedia file sharing yang populer, mengganti tampilannya dengan desain yang lebih modern dan sejuk.
 

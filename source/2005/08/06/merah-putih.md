@@ -1,4 +1,4 @@
-## Merah Putih
+### Merah Putih
 
 Ikut-ikut yang lain, ganti warna blog biar merah putih, dalam rangka memperingati hari Kemerdekaan Indonesia :)
 **MERDEKA!**

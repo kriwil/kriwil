@@ -1,4 +1,4 @@
-## Tab History, Add-on Firefox yang Penting
+### Tab History, Add-on Firefox yang Penting
 
 Sebenarnya saya bukan pemakai regular [firefox](http://getfirefox.com). saya lebih suka menggunakan [epiphany](http://www.gnome.org/projects/epiphany/) sebagai _browser_ utama semenjak menggunakan ubuntu.
 

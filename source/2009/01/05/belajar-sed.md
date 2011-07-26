@@ -1,4 +1,4 @@
-## Belajar SED
+### Belajar SED
 
 Mau belajar [SED](http://en.wikipedia.org/wiki/Sed)?
 

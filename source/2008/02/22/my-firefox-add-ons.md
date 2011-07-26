@@ -1,4 +1,4 @@
-## My Firefox Add-ons
+### My Firefox Add-ons
 
 Meneruskan [tulisan sebelumnya](http://kriwil.com/journal/tab-history-add-on-firefox-yang-penting), saya jadi mau berbagi add-on firefox yang saya gunakan. Sekalian buat catatan saya kalau nanti pakai windows (yang mana firefox menjadi browser utama). Ini daftarnya.
 

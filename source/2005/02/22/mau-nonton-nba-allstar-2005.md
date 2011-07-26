@@ -1,4 +1,4 @@
-## Mau nonton NBA Allstar 2005 ???
+### Mau nonton NBA Allstar 2005 ???
 
 Tadi (apa kemaren yah?) pagi gw seperti biasa memulai hari dengan membaca koran. Trus pas liat halaman olah raga, ada berita hasil pertandingan NBA Allstar Game, yang dimenangkan oleh kubu <i>East</i>, 125 - 115, melawan kubu <i>West</i>. Well, bukan hasilnya yang pengen gw bahas, tapi di mana gw bisa nonton pertandingan itu di TV??!!.
 

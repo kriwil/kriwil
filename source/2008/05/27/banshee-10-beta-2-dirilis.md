@@ -1,4 +1,4 @@
-## Banshee 1.0 Beta 2 Dirilis
+### Banshee 1.0 Beta 2 Dirilis
 
 Gue bukan pengguna tetap [Banshee](http://banshee-project.org/Main_Page). Euh, gue bahkan gak punya pemutar musik favorit di linux. Kadang gue bisa memasang [rhythmbox](http://www.gnome.org/projects/rhythmbox/), di lain waktu gue menggunakan [exaile](http://www.exaile.org/). Belum ada yang benar-benar pas.
 

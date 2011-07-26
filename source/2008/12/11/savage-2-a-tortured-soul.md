@@ -1,4 +1,4 @@
-## Savage 2: A Tortured Soul
+### Savage 2: A Tortured Soul
 
 [Savage 2: A Tortured Soul](http://savage2.s2games.com/main.php) KEREN! Pas pertama kali ke websitenya gue gak melihat screenshot sama sekali. Baca tulisan 100% FREE, trus langsung nyari link download. Satu hal yang membuat gue mau nyoba adalah karena bisa jalan di linux.
 

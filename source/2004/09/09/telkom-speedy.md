@@ -1,4 +1,4 @@
-## Telkom Speedy
+### Telkom Speedy
 
 Akhirnya, setelah perjuangan panjang yang memakan waktu hampir setahun, gw berhasil mendapatkan fasilitas ADSL dari Telkom. Tepatnya mulai tanggal 8 September 2004, sekitar jam 9 malam, gw berhasil online dengan <a href="http://www.telkomlink-dsl.net">Telkom Speedy</a>.
 Lalu, langsung dong gw melakukan speedtest, untuk membuktikan kecepatan dari ADSL. Gw nyoba di <a href="http://www.plasa.com/bandwidthmeter/">plasa</a> dan di <a href="http://www.mystarone.com/speedtest/">starone</a>, dan ternyata dapet 300++ Kpbs, waw !! :P

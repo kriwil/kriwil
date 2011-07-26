@@ -1,4 +1,4 @@
-## Demand DRM-Free Files!
+### Demand DRM-Free Files!
 
 [![](http://imgs.xkcd.com/comics/steal_this_comic.png)](http://xkcd.com/488/)
 

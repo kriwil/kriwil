@@ -1,4 +1,4 @@
-## Catatan: Wake On LAN (WOL)
+### Catatan: Wake On LAN (WOL)
 
 Buat catatan aja, soalnya suka lupa kalau abis install ulang komputer. Dan juga buat bagi-bagi ilmu kalau yang belum tau.
 

@@ -1,4 +1,4 @@
-## Tentang Akun Facebook
+### Tentang Akun Facebook
 
 Buat yang belum tau, dulu gue punya akun di [facebook](http://facebook.com) yang kemudian gue apus karena merasa facebook sudah tidak penting.
 

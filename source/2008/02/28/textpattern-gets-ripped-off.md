@@ -1,4 +1,4 @@
-## Textpattern Gets Ripped Off
+### Textpattern Gets Ripped Off
 
 [Textpattern Gets Ripped Off](http://textpattern.com/weblog/313/textpattern-gets-ripped-off).
 

@@ -1,4 +1,4 @@
-## Udah saatnya update tampilan Desktop?
+### Udah saatnya update tampilan Desktop?
 
 Ubuntu 10.04
 

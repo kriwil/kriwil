@@ -1,4 +1,4 @@
-## FPI Menyerang Massa Aliansi Kebangsaan
+### FPI Menyerang Massa Aliansi Kebangsaan
 
 Gue emang gak setuju sama Ahmadiyah. Tapi, tindakan FPI sekarang sudah semakin brutal. Kalau saat FPI menyerang tempat-tempat hiburan malam gue masih biasa aja, peduli gak peduli, tapi kalau sampai [menyerang orang](http://www.liputan6.com/ibukota/?id=160208) sudah benar-benar gak bisa ditolerir.
 

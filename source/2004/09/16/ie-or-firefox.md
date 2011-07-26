@@ -1,4 +1,4 @@
-## IE or Firefox?
+### IE or Firefox?
 
 Dari forum lokal di kampus,
 

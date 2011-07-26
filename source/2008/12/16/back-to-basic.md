@@ -1,4 +1,4 @@
-## Back to Basic
+### Back to Basic
 
 [Why You Should Get Back to Basics
 With Your Blog](http://www.copyblogger.com/back-to-basics-blogging/). Sangat. Setuju. Tulisan di blog gak selalu harus keren. Gak selalu harus penting. Gak selalu harus berguna. Gak selalu harus berisi. _Blogging is about personal touch_. Dan itu yang gue lakukan sekarang. Setidaknya di beberapa _post_ terakhir.

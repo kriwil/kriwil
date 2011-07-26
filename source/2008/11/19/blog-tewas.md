@@ -1,4 +1,4 @@
-## Blog Tewas?
+### Blog Tewas?
 
 Katanya blog (standar) telah mati. Gue sendiri merasakan keinginan ngeblog itu udah jauh berkurang dibanding jaman awal-awal dulu. Padahal kata Enda, kita hanya butuh [10 menit](http://enda.goblogmedia.com/menghilang.html) untuk ngeblog. Meluangkan waktu 10 menit itu gak susah. Yang susah itu memaksimalkan 10 menit itu menjadi sebuah tulisan.
 

@@ -1,4 +1,4 @@
-## Yahoo Profile
+### Yahoo Profile
 
 Ternyata Yahoo memperbaharui halaman [profile pengguna](http://profiles.yahoo.com). Halaman profile tiap pengguna yang beralamat di `http://profiles.yahoo.com/YAHOOID` sekarang jadi lebih, kalau menggunakan bahasa sekarang, web 2.0. Lebih bersih dan rapih.
 

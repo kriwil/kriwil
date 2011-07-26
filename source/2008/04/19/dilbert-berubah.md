@@ -1,4 +1,4 @@
-## Dilbert Berubah!
+### Dilbert Berubah!
 
 Pantesan 2 hari terakhir [Dilbert](http://dilbert.com) gak muncul di widget google personalized home page saya. Ternyata Dilbert hadir dengan tampilan baru. Sekarang [comic stripnya](http://dilbert.com/strips/) berwarna tiap hari. Dulu kan cuma seminggu sekali, pas hari Minggu aja (CMIIW). Oiya, sekarang ada [animation](http://dilbert.com/animation/) juga. Belum saya coba sih, error soalnya.
 

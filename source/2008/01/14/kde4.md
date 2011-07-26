@@ -1,4 +1,4 @@
-## KDE4!
+### KDE4!
 
 Akhirnya gue berkesempatan mencoba [KDE 4](http://kde.org/announcements/4.0/). Dengan mengikuti [petunjuk di situs kubuntu](http://kubuntu.org/announcements/kde-4.0.php), gue berhasil menjalankan KDE 4.0 dengan baik (yeah rite, cuma apt-get gitu loh). Kalau mau gue rangkum dalam satu kalimat tengan KDE 4.0 ini, "KDE 4.0 membawa desktop linux ke tingkat selanjutnya". _Awesome_ kalau kata orang bule.
 

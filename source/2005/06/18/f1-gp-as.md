@@ -1,4 +1,4 @@
-## F1: GP AS
+### F1: GP AS
 
 Akhir minggu ini, Grand Prix (GP) Formula 1 berlangsung di Amerika Serikat, tepatnya di [Indianapolis](http://www.usgpindy.com/). 
 

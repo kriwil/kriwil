@@ -1,4 +1,4 @@
-## Reddit Membuka Kodenya
+### Reddit Membuka Kodenya
 
 Wah, setelah beberapa waktu yang lalu Facebook membuka (sebagian) kodenya, kali ini [reddit](http://reddit.com) melepas kodenya [dengan lisensi open source](http://blog.reddit.com/2008/06/reddit-goes-open-source.html).
 

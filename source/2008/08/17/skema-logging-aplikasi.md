@@ -1,4 +1,4 @@
-## Skema Logging Aplikasi?
+### Skema Logging Aplikasi?
 
 Ada pertanyaan menarik yang ditanyakan di slashdot, [Software Logging Schemes?](http://tech.slashdot.org/article.pl?sid=08/08/16/1851243). Skema _logging_ aplikasi? Adakah skema sempurna untuk melakukan pencatatan proses yang terjadi di aplikasi? 
 

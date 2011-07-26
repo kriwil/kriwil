@@ -1,4 +1,4 @@
-## Kusut
+### Kusut
 
 Huwaa ... kusut kepala sayah mikirin desain buat blog ini ^^; Mau pakai punya orang yang udah jadi kok males, tapi bikin sendiri sama malesnya :D
 

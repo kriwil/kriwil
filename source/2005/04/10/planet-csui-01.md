@@ -1,4 +1,4 @@
-## Planet CSUI 01
+### Planet CSUI 01
 
 Iseng-iseng bikin [planet](http://planetplanet.org), *feed aggregator*, buat <abbr title="Fakultas Ilmu Komputer">Fasilkom</abbr> 01. Idenya sih gara-gara ngeliat [planet-nya 2002](http://planet.csui02.net). Alamatnya ada di <del>[http://csui01.kriwil.com](http://csui01.kriwil.com)</del>
 [http://planet.csui01.net](http://planet.csui01.net)

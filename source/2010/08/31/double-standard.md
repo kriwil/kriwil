@@ -1,4 +1,4 @@
-## Double Standard?
+### Double Standard?
 
 	switch($type) {
 		case 'default':

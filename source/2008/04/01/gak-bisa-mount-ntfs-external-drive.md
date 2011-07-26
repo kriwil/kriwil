@@ -1,4 +1,4 @@
-## Gak Bisa Mount NTFS External Drive
+### Gak Bisa Mount NTFS External Drive
 
 Pernah gak bisa mount hard disk external yang menggunakan NTFS di linux? Biasanya terjadi karena pas di windows kita gak umount/disconnect/unplug drive itu terlebih dahulu sebelum mematikan/restart komputer.
 

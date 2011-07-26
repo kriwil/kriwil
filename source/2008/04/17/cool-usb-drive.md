@@ -1,4 +1,4 @@
-## Cool USB Drive
+### Cool USB Drive
 
 [USB Flash Drive Keren](http://www.evilmadscientist.com/article.php/usbkey). Bikin yuk. Ada yang punya flash drive nganggur?
 

@@ -1,4 +1,4 @@
-## Mencoba Yahoo! Mail Beta
+### Mencoba Yahoo! Mail Beta
 
 Gue baru tau, ternyata [Yahoo! Mail](http://mail.yahoo.com) mau ganti tampilan yah? :D Baru tau tadi, pas mau ngecek email setelah dapet pemberitahuan dari [Yahoo! Messenger](http://messenger.yahoo.com/) ada email baru yang sampai ke inbox gue. Gue "diajak" untuk menggunakan [Yahoo! Mail Beta](http://help.yahoo.com/help/us/mail/ymail/index.html). Komentar gue pas pertama kali nyoba? [AJAX](http://en.wikipedia.org/wiki/AJAX)! :D
 

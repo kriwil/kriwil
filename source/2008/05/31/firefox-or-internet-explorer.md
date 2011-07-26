@@ -1,4 +1,4 @@
-## Firefox or Internet Explorer?
+### Firefox or Internet Explorer?
 
 Video tentang preferensi orang, [Firefox or Internet Explorer?](http://au.youtube.com/watch?v=7oIot3Qxu_U). Kebanyakan orang yang menggunakan IE karena hanya itu yang ada, atau sudah terbiasa.
 

@@ -1,4 +1,4 @@
-## Berita Duka Cita
+### Berita Duka Cita
 
 **Telah meninggal dunia Daliu Aga Gunawan, mahasiswa angkatan 2002 Fasilkom UI. Semoga arwahnya diterima di sisi Tuhan Yang Maha Esa.**
 

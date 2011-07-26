@@ -1,4 +1,4 @@
-## database's disconnected
+### database's disconnected
 
 If you need to disconnect the database every time you do update, and you didn't even give any notification, then sir, you and your system suck.
 

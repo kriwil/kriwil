@@ -1,4 +1,4 @@
-## Feed
+### Feed
 
 What's worse than a website that has no [feed](http://en.wikipedia.org/wiki/Web_feed)? A website using summary feed. Full content feed, or no feed at all. Please. 
 

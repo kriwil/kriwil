@@ -1,4 +1,4 @@
-## Mari Membuat Rekor untuk Firefox
+### Mari Membuat Rekor untuk Firefox
 
 Komunitas Firefox [berencana](http://blog.mozilla.com/blog/2008/05/28/set-a-firefox-world-record/) untuk mencatatkan diri di Guinness World Record untuk rekor _software_ paling banyak didownload dalam waktu 24 jam.
 

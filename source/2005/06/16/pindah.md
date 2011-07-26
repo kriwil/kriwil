@@ -1,4 +1,4 @@
-## Pindah!
+### Pindah!
 
 [WordPress]: http://wordpress.org
 
