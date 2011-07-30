@@ -2,6 +2,7 @@
 @dark-1: #464646;
 @dark-2: #686868;
 @light-0: #dfdfdf;
+@light-1: #bdbdbd;
 
 .v-gradient(@from, @to) {
     background-color: @from;
@@ -120,6 +121,10 @@ h1 {
         }
     }
 
+    p, ul, ol {
+        margin: 0 0 14px 0;
+    }
+
     h3 {
         font-size: 20px;
         line-height: 200%;
@@ -131,6 +136,13 @@ h1 {
 
 .post {
     margin: 0 0 60px 0;
+
+    .date {
+        background-color: #fff;
+        color: @light-1;
+        font-size: 13px;
+        float: right;
+    }
 }
 
 .information {
@@ -140,6 +152,10 @@ h1 {
     font-size: 13px;
     padding: 40px 60px;
     text-shadow: 1px 1px 3px #000;
+
+    p, ul {
+        margin-bottom: 13px;
+    }
 
     strong {
         font-weight: bold;
@@ -163,10 +179,6 @@ h1 {
 
     .social {
         float: right;
-
-        p, ul {
-            margin-bottom: 13px;
-        }
 
         li {
             display: inline;

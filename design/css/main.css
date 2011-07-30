@@ -104,6 +104,9 @@ h1 a:hover {
 .content a:hover {
   border: 0;
 }
+.content p, .content ul, .content ol {
+  margin: 0 0 14px 0;
+}
 .content h3 {
   font-size: 20px;
   line-height: 200%;
@@ -114,6 +117,12 @@ h1 a:hover {
 .post {
   margin: 0 0 60px 0;
 }
+.post .date {
+  background-color: #fff;
+  color: #bdbdbd;
+  font-size: 13px;
+  float: right;
+}
 .information {
   background-color: #242424;
   box-shadow: inset 0 0 10px #000;
@@ -121,6 +130,9 @@ h1 a:hover {
   font-size: 13px;
   padding: 40px 60px;
   text-shadow: 1px 1px 3px #000;
+}
+.information p, .information ul {
+  margin-bottom: 13px;
 }
 .information strong {
   font-weight: bold;
@@ -139,9 +151,6 @@ h1 a:hover {
 }
 .information .social {
   float: right;
-}
-.information .social p, .information .social ul {
-  margin-bottom: 13px;
 }
 .information .social li {
   display: inline;
