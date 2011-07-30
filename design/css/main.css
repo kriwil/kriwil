@@ -123,6 +123,19 @@ h1 a:hover {
   font-size: 13px;
   float: right;
 }
+.archive-year a {
+  color: #242424;
+}
+.archive-year li {
+  display: inline;
+}
+.archive-year li.active a {
+  font-weight: bold;
+  border: 0;
+}
+.archive-post a {
+  color: #242424;
+}
 .information {
   background-color: #242424;
   box-shadow: inset 0 0 10px #000;
