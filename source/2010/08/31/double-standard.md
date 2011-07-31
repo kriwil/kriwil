@@ -1,17 +1,17 @@
 ### Double Standard?
 
-	switch($type) {
-		case 'default':
-			//
-			// some routines
-			//
-			break;
-		default:
-			//
-			// some routines
-			//
-			break;
-	}
+    switch($type) {
+        case 'default':
+            //
+            // some routines
+            //
+            break;
+        default:
+            //
+            // some routines
+            //
+            break;
+    }
 
 One default is not enough.
 
