@@ -1,4 +1,4 @@
-### Yahoo Mash, selamat tinggal 360°
+### Yahoo Mash, selamat tinggal 360&deg;
 
 ![Yahoo Mash Beta](http://kriwil.com/images/2.png "Mash")
 
@@ -22,4 +22,4 @@ Sementara itu, yang ingin menikmati skrinsyutnya, ini ada sedikit:
 <a href="http://www.flickr.com/photos/kriwil/1394381670/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1321/1394381670_a253ec2ad3_s.jpg" width="75" height="75" alt="mash: friends" /></a>
 <a href="http://www.flickr.com/photos/kriwil/1394381666/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1063/1394381666_2c9e76d5fc_s.jpg" width="75" height="75" alt="mash: explore" /></a>
 
-<!-- METADATA: {"time": "2007-09-16 19:19:31", "title": "Yahoo Mash, selamat tinggal 360\u00b0"} -->
+<!-- METADATA: {"time": "2007-09-16 19:19:31", "title": "Yahoo Mash, selamat tinggal 360&deg;"} -->
