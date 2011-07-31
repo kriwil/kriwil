@@ -121,8 +121,18 @@ h1 {
         }
     }
 
-    p, ul, ol {
+    p, ul, ol, pre, blockquote {
         margin: 0 0 14px 0;
+    }
+
+    pre {
+        font-family: monospace;
+    }
+
+    blockquote {
+        border-left: 10px solid @light-0;
+        color: @dark-1;
+        padding-left: 10px;
     }
 
     h3 {
@@ -219,7 +229,6 @@ h1 {
 }
 
 .footer {
-    background-color: #000;
     color: @dark-2;
     font-size: 12px;
     line-height: 200%;
