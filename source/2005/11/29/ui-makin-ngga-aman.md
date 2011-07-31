@@ -12,4 +12,4 @@ link:
 - [Pelecehan Seksual di Hutan UI, Korban Masih Trauma](http://www.kompas.com/kesehatan/news/0511/22/072838.htm)
 - [Lagi, Mahasiswa UI Nyaris Diperkosa](http://kompas.com/metro/news/0511/29/085856.htm)
 
-<!-- {"time": "2005-11-29 18:56:30", "title": "UI Makin Ngga Aman"} -->
+<!-- METADATA: {"time": "2005-11-29 18:56:30", "title": "UI Makin Ngga Aman"} -->

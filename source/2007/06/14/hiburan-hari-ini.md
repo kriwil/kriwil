@@ -9,4 +9,4 @@ Hehehehehe, judulnya aja udah gimana gitu. Dan komentar dari para diggers benar-
 Note:
 Di digg ada sistem penilaian komentar. Kita bisa menilai komentar-komentar yang ada. Dan komentar-komentar itu harus mencapai nilai minimal tertentu untuk bisa terlihat langsung. Kalau tidak, kita harus klik secara manual untuk melihatnya.
 
-<!-- {"time": "2007-06-14 23:42:24", "title": "Hiburan Hari Ini"} -->
+<!-- METADATA: {"time": "2007-06-14 23:42:24", "title": "Hiburan Hari Ini"} -->

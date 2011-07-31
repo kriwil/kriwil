@@ -13,4 +13,4 @@ Umm, banyak yang terjadi selama gw ngga nge-post di sini, mungkin bakal gw cerit
 
 Eniwei, welcome back deh bwt gw sendiri ^^
 
-<!-- {"time": "2005-02-18 19:19:39", "title": "Ha! Masih ada yah? :P"} -->
+<!-- METADATA: {"time": "2005-02-18 19:19:39", "title": "Ha! Masih ada yah? :P"} -->

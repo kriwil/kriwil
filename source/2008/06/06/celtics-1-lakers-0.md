@@ -6,4 +6,4 @@ Gue gak nonton, jadi gak bisa mengulas apa pun dari pertandingannya. Tapi meliha
 
 Pertandingan kedua Lakers harus menang!
 
-<!-- {"time": "2008-06-06 11:23:45", "title": "Celtics 1 - Lakers 0"} -->
+<!-- METADATA: {"time": "2008-06-06 11:23:45", "title": "Celtics 1 - Lakers 0"} -->

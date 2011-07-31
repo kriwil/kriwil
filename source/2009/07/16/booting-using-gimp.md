@@ -4,4 +4,4 @@
 
 [Centerarticles](http://www.centerarticles.com/how-do-i-uninstall-ubuntu-while-windows-is-installed-within-it/). I'll be glad to know how image editor could boot OS.
 
-<!-- {"time": "2009-07-16 17:14:29", "title": "booting using gimp?"} -->
+<!-- METADATA: {"time": "2009-07-16 17:14:29", "title": "booting using gimp?"} -->

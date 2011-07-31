@@ -25,4 +25,4 @@ Dan, selalu belum lengkap tanpa _skrinsyut_ ...
 
 [![hackintosh - 01](http://dl.getdropbox.com/u/112837/kriwil.com/image/hackintosh01-t.png)](http://dl.getdropbox.com/u/112837/kriwil.com/image/hackintosh01.png)[![hackintosh - 02](http://dl.getdropbox.com/u/112837/kriwil.com/image/hackintosh02-t.png)](http://dl.getdropbox.com/u/112837/kriwil.com/image/hackintosh02.png)[![hackintosh - 03](http://dl.getdropbox.com/u/112837/kriwil.com/image/hackintosh03-t.png)](http://dl.getdropbox.com/u/112837/kriwil.com/image/hackintosh03.png)[![hackintosh - 04](http://dl.getdropbox.com/u/112837/kriwil.com/image/hackintosh04-t.png)](http://dl.getdropbox.com/u/112837/kriwil.com/image/hackintosh04.png)
 
-<!-- {"time": "2008-12-25 12:00:01", "title": "Install Hackintosh"} -->
+<!-- METADATA: {"time": "2008-12-25 12:00:01", "title": "Install Hackintosh"} -->

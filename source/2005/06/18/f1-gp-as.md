@@ -7,4 +7,4 @@ Pada [latihan bebas pertama Jumat](http://www.formula1.com/race/result/740/9.htm
 
 Di [latihan bebas kedua Jumat](http://www.formula1.com/race/result/740/10.html) pembalap McLaren-Mercedes kembali merebut posisi atas. Kali ini JPM dan Kimi R
 
-<!-- {"time": "2005-06-18 08:11:19", "title": "F1: GP AS"} -->
+<!-- METADATA: {"time": "2005-06-18 08:11:19", "title": "F1: GP AS"} -->

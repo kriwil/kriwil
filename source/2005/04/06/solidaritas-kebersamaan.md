@@ -8,4 +8,4 @@ Dengan mengangkat tema kepedulian terhadap pendidikan anak-anak Indonesia, dan m
 
 Untuk lebih jelasnya, dapat dilihat di situs [Yayasan Tunas Cendekia](http://tunascendekia.org).
 
-<!-- {"time": "2005-04-06 03:36:11", "title": "Solidaritas Kebersamaan"} -->
+<!-- METADATA: {"time": "2005-04-06 03:36:11", "title": "Solidaritas Kebersamaan"} -->

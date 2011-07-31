@@ -4,4 +4,4 @@ Orang Indonesia itu kaya-kaya. Lihat aja di <a href="http://www.engadget.com/200
 
 Sebentar lagi bakalan ada ribut-ribut di DPR. Pasti mereka pada minta dana buat ganti 9500-nya ke E90. Duh.
 
-<!-- {"time": "2007-06-14 00:30:28", "title": "Peluncuran E90 di Jakarta"} -->
+<!-- METADATA: {"time": "2007-06-14 00:30:28", "title": "Peluncuran E90 di Jakarta"} -->

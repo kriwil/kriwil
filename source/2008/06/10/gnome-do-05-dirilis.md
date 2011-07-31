@@ -4,4 +4,4 @@
 
 [Gnome Do](http://do.davebsd.com/) adalah aplikasi peluncur (launcher) yang terinspirasi oleh [Quicksliver](http://docs.blacktree.com/quicksilver/what_is_quicksilver) dan [GNOME Launch Box](http://do.davebsd.com/).
 
-<!-- {"time": "2008-06-10 19:56:30", "title": "Gnome Do 0.5 Dirilis"} -->
+<!-- METADATA: {"time": "2008-06-10 19:56:30", "title": "Gnome Do 0.5 Dirilis"} -->

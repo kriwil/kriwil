@@ -7,4 +7,4 @@ Ubuntu 10.04
 
 _full resolution image is about 1012KB_
 
-<!-- {"time": "2010-08-22 06:06:18", "title": "Udah saatnya update tampilan Desktop?"} -->
+<!-- METADATA: {"time": "2010-08-22 06:06:18", "title": "Udah saatnya update tampilan Desktop?"} -->

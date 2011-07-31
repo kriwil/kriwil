@@ -6,4 +6,4 @@ Beberapa hari yang lalu kapal perang dari kedua negara sempat berhadapan langsun
 
 Saat ini, kedua belah pihak sedang mengusahakan jalur diplomasi. Kita lihat aja beberapa hari ke depan, bagaimana kelanjutannya. Saya sendiri tetap berharap jalur diplomasi. Tentunya masih jelas terbayang dalam kepala kita, bagaimana kasus Sipadan dan Ligitan yang dimenangkan oleh Malaysia. Kita berharap, semoga kasus serupa tidak terjadi lagi.
 
-<!-- {"time": "2005-03-07 13:05:50", "title": "*injek-injek Malaysia*"} -->
+<!-- METADATA: {"time": "2005-03-07 13:05:50", "title": "*injek-injek Malaysia*"} -->

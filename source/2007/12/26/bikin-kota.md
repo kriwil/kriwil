@@ -4,4 +4,4 @@ Dapet dari [Pak Andika](http://andika-lives-here.blogspot.com/2007/12/web-based-
 
 Sementara itu, gak ada salahnya kan berkunjung ke [kota KRIWIL](http://kriwil.myminicity.com)? :P
 
-<!-- {"time": "2007-12-26 23:31:30", "title": "Bikin Kota"} -->
+<!-- METADATA: {"time": "2007-12-26 23:31:30", "title": "Bikin Kota"} -->

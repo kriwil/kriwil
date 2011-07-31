@@ -23,4 +23,4 @@ _(beberapa detik setelah update di atas)_
 ternyata gak ilang ding ... gila gue panik soalnya, jadi ngga kelihatan ...  
 Duh lagian sih, udah tau bikin kesalahan, bukannya diliat dulu, malah buka control panel blog :P
 
-<!-- {"time": "2007-08-20 01:14:00", "title": "Bengong"} -->
+<!-- METADATA: {"time": "2007-08-20 01:14:00", "title": "Bengong"} -->

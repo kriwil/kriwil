@@ -4,4 +4,4 @@ Ternyata Yahoo memperbaharui halaman [profile pengguna](http://profiles.yahoo.co
 
 Tampaknya yahoo profile ini menerapkan konsep [social networking](http://en.wikipedia.org/wiki/Social_networking). Daftar kontak di _address book_ menjadi acuan untuk koneksi kita.
 
-<!-- {"time": "2008-10-18 18:48:09", "title": "Yahoo Profile"} -->
+<!-- METADATA: {"time": "2008-10-18 18:48:09", "title": "Yahoo Profile"} -->

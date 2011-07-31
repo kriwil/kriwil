@@ -6,4 +6,4 @@ Dengan membuka kode sumbernya, gue rasa reddit berada di depan [digg](http://dig
 
 Bisa juga kode tersebut disalahgunakan untuk mengangkat berita yang dimasukkan. Pasti akan banyak usaha ke arah sana :D
 
-<!-- {"time": "2008-06-18 08:50:09", "title": "Reddit Membuka Kodenya"} -->
+<!-- METADATA: {"time": "2008-06-18 08:50:09", "title": "Reddit Membuka Kodenya"} -->

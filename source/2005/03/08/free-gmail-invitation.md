@@ -6,4 +6,4 @@ Kelebihannya, punya account di gmail itu, keren, gaul, dan norak!&trade; :P Oiya
 
 Kalo terarik, bisa kasih komentar di post ini beserta alamat email untuk dikirim undangan, atau kirim email ke kriwil at gmail com :)
 
-<!-- {"time": "2005-03-08 21:56:48", "title": "Free Gmail Invitation"} -->
+<!-- METADATA: {"time": "2005-03-08 21:56:48", "title": "Free Gmail Invitation"} -->

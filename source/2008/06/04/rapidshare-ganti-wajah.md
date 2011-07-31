@@ -10,4 +10,4 @@ Begitu juga bagian download file, sekarang tampilannya jauh lebih bersih, dengan
 
 Tadi pas nyoba masih happy hour, jadi belum tau captcha-nya bakal seperti apa.
 
-<!-- {"time": "2008-06-04 18:13:46", "title": "Rapidshare Ganti Wajah"} -->
+<!-- METADATA: {"time": "2008-06-04 18:13:46", "title": "Rapidshare Ganti Wajah"} -->

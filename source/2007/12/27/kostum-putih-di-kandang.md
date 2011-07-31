@@ -4,4 +4,4 @@ Sejak kapan tradisi klub NBA yang menggunakan kostum putih di kandang hilang? Pa
 
 Beginilah kalau sudah tidak mengikuti perkembangan NBA secara regular, jadi gak tau berita terbaru ...
 
-<!-- {"time": "2007-12-27 21:47:46", "title": "Kostum Putih di Kandang"} -->
+<!-- METADATA: {"time": "2007-12-27 21:47:46", "title": "Kostum Putih di Kandang"} -->

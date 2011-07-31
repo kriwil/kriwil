@@ -24,4 +24,4 @@ Dari kelima buku itu, yang udah selesai dibaca baru dua buku Chloe, sama buku ha
 
 Yang gue suka justru Chloe Cewek Detektif. Alurnya mungkin _simple_ banget. Ringan pula. Kalau udah sering baca buku detektif/misteri, pasti hampir bisa menebak deh. Tapi itu justru kelebihannya. Ngga capek bacanya. Lagian, penggunaan bahasanya bagus. Ngga kaku. Kalau ngeliat dari sampul belakangnya, total ada tujuh buku, tapi kemarin gue cuma ngeliat dua. Gue kayaknya bakal cari lima sisanya deh.
 
-<!-- {"time": "2007-10-02 07:26:48", "title": "Weekend Kemarin"} -->
+<!-- METADATA: {"time": "2007-10-02 07:26:48", "title": "Weekend Kemarin"} -->

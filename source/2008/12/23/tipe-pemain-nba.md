@@ -6,4 +6,4 @@ _Eh bentar, sebenarnya agak janggal gue manggil abang ke LeBron James. Soalnya d
 
 (via [kottke](http://www.kottke.org/08/12/an-nba-player-classification))
 
-<!-- {"time": "2008-12-23 19:25:03", "title": "Tipe Pemain NBA"} -->
+<!-- METADATA: {"time": "2008-12-23 19:25:03", "title": "Tipe Pemain NBA"} -->

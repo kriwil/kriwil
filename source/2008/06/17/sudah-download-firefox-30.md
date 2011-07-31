@@ -7,4 +7,4 @@ Gue sudah :D
 
 ![](http://kriwil.com/images/18.png)
 
-<!-- {"time": "2008-06-17 21:11:37", "title": "Sudah Download Firefox 3.0?"} -->
+<!-- METADATA: {"time": "2008-06-17 21:11:37", "title": "Sudah Download Firefox 3.0?"} -->

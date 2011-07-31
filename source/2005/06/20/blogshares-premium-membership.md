@@ -9,4 +9,4 @@ Akhirnya, setelah mendapatkan pinjaman 6000 chips dari [Rama](http://ramskie.blo
 [Blogshares]: http://blogshares.com/?referer=28257
 [member premium]: http://blogshares.com/premium.php
 
-<!-- {"time": "2005-06-20 07:48:57", "title": "Blogshares Premium Membership"} -->
+<!-- METADATA: {"time": "2005-06-20 07:48:57", "title": "Blogshares Premium Membership"} -->

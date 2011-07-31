@@ -7,4 +7,4 @@ _Yang ini gue masih buta sama sekali, sekedar ditulis biar pas butuh gampang nya
 * [Bagian satu](http://www.catonmat.net/blog/sed-one-liners-explained-part-one/)
 * [Bagian dua](http://www.catonmat.net/blog/sed-one-liners-explained-part-two/)
 
-<!-- {"time": "2009-01-05 12:00:01", "title": "Belajar SED"} -->
+<!-- METADATA: {"time": "2009-01-05 12:00:01", "title": "Belajar SED"} -->

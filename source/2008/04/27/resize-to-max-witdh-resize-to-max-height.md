@@ -8,4 +8,4 @@ Ternyata kita bisa mengubah ukuran window aplikasi ke tinggi maksimal (max heigh
 
 Duh kemana aja ya gue, mungkin ada di dokumentasinya atau di mana gitu, tapi emang males baca aja.
 
-<!-- {"time": "2008-04-27 17:45:05", "title": "Resize to Max Width / Resize to Max Height"} -->
+<!-- METADATA: {"time": "2008-04-27 17:45:05", "title": "Resize to Max Width / Resize to Max Height"} -->

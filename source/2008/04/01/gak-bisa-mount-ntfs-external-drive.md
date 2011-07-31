@@ -12,4 +12,4 @@ Misal kalau device external kita ada di `/dev/sdb1`,
 
 Semoga bisa membantu.
 
-<!-- {"time": "2008-04-01 16:27:43", "title": "Gak Bisa Mount NTFS External Drive"} -->
+<!-- METADATA: {"time": "2008-04-01 16:27:43", "title": "Gak Bisa Mount NTFS External Drive"} -->

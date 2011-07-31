@@ -36,4 +36,4 @@ Untuk masalah singkronisasi hp, gue lakukan saat boot ke windows ditambah gue me
 
 _Euh, gue rasa udah kepanjangan dan semakin tidak jelas arahnya. Sebaiknya disudahi saja tulisan ini ..._
 
-<!-- {"time": "2008-12-26 12:00:01", "title": "OSX - Windows - Ubuntu Linux"} -->
+<!-- METADATA: {"time": "2008-12-26 12:00:01", "title": "OSX - Windows - Ubuntu Linux"} -->

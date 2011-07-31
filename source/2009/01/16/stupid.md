@@ -8,4 +8,4 @@ Anyway, that paragraph has nothing to do with this entry's content.
 
 [permalink](http://games.slashdot.org/comments.pl?sid=1094205&cid=26480503). It made my day. Always.
 
-<!-- {"time": "2009-01-16 12:00:01", "title": "Stupid?"} -->
+<!-- METADATA: {"time": "2009-01-16 12:00:01", "title": "Stupid?"} -->

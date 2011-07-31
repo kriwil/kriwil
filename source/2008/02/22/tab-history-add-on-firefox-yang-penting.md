@@ -6,4 +6,4 @@ Tadi saya iseng kembali menggunakan firefox. Beberapa menit pertama saya sudah m
 
 Mungkin kedengarannya tidak terlalu penting, tapi itu salah satu kelebihan epiphany yang sangat saya perlukan. Tapi, kita ngomongin firefox, yang punya [add-ons segudang](https://addons.mozilla.org/en-US/firefox/). Tentu saja ada add-on bernama [Tab History](https://addons.mozilla.org/en-US/firefox/addon/1859) yang melakukan persis seperti yang saya bilang di atas. Dan _Tab History_ tersebut menjadi add-on penting dalam firefox gue.
 
-<!-- {"time": "2008-02-22 09:25:07", "title": "Tab History, Add-on Firefox yang Penting"} -->
+<!-- METADATA: {"time": "2008-02-22 09:25:07", "title": "Tab History, Add-on Firefox yang Penting"} -->

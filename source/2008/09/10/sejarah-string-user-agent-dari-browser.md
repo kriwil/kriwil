@@ -4,4 +4,4 @@
 
 Semua browser bersaudara :D
 
-<!-- {"time": "2008-09-10 23:01:39", "title": "Sejarah String User-agent dari Browser"} -->
+<!-- METADATA: {"time": "2008-09-10 23:01:39", "title": "Sejarah String User-agent dari Browser"} -->

@@ -9,4 +9,4 @@ Udah gw pake 1, sekarang tinggal 5.
 Nah, ada yang belum punya gmail account dan mau punya ngga?
 kalo mau gw invite, silahkan berikan alamat email bwt gw invite :)
 
-<!-- {"time": "2004-09-06 23:26:59", "title": "Gmail invitation"} -->
+<!-- METADATA: {"time": "2004-09-06 23:26:59", "title": "Gmail invitation"} -->

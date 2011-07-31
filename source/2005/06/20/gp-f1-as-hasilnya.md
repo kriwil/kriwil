@@ -14,4 +14,4 @@ Sejujurnya, saya sangat kecewa dengan hasil balapan di GP AS ini. Walaupun saya 
 
 Ya, mudah-mudahan hal seperti ini tidak terjadi lagi di GP-GP yang akan datang :)
 
-<!-- {"time": "2005-06-20 07:15:25", "title": "GP F1 AS: hasilnya ..."} -->
+<!-- METADATA: {"time": "2005-06-20 07:15:25", "title": "GP F1 AS: hasilnya ..."} -->

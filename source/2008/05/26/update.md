@@ -9,4 +9,4 @@ Yak, update setelah 2 minggu dari tulisan terakhir. Itu juga tulisan gak berisi.
 
 Jadi, sebenarnya sih gak ada update yang penting :D
 
-<!-- {"time": "2008-05-26 10:46:52", "title": "Update!"} -->
+<!-- METADATA: {"time": "2008-05-26 10:46:52", "title": "Update!"} -->

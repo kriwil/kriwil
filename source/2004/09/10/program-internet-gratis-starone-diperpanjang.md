@@ -6,4 +6,4 @@ tadi gw dapet sms dari starone,
 
 hehehe, lumayan, jadi gw masih punya kesempatan buat ngetest apakah ADSL gw cukup atau engga, tanpa mengeluarkan biaya buat StarOne gw yang lagi gw ngga pake ^^.
 
-<!-- {"time": "2004-09-10 12:09:53", "title": "Program internet gratis StarOne diperpanjang"} -->
+<!-- METADATA: {"time": "2004-09-10 12:09:53", "title": "Program internet gratis StarOne diperpanjang"} -->

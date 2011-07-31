@@ -4,4 +4,4 @@ Canonical merilis [Ubuntu Netbook Remix](http://www.ubuntu.com/news/netbook-remi
 
 ([via Engadget](http://www.engadget.com/2008/06/03/canonical-makes-ubuntu-netbook-remix-official-at-computex/))
 
-<!-- {"time": "2008-06-03 20:44:12", "title": "Ubuntu Netbook Remix"} -->
+<!-- METADATA: {"time": "2008-06-03 20:44:12", "title": "Ubuntu Netbook Remix"} -->

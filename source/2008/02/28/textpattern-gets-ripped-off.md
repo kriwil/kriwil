@@ -7,4 +7,4 @@ Legal (if they provide the source to their clients under GPL), but positively sh
 
 Sayang halaman fitur dan screenshot-nya udah 404.
 
-<!-- {"time": "2008-02-28 21:58:43", "title": "Textpattern Gets Ripped Off"} -->
+<!-- METADATA: {"time": "2008-02-28 21:58:43", "title": "Textpattern Gets Ripped Off"} -->

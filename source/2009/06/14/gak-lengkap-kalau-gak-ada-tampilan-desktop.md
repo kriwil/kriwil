@@ -4,4 +4,4 @@
 
 _Screenshot_ desktop adalah posting wajib. Gue _udah_ gak tau mau _ngapain_ lagi di dunia per-blog-an ini. _Prepare for the worst_.
 
-<!-- {"time": "2009-06-14 00:05:51", "title": "Gak Lengkap Kalau Gak Ada Tampilan Desktop"} -->
+<!-- METADATA: {"time": "2009-06-14 00:05:51", "title": "Gak Lengkap Kalau Gak Ada Tampilan Desktop"} -->

@@ -4,4 +4,4 @@ Ternyata masih susah cari tutorial CI + Ajax JQuery yang bagus dan benar. Akhirn
 
 _eh kalau gini masuk [shameless plug](http://www.urbandictionary.com/define.php?term=Shameless+Plug) gak sih? kan punya gue juga ^^_
 
-<!-- {"time": "2008-05-27 17:05:50", "title": "Tutorial CodeIgniter dan Ajax dengan JQuery"} -->
+<!-- METADATA: {"time": "2008-05-27 17:05:50", "title": "Tutorial CodeIgniter dan Ajax dengan JQuery"} -->

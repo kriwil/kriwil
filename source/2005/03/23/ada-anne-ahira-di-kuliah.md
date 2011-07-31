@@ -6,4 +6,4 @@ Pada awal kuliah, sebenarnya saya lebih tertarik membahas kegiatan-kegiatan yang
 
 Yah, tapi untung tadi ada yang <i>post</i> <a href="http://priyadi.net/archives/2004/09/10/anne-ahira-bukanlah-pahlawan/">salah satu tulisan Priyadi tentang Anne Ahira</a> di forum, jadi diskusi bisa dilanjutnya ^^
 
-<!-- {"time": "2005-03-23 12:31:19", "title": "Ada Anne Ahira di Kuliah"} -->
+<!-- METADATA: {"time": "2005-03-23 12:31:19", "title": "Ada Anne Ahira di Kuliah"} -->

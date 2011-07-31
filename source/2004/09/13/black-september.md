@@ -15,4 +15,4 @@ Mengutip pernyataan beberapa orang,
 Theme hitam ini terinspirasi oleh blog-nya <a href="http://secandri.com/blog/2004/09/09/black-september/">Idban Secandri</a>
 Sekali lagi, turut berduka cita yang sedalam-dalamnya.
 
-<!-- {"time": "2004-09-13 19:17:20", "title": "Black September"} -->
+<!-- METADATA: {"time": "2004-09-13 19:17:20", "title": "Black September"} -->

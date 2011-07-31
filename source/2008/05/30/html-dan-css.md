@@ -4,4 +4,4 @@
 
 -- [http://bash.org/?861294](http://bash.org/?861294)
 
-<!-- {"time": "2008-05-30 17:33:21", "title": "HTML dan CSS"} -->
+<!-- METADATA: {"time": "2008-05-30 17:33:21", "title": "HTML dan CSS"} -->

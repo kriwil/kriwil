@@ -33,4 +33,4 @@ itu baru kayaknya loh :P
 Buat Mas [Geblek&trade;](http://jokosupriyanto.com), akhirnya saya pindah juga.
 Jadi gampang deh kalau mau diskusi tentang [WordPress][]  ;)
 
-<!-- {"time": "2005-06-16 08:51:04", "title": "Pindah!"} -->
+<!-- METADATA: {"time": "2005-06-16 08:51:04", "title": "Pindah!"} -->

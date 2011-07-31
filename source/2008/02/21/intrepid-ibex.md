@@ -4,4 +4,4 @@ Mark Shuttleworth, bapak Ubuntu, [mengumumkan nama Ubuntu untuk rilis setelah Ha
 
 Ibex, menurut [wikipedia":http://en.wikipedia.org/wiki/Ibex), adalah kambing gunung dengan tanduk besar. Kalau mau liat gambarnya, ada tuh di halaman wikipedianya.
 
-<!-- {"time": "2008-02-21 03:13:55", "title": "Intrepid Ibex"} -->
+<!-- METADATA: {"time": "2008-02-21 03:13:55", "title": "Intrepid Ibex"} -->

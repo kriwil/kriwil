@@ -6,4 +6,4 @@ Final NBA menggunakan sistem _best of seven_, yang mana pertandingan maksimal ad
 
 (via [Odenized @ twitter](http://twitter.com/Odenized/statuses/826944759))
 
-<!-- {"time": "2008-06-04 19:18:18", "title": "Tiket Final NBA Seharga 54055"} -->
+<!-- METADATA: {"time": "2008-06-04 19:18:18", "title": "Tiket Final NBA Seharga 54055"} -->

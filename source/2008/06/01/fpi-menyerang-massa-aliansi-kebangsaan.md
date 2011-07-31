@@ -4,4 +4,4 @@ Gue emang gak setuju sama Ahmadiyah. Tapi, tindakan FPI sekarang sudah semakin b
 
 Buat gue, FPI dan Ahmadiyah sama aja. Setidaknya Ahmadiyah gak pernah main fisik.
 
-<!-- {"time": "2008-06-01 08:13:34", "title": "FPI Menyerang Massa Aliansi Kebangsaan"} -->
+<!-- METADATA: {"time": "2008-06-01 08:13:34", "title": "FPI Menyerang Massa Aliansi Kebangsaan"} -->

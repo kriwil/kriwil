@@ -22,4 +22,4 @@ Mengumpulkan link-link yang menurut kita menarik.
 
 Kira-kira, *plugin* apa lagi ya yang menarik? ada saran?
 
-<!-- {"time": "2005-06-16 09:41:38", "title": "Plugin WordPress"} -->
+<!-- METADATA: {"time": "2005-06-16 09:41:38", "title": "Plugin WordPress"} -->

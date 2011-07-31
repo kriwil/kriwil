@@ -6,4 +6,4 @@ Saykoji serupa dengan Five Minutes, Edane, Jamrud, dan Titi Kamal. Hmm ...
 
 _mungkin karena [tag indonesia](http://www.last.fm/tag/indonesia)?_
 
-<!-- {"time": "2009-07-01 10:30:25", "title": "Saykoji, Five Minutes, Edane, Jamrud, Titi Kamal"} -->
+<!-- METADATA: {"time": "2009-07-01 10:30:25", "title": "Saykoji, Five Minutes, Edane, Jamrud, Titi Kamal"} -->

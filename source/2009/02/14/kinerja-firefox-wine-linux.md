@@ -8,4 +8,4 @@ Ada yang mau nyoba untuk ubuntu? gue? nanti aja ah :D
 
 
 
-<!-- {"time": "2009-02-14 12:00:01", "title": "Kinerja Firefox: Wine > Linux"} -->
+<!-- METADATA: {"time": "2009-02-14 12:00:01", "title": "Kinerja Firefox: Wine > Linux"} -->

@@ -9,4 +9,4 @@ Gue bukan designer, jadi gak terlalu peduli juga sih masalah [Cross-browser](htt
 Jadi, agar tampilan website ini bisa dinikmati secara maksimal, jangan dibuka pakai IE yah. Gue udah bikin warning yang (harusnya) cuma bisa dilihat dari IE.
 
 
-<!-- {"time": "2008-02-17 08:56:02", "title": "Jangan Dibuka Pakai IE"} -->
+<!-- METADATA: {"time": "2008-02-17 08:56:02", "title": "Jangan Dibuka Pakai IE"} -->

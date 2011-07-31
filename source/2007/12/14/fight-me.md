@@ -4,4 +4,4 @@
 
 (via [digg](http://digg.com/odd_stuff/How_Many_Five_Year_Olds_Could_You_Take_in_a_Fight))
 
-<!-- {"time": "2007-12-14 06:15:16", "title": "Fight Me?"} -->
+<!-- METADATA: {"time": "2007-12-14 06:15:16", "title": "Fight Me?"} -->

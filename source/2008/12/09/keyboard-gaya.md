@@ -11,4 +11,4 @@ Apakah ada efeknya gue menggunakan keyboard "telanjang" ini? Katanya sih ngetikn
 Oh, satu kekurangan keyboard kosong ini adalah kalau mau mengetik menggunakan satu tangan. Karena gak biasa ngetik satu tangan, dan kalau mengetik dua tangan menggunakan hapalan posisi jari, mengetik menggunakan satu tangan menjadi sangat susah.
 
 
-<!-- {"time": "2008-12-09 11:13:53", "title": "Keyboard Gaya"} -->
+<!-- METADATA: {"time": "2008-12-09 11:13:53", "title": "Keyboard Gaya"} -->

@@ -4,4 +4,4 @@ Akhirnya berkesempatan juga nonton [Harry Potter and the Half-Blood Prince](http
 
 Menurut gue, film Harry Potter yang keenam ini yang paling bagus di antara film-film sebelumnya. Tentunya, gak bisa dibandingin sama bukunya. Gak perlu juga dibandingin sama bukunya. Tapi gue sangat menyayangkan tidak ada adegan pembicaraan dua perdama menteri dari bab pertama, _The Other Minister_ :D
 
-<!-- {"time": "2009-07-29 16:46:35", "title": "Harry Potter and the Half-Blood Prince"} -->
+<!-- METADATA: {"time": "2009-07-29 16:46:35", "title": "Harry Potter and the Half-Blood Prince"} -->

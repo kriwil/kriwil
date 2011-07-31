@@ -12,4 +12,4 @@ Gue gak tau kalau ada game lain yang kayak gini, tapi gue baru ketemu model kaya
 
 Kalau masih penasaran atau bingung, bisa liat sendiri [screenshot atau videonya](http://savage2.s2games.com/media.php). Dan kalau mau main, silahkan [download](http://savage2.s2games.com/download.php) gamenya :)
 
-<!-- {"time": "2008-12-11 12:08:19", "title": "Savage 2: A Tortured Soul"} -->
+<!-- METADATA: {"time": "2008-12-11 12:08:19", "title": "Savage 2: A Tortured Soul"} -->

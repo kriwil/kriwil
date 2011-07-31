@@ -8,4 +8,4 @@ Ow, mungkin pas berubah jadi 1 GB, pihak gmx.net ngirim email pemberitahuan kali
 
 ~basiYah^^
 
-<!-- {"time": "2005-02-24 14:32:06", "title": "email @ gmx.net 1 GB juga"} -->
+<!-- METADATA: {"time": "2005-02-24 14:32:06", "title": "email @ gmx.net 1 GB juga"} -->

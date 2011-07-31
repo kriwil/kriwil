@@ -15,4 +15,4 @@ Coba gue list:
 
 Yay, I need more memory! Gimana bu?
 
-<!-- {"time": "2007-06-10 23:10:07", "title": "Berat!"} -->
+<!-- METADATA: {"time": "2007-06-10 23:10:07", "title": "Berat!"} -->

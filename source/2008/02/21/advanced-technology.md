@@ -4,4 +4,4 @@
 
 -- [xkcd comic](http://xkcd.com)
 
-<!-- {"time": "2008-02-21 23:50:59", "title": "Advanced Technology"} -->
+<!-- METADATA: {"time": "2008-02-21 23:50:59", "title": "Advanced Technology"} -->

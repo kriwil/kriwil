@@ -13,4 +13,4 @@ Gambarnya bagus. Gaya pengambaran karakternya mengikuti gaya barat ala Marvel / 
 Hasil scan gambar sampul depan, belakang, dan kata pengantar bisa diliat di [album sharingfoto saya](http://www.sharingfoto.com/kriwil/album/509).
 
 
-<!-- {"time": "2007-10-04 22:26:13", "title": "The 99, Komik Superhero Islam"} -->
+<!-- METADATA: {"time": "2007-10-04 22:26:13", "title": "The 99, Komik Superhero Islam"} -->

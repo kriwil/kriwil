@@ -4,4 +4,4 @@ Ada pertanyaan menarik yang ditanyakan di slashdot, [Software Logging Schemes?](
 
 Pencatatan (Logging) dibutuhkan ketika terjadi kesalahan atau kejanggalan pada sebuah aplikasi, sehingga kita bisa segera menemukan di mana letak kesalahan tersebut. Gue sendiri belum pernah membuat aplikasi yang sangat besar sehingga kebingungan menentukan skema pencatatan tertentu. Selama ini, yang gue lakukan hanya menulis ke berkas _text_ untuk proses-proses yang mungkin akan mengalami _error_.
 
-<!-- {"time": "2008-08-17 07:34:04", "title": "Skema Logging Aplikasi?"} -->
+<!-- METADATA: {"time": "2008-08-17 07:34:04", "title": "Skema Logging Aplikasi?"} -->

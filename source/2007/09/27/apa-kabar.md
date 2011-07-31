@@ -9,4 +9,4 @@ Ngomong-ngomong tentang tempat baru, ternyata tidak seperti yang gue kira. OK, g
 
 Ah, tuh kan jadi ngomongin gue. Sudahlah.
 
-<!-- {"time": "2007-09-27 06:29:56", "title": "Apa Kabar?"} -->
+<!-- METADATA: {"time": "2007-09-27 06:29:56", "title": "Apa Kabar?"} -->

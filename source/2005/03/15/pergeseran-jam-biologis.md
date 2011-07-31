@@ -4,4 +4,4 @@ Yup. gw sekarang lagi berusaha melakukan pergeseran jam tidur gw. Setelah selama
 
 Mungkin karena emang begitu yah seharusnya. Kalo kata beberapa orang, bangun pagi lebih baik daripada tidur malam (lho?).
 
-<!-- {"time": "2005-03-15 01:54:30", "title": "Pergeseran Jam Biologis"} -->
+<!-- METADATA: {"time": "2005-03-15 01:54:30", "title": "Pergeseran Jam Biologis"} -->

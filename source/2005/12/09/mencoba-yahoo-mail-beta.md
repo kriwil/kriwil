@@ -14,4 +14,4 @@ Tampaknya Yahoo! sudah merasa semakin terancam dengan kehadiran [GMail](http://g
 
 Sedangkan GMail gue gunakan untuk mengikuti diskusi di berbagai mailing-list, karena kemudahan tampilan dalam bentuk percakapan, fitur yang membuat hidup menjadi sangat indah&trade;. Nggak kebayang kalau gue ikut mailing-list semacam [milis gajah](http://groups.google.com/group/id-gmail/subscribe) dengan menggunakan Yahoo! Mail. Bisa stress duluan sebelum baca emailnya :D
 
-<!-- {"time": "2005-12-09 20:00:51", "title": "Mencoba Yahoo! Mail Beta"} -->
+<!-- METADATA: {"time": "2005-12-09 20:00:51", "title": "Mencoba Yahoo! Mail Beta"} -->

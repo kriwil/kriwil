@@ -4,4 +4,4 @@ Yes. Yet another new design. After some unfinshed ideas, I finnally create (not 
 
 Anyway, as all my previous designs, this design is inspired by others'. I can't mention which ones, since I don't remember. Credit to them :) But one thing I remember is my title and comment count position are inspired by [Rifie's blog](http://rifie.com/).
 
-<!-- {"time": "2007-12-14 05:47:13", "title": "(Not) Done!"} -->
+<!-- METADATA: {"time": "2007-12-14 05:47:13", "title": "(Not) Done!"} -->

@@ -10,4 +10,4 @@ Enough talking, I have to go. Enjoy my desktop screenshot, and have a nice day.
 <a href="http://www.flickr.com/photos/kriwil/2074368205/" title="desktop-20071130 by kriwil, on Flickr"><img src="http://farm3.static.flickr.com/2386/2074368205_d8eb96cfb9_m.jpg" width="240" height="180" alt="desktop-20071130" /></a>
 <a href="http://www.flickr.com/photos/kriwil/2074526307/" title="desktop-20071130-2 by kriwil, on Flickr"><img src="http://farm3.static.flickr.com/2202/2074526307_9fd8d2c3e0_m.jpg" width="240" height="180" alt="desktop-20071130-2" /></a>
 
-<!-- {"time": "2007-11-29 20:11:27", "title": "Simplicity Rules"} -->
+<!-- METADATA: {"time": "2007-11-29 20:11:27", "title": "Simplicity Rules"} -->

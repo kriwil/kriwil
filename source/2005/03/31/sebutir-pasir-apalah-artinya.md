@@ -18,4 +18,4 @@
 
 <small>diambil dari <a href="http://www.republika.co.id/kolom.asp?kat_id=19">http://www.republika.co.id/kolom.asp?kat_id=19</a></small>
 
-<!-- {"time": "2005-03-31 05:34:59", "title": "Sebutir Pasir, Apalah Artinya?"} -->
+<!-- METADATA: {"time": "2005-03-31 05:34:59", "title": "Sebutir Pasir, Apalah Artinya?"} -->

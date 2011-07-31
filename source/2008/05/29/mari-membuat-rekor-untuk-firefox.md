@@ -6,4 +6,4 @@ Yang perlu kita lakukan adalah mendownload Firefox 3 ketika sudah dirilis pada D
 
 Dan jangan lupa untuk mengajak semua orang.
 
-<!-- {"time": "2008-05-29 16:30:09", "title": "Mari Membuat Rekor untuk Firefox"} -->
+<!-- METADATA: {"time": "2008-05-29 16:30:09", "title": "Mari Membuat Rekor untuk Firefox"} -->

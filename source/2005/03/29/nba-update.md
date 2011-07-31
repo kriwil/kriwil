@@ -48,4 +48,4 @@ setiap posisi.</p>
 <p>Sementara, yang Timur dulu yah, yang Baratnya menyusul, segera ^^</p>
 
 
-<!-- {"time": "2005-03-29 12:37:13", "title": "NBA update"} -->
+<!-- METADATA: {"time": "2005-03-29 12:37:13", "title": "NBA update"} -->

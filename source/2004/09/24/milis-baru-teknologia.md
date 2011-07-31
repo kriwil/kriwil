@@ -10,4 +10,4 @@ Semoga dengan lahirnya milis ini, dapat mengisi kerinduan Priyadi dan kawan-kawa
 
 Jadi, jika ingin bergabung silahkan akses http://groups-beta.google.com/group/teknologia/subscribe bagi pengguna GMail. Dan yang belum mempunya GMail, silahkan membuat <a href="https://www.google.com/accounts/NewAccount?service=groups2&followup=http://groups-beta.google.com%2Fgroup%2Fteknologia">google account</a> terlebih dahulu.
 
-<!-- {"time": "2004-09-24 18:25:12", "title": "Milis Baru, Teknologia"} -->
+<!-- METADATA: {"time": "2004-09-24 18:25:12", "title": "Milis Baru, Teknologia"} -->

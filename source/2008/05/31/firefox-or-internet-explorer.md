@@ -14,4 +14,4 @@ _ps: tidak bermaksud sexist_
 
 (via [fajran](http://fajran.web.id/story/2008/05/31/firefox-or-internet-explorer))
 
-<!-- {"time": "2008-05-31 20:35:37", "title": "Firefox or Internet Explorer?"} -->
+<!-- METADATA: {"time": "2008-05-31 20:35:37", "title": "Firefox or Internet Explorer?"} -->

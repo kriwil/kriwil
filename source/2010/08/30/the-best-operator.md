@@ -6,4 +6,4 @@
 
 [Now that's an idea](http://qdb.us/300375).
 
-<!-- {"time": "2010-08-30 22:03:53", "title": "// is The Best Operator"} -->
+<!-- METADATA: {"time": "2010-08-30 22:03:53", "title": "// is The Best Operator"} -->

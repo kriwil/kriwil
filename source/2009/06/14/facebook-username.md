@@ -10,4 +10,4 @@ Sementara, yang kreatif juga tidak sedikit, <http://facebook.com/default.aspx>, 
 
 Oiya, punya gue di <http://facebook.com/aldiantoro>.
 
-<!-- {"time": "2009-06-14 01:00:17", "title": "Facebook Username"} -->
+<!-- METADATA: {"time": "2009-06-14 01:00:17", "title": "Facebook Username"} -->

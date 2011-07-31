@@ -19,4 +19,4 @@ Sekarang tampaknya semua orang lagi ber-[facebook](http://facebook.com) ria yah.
 
 Anyway, back to work. See ya ...
 
-<!-- {"time": "2007-10-17 22:52:42", "title": "Liburan"} -->
+<!-- METADATA: {"time": "2007-10-17 22:52:42", "title": "Liburan"} -->

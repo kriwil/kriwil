@@ -6,4 +6,4 @@
 
 Yayaya, gue masih ngomongin yang [itu](http://kriwil.com/journal/unek-unek).
 
-<!-- {"time": "2008-02-28 18:41:33", "title": "9 Signs You Shouldn't Hire THAT Web Guy"} -->
+<!-- METADATA: {"time": "2008-02-28 18:41:33", "title": "9 Signs You Shouldn't Hire THAT Web Guy"} -->

@@ -14,4 +14,4 @@ Terus terang, gw iri deh sama sepak bola, tayangan langsung liga-liga Eropanya m
 
 Yah, gw sih cuma bisa berharap, mudah-mudahan stasiun-stasiun TV di Indonesia mau kembali menayangkan pertandingan NBA lagi, walaupun cuma siaran tunda. Atau, mudah-mudahan Bokap gw jadi masang Indovision di rumah, amin :)
 
-<!-- {"time": "2005-02-22 15:03:46", "title": "Mau nonton NBA Allstar 2005 ???"} -->
+<!-- METADATA: {"time": "2005-02-22 15:03:46", "title": "Mau nonton NBA Allstar 2005 ???"} -->

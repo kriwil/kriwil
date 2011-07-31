@@ -6,4 +6,4 @@ Menurut statistik, belum ada tim yang mampu bangkit dari ketinggalan 1-3 di play
 
 Tapi, selalu ada yang pertama untuk segala hal.
 
-<!-- {"time": "2008-06-14 06:28:36", "title": "Celtics 3 - Lakers 1"} -->
+<!-- METADATA: {"time": "2008-06-14 06:28:36", "title": "Celtics 3 - Lakers 1"} -->

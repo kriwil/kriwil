@@ -22,4 +22,4 @@ adalah</p>
 lagi halaman-halaman yang lain, jika kita iseng-iseng mencarinya :)</p>
 
 
-<!-- {"time": "2005-04-02 01:10:35", "title": "Hore!"} -->
+<!-- METADATA: {"time": "2005-04-02 01:10:35", "title": "Hore!"} -->

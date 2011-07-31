@@ -8,4 +8,4 @@ Alasan gue bergabung adalah ingin melihat sejauh mana silaturahmi keluarga bisa 
 
 _Anyway_, buat yang merasa kenal gue dan belum gue tambahkan sebagai teman di facebook, silahkan tambahkan melalui [profile gue](http://www.facebook.com/profile.php?id=1659500634).
 
-<!-- {"time": "2009-01-06 12:00:01", "title": "Tentang Akun Facebook"} -->
+<!-- METADATA: {"time": "2009-01-06 12:00:01", "title": "Tentang Akun Facebook"} -->

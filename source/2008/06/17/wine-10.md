@@ -6,4 +6,4 @@ Mungkin wine adalah aplikasi paling penting di linux bagi beberapa orang, teruta
 
 Selamat buat para pengembang Wine!
 
-<!-- {"time": "2008-06-17 20:29:39", "title": "Wine 1.0"} -->
+<!-- METADATA: {"time": "2008-06-17 20:29:39", "title": "Wine 1.0"} -->

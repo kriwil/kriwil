@@ -8,4 +8,4 @@ Mudah-mudahan beneran jadi, mengingat pertengahan tahun itu mungkin masih panas 
 
 _Eh, pemilu kapan sih?_
 
-<!-- {"time": "2009-01-14 12:00:01", "title": "MU Ke Jakarta"} -->
+<!-- METADATA: {"time": "2009-01-14 12:00:01", "title": "MU Ke Jakarta"} -->

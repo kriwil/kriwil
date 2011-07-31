@@ -66,4 +66,4 @@ Sebagian besar stasiun yang tercantum di atas belum pernah saya dengarkan, mungk
 
 **update**: ternyata, [Priyadi](http://priyadi.net) pernah melakukan [hal serupa](http://priyadi.net/archives/2004/10/04/daftar-frekuensi-radio-di-jakarta/). Hanya bedanya [Priyadi](http://priyadi.net) mencari langsung di internet, sedangkan saya mencari melalu radio.
 
-<!-- {"time": "2005-06-26 12:22:22", "title": "Stasiun Radio FM"} -->
+<!-- METADATA: {"time": "2005-06-26 12:22:22", "title": "Stasiun Radio FM"} -->

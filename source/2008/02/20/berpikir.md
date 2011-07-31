@@ -4,4 +4,4 @@ Mau tau apa yang ada dalam pikiran gue detik ini? **_Redesign_ blog ini**. Kacau
 
 Manusia emang gak pernah puas yah :D
 
-<!-- {"time": "2008-02-20 07:57:31", "title": "Berpikir"} -->
+<!-- METADATA: {"time": "2008-02-20 07:57:31", "title": "Berpikir"} -->

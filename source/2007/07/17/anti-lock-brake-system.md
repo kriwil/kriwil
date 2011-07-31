@@ -8,4 +8,4 @@ Singkat cerita, di tol TB Simatupang, gue, meminjam sebentar bakat [Bang Schumi]
 
 Afraid not my friend, ngga ada kejadian apa-apa. Gue berhasil sampai kantor dengan selamat (dan sekali lagi, tetap telat). Tapi mungkin gue ngga akan berhasil ngerem dengan aman kalau tanpa ABS itu.
 
-<!-- {"time": "2007-07-17 22:34:07", "title": "Anti-Lock Brake System"} -->
+<!-- METADATA: {"time": "2007-07-17 22:34:07", "title": "Anti-Lock Brake System"} -->

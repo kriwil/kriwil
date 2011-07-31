@@ -21,4 +21,4 @@ Menggabungkan _progress bar_ firefox dengan _address bar_-nya. Ini gayanya safar
 * [Stop-or-Reload Button](https://addons.mozilla.org/en-US/firefox/addon/313)
 Menggabungkan tombol stop dan reload. Kalau halaman sedang _load_, tombol berbentuk stop. Kalau sudah selesai load, tombol berbentuk reload. Coba sendiri deh.
 
-<!-- {"time": "2008-02-22 09:41:59", "title": "My Firefox Add-ons"} -->
+<!-- METADATA: {"time": "2008-02-22 09:41:59", "title": "My Firefox Add-ons"} -->

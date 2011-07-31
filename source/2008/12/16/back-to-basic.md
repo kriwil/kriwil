@@ -5,4 +5,4 @@ With Your Blog](http://www.copyblogger.com/back-to-basics-blogging/). Sangat. Se
 
 _eh, back to basic itu dalam bahasa indonesianya apa ya? gue tadi mau pasang judul bahasa indonesia gak ketemu frase yang pas. kembali ke awal? kembali ke dasar?_
 
-<!-- {"time": "2008-12-16 07:45:33", "title": "Back to Basic"} -->
+<!-- METADATA: {"time": "2008-12-16 07:45:33", "title": "Back to Basic"} -->

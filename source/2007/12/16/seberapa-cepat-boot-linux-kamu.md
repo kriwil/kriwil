@@ -29,4 +29,4 @@ Desktop (AMD X2 3600+ 2GB RAM):
 *update*:
 Sekarang datanya sudah ada di [wiki ubuntu-id](http://wiki.ubuntu-id.org). Silahkan menuju [http://wiki.ubuntu-id.org/SeaGamesUbuntu](http://wiki.ubuntu-id.org/SeaGamesUbuntu) untuk melihat langsung.
 
-<!-- {"time": "2007-12-16 09:30:52", "title": "Seberapa Cepat boot Linux Kamu?"} -->
+<!-- METADATA: {"time": "2007-12-16 09:30:52", "title": "Seberapa Cepat boot Linux Kamu?"} -->

@@ -21,4 +21,4 @@ Yah, saya sih hanya satu dari sekian belas juta teman kamu. Tidak banyak yang bi
 
 Ya udah, selamat ulang tahun yang ke-478 ya, semoga kamu bisa lebih teratur, bisa lebih bersih, bisa lebih rapih. Tolong bilang sama teman-temanmu, supaya ikut menjaga kamu :)
 
-<!-- {"time": "2005-06-22 21:44:16", "title": "Jakarta ..."} -->
+<!-- METADATA: {"time": "2005-06-22 21:44:16", "title": "Jakarta ..."} -->

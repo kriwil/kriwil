@@ -12,4 +12,4 @@ Jadi bisa dibilang sebagian besar data blog gue (yang cuma dikit, datanya, bukan
 
 Sekarang, gue tinggal mencari file backup blog txp gue. Gue kehilangan data blog 2006. Emang gue segitu ngga ngeblognya kah tahun itu? Duh ...
 
-<!-- {"time": "2007-09-06 09:09:06", "title": "Dan Kriwil Kembali"} -->
+<!-- METADATA: {"time": "2007-09-06 09:09:06", "title": "Dan Kriwil Kembali"} -->

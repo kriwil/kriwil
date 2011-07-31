@@ -4,4 +4,4 @@ Ternyata gak gue doang yang berpendapat bahwa membuat mockup design web itu gak 
 
 Kalau alasan gue sih sangat sederhana, gue gak bisa menggunakan photoshop :P
 
-<!-- {"time": "2008-06-06 11:16:52", "title": "Mockup Lansung HTML/CSS"} -->
+<!-- METADATA: {"time": "2008-06-06 11:16:52", "title": "Mockup Lansung HTML/CSS"} -->

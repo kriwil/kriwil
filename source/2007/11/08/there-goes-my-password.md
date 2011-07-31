@@ -27,4 +27,4 @@ Iyah, ini di tempat baru gue. Kalau ada yang bisa punya user ke databasenya, tol
 
 Dan sekarang gue harus mengganti beberapa password dulu. Sampai jumpa lagi.
 
-<!-- {"time": "2007-11-08 23:45:12", "title": "There Goes My Password"} -->
+<!-- METADATA: {"time": "2007-11-08 23:45:12", "title": "There Goes My Password"} -->

@@ -75,4 +75,4 @@ Tunggu beberapa saat, dan komputer bisa diakses ;)
 
 _(diambil secara brutal dari [HOWTO: Set your system up for Wake On LAN (WOL)](http://ubuntuforums.org/showthread.php?t=234588))_
 
-<!-- {"time": "2008-01-26 20:38:38", "title": "Catatan: Wake On LAN (WOL)"} -->
+<!-- METADATA: {"time": "2008-01-26 20:38:38", "title": "Catatan: Wake On LAN (WOL)"} -->

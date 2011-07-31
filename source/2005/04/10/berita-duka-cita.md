@@ -38,4 +38,4 @@ Situs media massa terkait:
 
 *diambil dari [Iang](http://fajran.net/blog/item/83/).*
 
-<!-- {"time": "2005-04-10 03:30:11", "title": "Berita Duka Cita"} -->
+<!-- METADATA: {"time": "2005-04-10 03:30:11", "title": "Berita Duka Cita"} -->

@@ -11,4 +11,4 @@ Penting nih, baru belajar [gentoo](http://gentoo.org) soalnya. Patch source code
 Catatan:
 `myebuild` merupakan path ke `/usr/portage/blabla/appname/app.ebuild`
 
-<!-- {"time": "2008-07-11 02:36:48", "title": "gentoo: patching source before emerge"} -->
+<!-- METADATA: {"time": "2008-07-11 02:36:48", "title": "gentoo: patching source before emerge"} -->

@@ -4,4 +4,4 @@
 
 Sekali lagi, desktop di linux berada di depan dalam soal keindahan dibanding OS lainnya.
 
-<!-- {"time": "2008-06-21 21:19:20", "title": "Demo Video Stackswitch"} -->
+<!-- METADATA: {"time": "2008-06-21 21:19:20", "title": "Demo Video Stackswitch"} -->

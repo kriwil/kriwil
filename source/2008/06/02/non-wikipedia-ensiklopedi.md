@@ -15,4 +15,4 @@ Tambahan dari komentar di sana:
 
 * [Encyclopedia Dramatica](http://www.encyclopediadramatica.com/Main_Page) - In lulz we trust 
 
-<!-- {"time": "2008-06-02 01:44:59", "title": "Non-wikipedia Ensiklopedi"} -->
+<!-- METADATA: {"time": "2008-06-02 01:44:59", "title": "Non-wikipedia Ensiklopedi"} -->

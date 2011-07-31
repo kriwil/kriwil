@@ -10,4 +10,4 @@ Terakhir, gue cuma mau bilang semoga yang kita rencanakan dan harapkan untuk 200
 
 Ah satu lagi, soal resolusi. Kayaknya sih masih tetap 1280x1024 aja yah. Tapi lucu juga kali ya kalo jadi ada 2 :P
 
-<!-- {"time": "2009-01-01 09:40:09", "title": "1 Januari 2009"} -->
+<!-- METADATA: {"time": "2009-01-01 09:40:09", "title": "1 Januari 2009"} -->

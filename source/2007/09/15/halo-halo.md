@@ -10,4 +10,4 @@ Awalnya, tujuan punya blog baru untuk nulis secara _anonymous_ adalah biar gue b
 
 Sudahlah, 1:23 AM waktu komputer saya, saatnya tidur.
 
-<!-- {"time": "2007-09-15 13:23:37", "title": "Halo halo!"} -->
+<!-- METADATA: {"time": "2007-09-15 13:23:37", "title": "Halo halo!"} -->

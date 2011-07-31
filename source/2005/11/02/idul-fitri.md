@@ -6,4 +6,4 @@ Ramadhan telah usai, semoga semua amal ibadah kita diterima 4JJI SWT. Dan semoga
 
 Mohon maaf lahir dan batin.
 
-<!-- {"time": "2005-11-02 23:36:52", "title": "Idul Fitri"} -->
+<!-- METADATA: {"time": "2005-11-02 23:36:52", "title": "Idul Fitri"} -->

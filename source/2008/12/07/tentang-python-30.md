@@ -4,4 +4,4 @@ Dari [Python 3.0: What's The Point?](http://mooseyard.com/Jens/2008/12/python-30
 
 Untung gue cuma pemula di python, jadi gak ribet banget :D
 
-<!-- {"time": "2008-12-07 20:38:55", "title": "Tentang Python 3.0"} -->
+<!-- METADATA: {"time": "2008-12-07 20:38:55", "title": "Tentang Python 3.0"} -->

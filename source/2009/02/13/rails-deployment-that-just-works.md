@@ -7,4 +7,4 @@
 _Rails deployment that just works? Seriously? Oh, beta._
 _Gak bermaksud mengjelek-jelekkan, cuma tagnya [passenger](http://www.modrails.com/) jadi janggal aja gara-gara error :D_
 
-<!-- {"time": "2009-02-13 12:00:01", "title": "Rails deployment that just works"} -->
+<!-- METADATA: {"time": "2009-02-13 12:00:01", "title": "Rails deployment that just works"} -->

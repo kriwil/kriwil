@@ -15,4 +15,4 @@
 
 One default is not enough.
 
-<!-- {"time": "2010-08-31 21:40:27", "title": "Double Standard?"} -->
+<!-- METADATA: {"time": "2010-08-31 21:40:27", "title": "Double Standard?"} -->

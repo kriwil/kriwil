@@ -4,4 +4,4 @@ Ada band baru (?) keren dengan nama *Sister Duke*. Dapet info dari [Miund](http:
 
 _oh, I'm so buying the cd ..._
 
-<!-- {"time": "2008-02-26 20:38:52", "title": "Sister Duke"} -->
+<!-- METADATA: {"time": "2008-02-26 20:38:52", "title": "Sister Duke"} -->

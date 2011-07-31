@@ -5,4 +5,4 @@
 *update*
 Ternyata ada di [official google blog](http://googleblog.blogspot.com/2009/01/googles-new-favicon.html). Emang baru, bukan gue yang baru sadar.
 
-<!-- {"time": "2009-01-09 12:00:01", "title": "Google Favicon Baru?"} -->
+<!-- METADATA: {"time": "2009-01-09 12:00:01", "title": "Google Favicon Baru?"} -->

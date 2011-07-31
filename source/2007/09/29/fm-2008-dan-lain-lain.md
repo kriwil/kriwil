@@ -18,4 +18,4 @@ Ngomong-ngomong Pondok Gede, beberapa ruas jalannya lagi di beton ulang tuh. Beb
 
 Eh iya, itu calon walikota Bekasi cuma satu yah? Yang pasti yang gue liat di sekitar Pondok Gede cuma satu orang doang (eh, maksudnya poster dkk, bukan orangnya langsung yang gue liat), yang dari PKS. Gue lagi males nyari-nyari infonya. Jadi mohon maap kalo ternyata salah ^^.
 
-<!-- {"time": "2007-09-29 16:35:58", "title": "FM 2008 dan lain-lain"} -->
+<!-- METADATA: {"time": "2007-09-29 16:35:58", "title": "FM 2008 dan lain-lain"} -->

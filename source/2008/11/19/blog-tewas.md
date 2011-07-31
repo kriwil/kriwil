@@ -8,4 +8,4 @@ Gue sendiri lagi menikmati alternatif dari [posterous.com](http://posterous.com)
 
 Jadi, kalau di sini lagi gak ada tulisan, mungkin bisa cek halaman posterous gue, [kriwil.posterous.com](http://kriwil.posterous.com/). Topiknya gak terlalu sempit seperti di sini. _It's pretty much what I was thinking at that time_.
 
-<!-- {"time": "2008-11-19 09:10:30", "title": "Blog Tewas?"} -->
+<!-- METADATA: {"time": "2008-11-19 09:10:30", "title": "Blog Tewas?"} -->

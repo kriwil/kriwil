@@ -29,4 +29,4 @@ Huh! Untung gue udah tau siapa yang tewas, jadi ngga terlalu emosi lagi, walaupu
 
 Sekian laporan dari saya, dari acara Midnight Live MetroTV sekitar 40 menit yang lalu dari entry ini dibuat.
 
-<!-- {"time": "2005-07-20 01:55:33", "title": "Jangan Nonton Midnight Live"} -->
+<!-- METADATA: {"time": "2005-07-20 01:55:33", "title": "Jangan Nonton Midnight Live"} -->

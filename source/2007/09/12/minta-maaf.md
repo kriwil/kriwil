@@ -7,4 +7,4 @@ Oiya, sahur hari pertama langsung disuguhi [Inggris vs Russia](http://www.uefa.c
 
 Selamat menjalankan ibadah puasa.
 
-<!-- {"time": "2007-09-12 06:19:45", "title": "Minta Maaf"} -->
+<!-- METADATA: {"time": "2007-09-12 06:19:45", "title": "Minta Maaf"} -->

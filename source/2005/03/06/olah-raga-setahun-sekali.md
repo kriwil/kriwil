@@ -8,4 +8,4 @@ Emang karena udah tua (ya, mahasiswa tingkat 4 itu mahasiswa tua &#58;&#80;), ja
 Hasilnya udah bisa ditebak sih, 2001 kalah (tipis sih) dari 2003, yang emang masih kurus-kurus dan berstamina lebih :D
 Kalo kata temen gw (Chris), kita harus bangga bahwa kita kalah, karena itu berarti regenerasi basket Fasilkom berjalan baik ^^. Nice comment ;)
 
-<!-- {"time": "2005-03-06 16:46:35", "title": "Olah Raga Setahun Sekali"} -->
+<!-- METADATA: {"time": "2005-03-06 16:46:35", "title": "Olah Raga Setahun Sekali"} -->

@@ -4,4 +4,4 @@
 
 Well, there's [BCC](http://en.wikipedia.org/wiki/Blind_Carbon_Copy) in email header. if [you](http://sharingfoto.com) didn't know.
 
-<!-- {"time": "2008-04-17 11:49:45", "title": "BCC?"} -->
+<!-- METADATA: {"time": "2008-04-17 11:49:45", "title": "BCC?"} -->

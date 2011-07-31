@@ -24,4 +24,4 @@ Aldiantoro Nugroho
 
 <em>ps. Bagi rekan-rekan penulis blog yang ingin menyebarkan pernyataan sikap ini dapat menyalin seluruh isi tulisan ini pada blog masing-masing. Tetapi tidak menutup kemungkinan rekan-rekan yang bukan penulis blog untuk mengikuti aksi ini.</em>
 
-<!-- {"time": "2005-03-28 16:50:01", "title": "AKSI PRIHATIN TERHADAP SKEMA BISNIS ANNE AHIRA"} -->
+<!-- METADATA: {"time": "2005-03-28 16:50:01", "title": "AKSI PRIHATIN TERHADAP SKEMA BISNIS ANNE AHIRA"} -->

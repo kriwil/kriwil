@@ -4,4 +4,4 @@
 
 - [xkcd.com - Kilobyte](http://xkcd.com/394/)
 
-<!-- {"time": "2008-03-10 07:22:37", "title": "Buat yang kebingungan antara Kilobit/Byte"} -->
+<!-- METADATA: {"time": "2008-03-10 07:22:37", "title": "Buat yang kebingungan antara Kilobit/Byte"} -->

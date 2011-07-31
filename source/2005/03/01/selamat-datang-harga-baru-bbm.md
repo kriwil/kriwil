@@ -4,4 +4,4 @@ Jadi makin ngga ngerti deh jalan pikir Pemerintah sekarang, kok bisa-bisanya yah
 
 Well, berhubung gw juga udah ngga bisa melakukan apa-apa lagi selain mengungkapkan kekecewaan gw kepada keputusan Pemerintah untuk menaikkan harga BBM, sekarang gw cuma bisa liat aja ke depannya gimana. Katanya, nanti semua dana kompensasi dari subsidi BBM itu bakal diaudit, jadi bisa dilihat ke mana dananya mengalir. Jadi, kita liat aja deh ... bakal 5 tahun atau engga :P
 
-<!-- {"time": "2005-03-01 06:37:24", "title": "Selamat Datang Harga baru BBM!"} -->
+<!-- METADATA: {"time": "2005-03-01 06:37:24", "title": "Selamat Datang Harga baru BBM!"} -->

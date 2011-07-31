@@ -1,4 +1,4 @@
-### Yahoo 360&#176;
+### Yahoo 360°
 
 <p>Hore! akhirnya gw <a href="http://360.yahoo.com/groho101">punya</a> <a href="http://360.yahoo.com">Yahoo 360&#176;</a> juga ^^
 Terima kasih buat <a href="http://360.yahoo.com/enda_001">Enda</a> atas undangannya :)</p>
@@ -14,4 +14,4 @@ bisa minta ke gw. Oiya, untuk saat ini, jumlah undangan yang bisa
 gw kasih terbatas lho, ada 100, dan udah gw pake 2 ^^</p>
 
 
-<!-- {"time": "2005-03-31 10:39:59", "title": "Yahoo 360&#176;"} -->
+<!-- METADATA: {"time": "2005-03-31 10:39:59", "title": "Yahoo 360\u00b0"} -->

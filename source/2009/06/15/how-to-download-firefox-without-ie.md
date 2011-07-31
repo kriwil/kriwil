@@ -17,4 +17,4 @@ Use FTP. Seriously.
 
 _credit to [boutell.com](http://www.boutell.com/newfaq/browser/installfirefoxwithoutie.html)_
 
-<!-- {"time": "2009-06-15 00:00:13", "title": "How To Download Firefox Without IE"} -->
+<!-- METADATA: {"time": "2009-06-15 00:00:13", "title": "How To Download Firefox Without IE"} -->

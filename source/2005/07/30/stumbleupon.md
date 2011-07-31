@@ -14,4 +14,4 @@ Jadi, dengan menekan tombol "*Stumble!*", kita akan diarahkan ke sebuah website 
 
 Thanks buat [Rinaldi](http://rinaldi.csui01.net) atas info [StumbleUpon][]-nya ;)
 
-<!-- {"time": "2005-07-30 07:49:32", "title": "StumbleUpon"} -->
+<!-- METADATA: {"time": "2005-07-30 07:49:32", "title": "StumbleUpon"} -->

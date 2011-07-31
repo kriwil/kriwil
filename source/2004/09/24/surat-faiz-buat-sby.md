@@ -64,4 +64,4 @@ ABDURAHMAN Faiz (9), pemenang Lomba Menulis Surat untuk Presiden RI tingkat nasi
 >Abdurahman Faiz
 >Kelas III SDN 02 Cipayung, Jakarta Timur
 
-<!-- {"time": "2004-09-24 16:45:57", "title": "Surat Faiz buat SBY"} -->
+<!-- METADATA: {"time": "2004-09-24 16:45:57", "title": "Surat Faiz buat SBY"} -->

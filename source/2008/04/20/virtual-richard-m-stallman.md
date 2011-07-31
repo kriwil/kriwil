@@ -32,4 +32,4 @@ Kalau ouput di laptop gue:
 
 Etapi, gak ada paket dengan nama `vrms46` yah?
 
-<!-- {"time": "2008-04-20 18:42:38", "title": "Virtual Richard M. Stallman"} -->
+<!-- METADATA: {"time": "2008-04-20 18:42:38", "title": "Virtual Richard M. Stallman"} -->

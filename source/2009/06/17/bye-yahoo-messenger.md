@@ -6,4 +6,4 @@ Tertutupnya protokol yahoo messenger membuat pengembang aplikasi kesulitan membu
 
 Gue hanya mengecek akun yahoo messenger satu atau dua hari sekali. Jadi kalau mau _ngobrol_ dengan gue, silahkan gunakan google talk atau layanan yang menggunakan jabber, dan tambahkan akun kriwil@gmail.com sebagai teman.
 
-<!-- {"time": "2009-06-17 21:26:36", "title": "Bye Yahoo Messenger"} -->
+<!-- METADATA: {"time": "2009-06-17 21:26:36", "title": "Bye Yahoo Messenger"} -->

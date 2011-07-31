@@ -38,4 +38,4 @@ Btw, ada yang bisa bagian ini ngga?
 
 TOB dah kalo bisa, lidah gw sampe keiket ngikutinnya ... huhuhuhu ...
 
-<!-- {"time": "2004-09-06 20:40:24", "title": "Phat Family Anthem"} -->
+<!-- METADATA: {"time": "2004-09-06 20:40:24", "title": "Phat Family Anthem"} -->

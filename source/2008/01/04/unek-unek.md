@@ -8,4 +8,4 @@ Desain sebuah situs emang bukan hal utama. Yang penting itu isinya. Tapi gue pri
 
 Yah, mudah-mudahan aja terus diperbaiki. Kan masih dalam pengembangan.
 
-<!-- {"time": "2008-01-04 21:52:08", "title": "Unek-unek"} -->
+<!-- METADATA: {"time": "2008-01-04 21:52:08", "title": "Unek-unek"} -->

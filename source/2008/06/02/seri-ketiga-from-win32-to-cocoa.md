@@ -4,4 +4,4 @@
 
 Liat juga bagian [pertama](http://arstechnica.com/articles/culture/what-microsoft-could-learn-from-apple.ars) dan [keduanya](http://arstechnica.com/articles/culture/microsoft-learn-from-apple-II.ars).
 
-<!-- {"time": "2008-06-02 08:27:09", "title": "Seri ketiga From Win32 to Cocoa"} -->
+<!-- METADATA: {"time": "2008-06-02 08:27:09", "title": "Seri ketiga From Win32 to Cocoa"} -->

@@ -10,4 +10,4 @@ rating: 4/5
 
 Gue sangat menikmati 2 jam 45 menit menonton film ini. Hampir semua adegan di film ini gue suka. Tentu ada satu dua adegan yang janggal. Tapi tertutup dengan cerita dan gambar yang bagus. Satu kata, puas!
 
-<!-- {"time": "2009-01-04 12:00:01", "title": "Australia (2008)"} -->
+<!-- METADATA: {"time": "2009-01-04 12:00:01", "title": "Australia (2008)"} -->

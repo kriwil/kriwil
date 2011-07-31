@@ -35,4 +35,4 @@ udah dijual, buat beli yang baruan, tuker tambah gitu loooh ... :P
 [T20e]: http://www.gsmarena.com/ericsson_t20e-251.php
 [Nokia 3330]: http://www.gsmarena.com/nokia_3330-239.php
 
-<!-- {"time": "2005-04-16 07:25:03", "title": "Sony Ericsson Happy Family"} -->
+<!-- METADATA: {"time": "2005-04-16 07:25:03", "title": "Sony Ericsson Happy Family"} -->

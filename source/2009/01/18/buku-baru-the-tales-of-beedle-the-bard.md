@@ -6,4 +6,4 @@
 
 Oiya, buat yang gak tau, buku _The Tales of Beedle the Bard_ ini buku kumpulan dongeng yang diberikan Albus Dumbledore ke Hermione Granger di buku Harry Potter and the Deathly Hollows. Apa dan kenapa silahkan dibaca sendiri.
 
-<!-- {"time": "2009-01-18 12:00:01", "title": "Buku baru: The Tales of Beedle the Bard"} -->
+<!-- METADATA: {"time": "2009-01-18 12:00:01", "title": "Buku baru: The Tales of Beedle the Bard"} -->

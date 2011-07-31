@@ -8,4 +8,4 @@ Tapi tampaknya Lakers belum mau menyerah, dan mampu mengejar ketinggalan hingga 
 
 Lakers ketinggalan 0 - 2. Ini berarti dua pertandingan di Staples Center harus dimenangkan untuk menjaga peluang, dan jangan lupa merebut pertandingan ke-5. Gue bukan termasuk pendukung Lakers, di final ini gue lebih suka Lakers yang jadi juara, walau salah satu pemain yang gue kagumi, Larry Bird, berasal dari Celtics.
 
-<!-- {"time": "2008-06-09 03:18:35", "title": "Celtics 2 - Lakers 0"} -->
+<!-- METADATA: {"time": "2008-06-09 03:18:35", "title": "Celtics 2 - Lakers 0"} -->

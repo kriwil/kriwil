@@ -16,4 +16,4 @@ Awalnya saya kesulitan melakukan koneksi melalui *usb-cradle* tersebut. Akhirnya
 Detailnya? baca aja link yang saya berikan di atas ;)
 
 
-<!-- {"time": "2005-07-28 13:21:07", "title": "Sinkronisasi P800"} -->
+<!-- METADATA: {"time": "2005-07-28 13:21:07", "title": "Sinkronisasi P800"} -->

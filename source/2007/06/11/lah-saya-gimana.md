@@ -10,4 +10,4 @@ Bisa ngga sih warga BOTABEK ikutan? Gue yakin, sebagian besar warga BOTABEK yang
 
 Eh, ini bukan protes atau apa, gue cuma mau tau aja kok. Kalau ngga bisa ya udah :)
 
-<!-- {"time": "2007-06-11 22:49:23", "title": "Lah Saya Gimana?"} -->
+<!-- METADATA: {"time": "2007-06-11 22:49:23", "title": "Lah Saya Gimana?"} -->

@@ -10,4 +10,4 @@ Oh iya, berhubung gw cuma iseng doang, jangan pernah mengharapkan isinya bakal g
 
 Satu lagi, ternyata disain ini agak-agak aneh di IE, dan gw lagi males nyari di mana salahnya (sebenarnya bukan salah gw lah, salah IE-nya), jadi buat yang pake IE, saran gw, pake browser yang laen aja yah, yang lebih mengikuti aturan, <a href="http://www.getfirefox.com">firefox</a> misalnya :P
 
-<!-- {"time": "2004-09-05 23:29:08", "title": "Iya iya, gw nyerah ..."} -->
+<!-- METADATA: {"time": "2004-09-05 23:29:08", "title": "Iya iya, gw nyerah ..."} -->

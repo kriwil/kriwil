@@ -66,4 +66,4 @@ Dan akhirnya ...
 
 Ya ... begitulah ceritanya :D
 
-<!-- {"time": "2005-09-17 11:55:31", "title": "<del>Tidak</del> Sengaja Mengambil Seed Orang"} -->
+<!-- METADATA: {"time": "2005-09-17 11:55:31", "title": "<del>Tidak</del> Sengaja Mengambil Seed Orang"} -->

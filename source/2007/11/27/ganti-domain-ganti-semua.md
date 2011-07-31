@@ -8,4 +8,4 @@ Awalnya gue mikir, gampang dong tinggal bikin _permanent redirect_ dari situs la
 
 Ah, tapi itukan cuma pikiran asal gue aja. Mungkin aja Pemda Kabupaten Bantul emang memanfaatkan momen itu buat sekalian ganti desain. Gue aja sebulan bisa berkali-kali ganti desain, kenapa mereka engga, iya ngga? :D
 
-<!-- {"time": "2007-11-27 08:55:14", "title": "Ganti Domain Ganti Semua?"} -->
+<!-- METADATA: {"time": "2007-11-27 08:55:14", "title": "Ganti Domain Ganti Semua?"} -->

@@ -6,4 +6,4 @@ But I *might* do something about the design. I don't know. I really want to chan
 
 Whatever. Content is the most important thing, nuff said. But what is this? Standard design with no content at all. Well, enjoy your day.
 
-<!-- {"time": "2007-11-26 09:59:11", "title": "This Design is Good"} -->
+<!-- METADATA: {"time": "2007-11-26 09:59:11", "title": "This Design is Good"} -->

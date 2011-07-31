@@ -6,4 +6,4 @@ Sms-sms ucapan selamat Idul Fitri terus berdatangan. Sms dari orang-orang yang c
 
 Tapi, walau cuma setahun sekali, gue bersyukur bahwa gue masih diberi kesempatan untuk bersilaturahmi, baik datang langsung, lewat telepon, atau lewat sms. Gue bersyukur selama ini gue masih diberi kesempatan untuk kembali bersilaturahmi di tahun berikutnya. Dan gue selalu berharap bisa mendapatkan tahun selanjutnya untuk bersilaturahmi, walau cuma setahun sekali. Ya, setahun sekali. Saat [Idul Fitri](http://aldi.kriwil.com/2005/11/02/idul-fitri/).
 
-<!-- {"time": "2005-11-03 20:47:05", "title": "Setahun Sekali"} -->
+<!-- METADATA: {"time": "2005-11-03 20:47:05", "title": "Setahun Sekali"} -->

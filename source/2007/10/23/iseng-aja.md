@@ -5,4 +5,4 @@
 width="300" height="180" alt="What Kind of Blogger Are You?"  border="0" />
 </a>
 
-<!-- {"time": "2007-10-23 05:04:16", "title": "Iseng aja"} -->
+<!-- METADATA: {"time": "2007-10-23 05:04:16", "title": "Iseng aja"} -->

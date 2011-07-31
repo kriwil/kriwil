@@ -7,4 +7,4 @@ Selama 10 hari ini, gw udah tertinggal berbagai macam informasi ternyata, tapi y
 Memang kalau dilihat, sebagian besar email dari Frans memang terkesang memancing <i>flame</i>, atau melanggar aturan milis, seperti top-posting.
 Semoga dengan dikeluarkannya Frans, Frans bisa introspeksi diri, dan berusaha lebih mematuhi peraturan komunitas yang dia ikuti :)
 
-<!-- {"time": "2004-10-08 14:15:48", "title": "BUZZ !!"} -->
+<!-- METADATA: {"time": "2004-10-08 14:15:48", "title": "BUZZ !!"} -->

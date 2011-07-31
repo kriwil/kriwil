@@ -10,4 +10,4 @@ Tidak mau menyerah, Bokap mencoba memasangkan harddisk tersebut di komputer gue 
 
 HORE! :D/
 
-<!-- {"time": "2005-07-12 12:39:19", "title": "And Linux saves the day"} -->
+<!-- METADATA: {"time": "2005-07-12 12:39:19", "title": "And Linux saves the day"} -->

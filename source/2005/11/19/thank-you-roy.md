@@ -11,4 +11,4 @@ More news:
 - [Keane leaves Manchester United](http://soccernet.espn.go.com/news/story?id=349449&cc=4716)
 - [Beckham Pays Tribute To His Former Skipper](http://www.manutd.com/news/fullstory.sps?inewsid=272478)
 
-<!-- {"time": "2005-11-19 01:31:51", "title": "Thank You Roy"} -->
+<!-- METADATA: {"time": "2005-11-19 01:31:51", "title": "Thank You Roy"} -->

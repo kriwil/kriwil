@@ -10,4 +10,4 @@ World of Goo ... doh kemana aja ya gue. Padahal punya udah lama, baru sekarang d
 
 _Must. Resist. The temptations._
 
-<!-- {"time": "2009-01-13 12:00:01", "title": "Game game game"} -->
+<!-- METADATA: {"time": "2009-01-13 12:00:01", "title": "Game game game"} -->

@@ -12,4 +12,4 @@ Tapi dulu gue juga sempat ikut-ikutan loh. Jadi panggilan gue waktu SMP (dari SD
 
 Ngga tau ya kalau sekarang, tapi pas jaman gue SD dan SMP dulu, model-model kayak gitu sering banget gue temukan. Anak-anak SMP/SMA Respati misalnya, dengan bangga menulis (di tembok pake cat semprot, standar lah) Rush-Vatty untuk menunjukkan sekolahnya. Dan masih banyak lagi, gue udah ngga inget, tulisan-tulisan yang (mencoba) kreatif itu. Ah, kapan-kapan gue kayaknya harus cek ke SMP gue dulu itu, masih dipakai ngga yah nama unik itu.
 
-<!-- {"time": "2007-06-19 00:30:02", "title": "Thevoc Family Motor Club"} -->
+<!-- METADATA: {"time": "2007-06-19 00:30:02", "title": "Thevoc Family Motor Club"} -->

@@ -6,4 +6,4 @@ Senangnya bisa beli buku lagi. [Ocehan si Mbot: Gilanya Orang Kantoran":http://m
 
 Oiya, dapet pin dari Parodi Film Seru. Dan pesan dari Isman! :D
 
-<!-- {"time": "2008-12-11 08:34:20", "title": "Buku Baru!"} -->
+<!-- METADATA: {"time": "2008-12-11 08:34:20", "title": "Buku Baru!"} -->

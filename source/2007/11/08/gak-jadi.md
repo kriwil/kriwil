@@ -4,4 +4,4 @@ Tadinya mau nulis sesuatu, tapi gak jadi gara-gara lupa password untuk masuk ke 
 
 Nah, buat kakek-kakek yang protes mulu supaya gue update blog, ini gue update. Sekarang giliran kakek dong. Masak januari 2007 terakhir update. Gimana ini :P
 
-<!-- {"time": "2007-11-08 00:40:05", "title": "Gak Jadi"} -->
+<!-- METADATA: {"time": "2007-11-08 00:40:05", "title": "Gak Jadi"} -->

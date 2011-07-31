@@ -17,4 +17,4 @@ Ah, _btw_, [wotcher](http://www.urbandictionary.com/define.php?term=wotcher&defi
 
 Wotcher!
 
-<!-- {"time": "2007-07-11 11:17:15", "title": "Wotcher!"} -->
+<!-- METADATA: {"time": "2007-07-11 11:17:15", "title": "Wotcher!"} -->

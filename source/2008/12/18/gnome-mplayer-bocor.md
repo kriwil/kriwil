@@ -10,4 +10,4 @@ Dan RAM gue pun sekarat ...
 
 Kalau menggunakan [VLC](http://www.videolan.org/vlc/) gak sampe 20MiB. Oiya, ini Ubuntu 8.10 64bit.
 
-<!-- {"time": "2008-12-18 22:24:32", "title": "GNOME MPlayer Bocor?"} -->
+<!-- METADATA: {"time": "2008-12-18 22:24:32", "title": "GNOME MPlayer Bocor?"} -->

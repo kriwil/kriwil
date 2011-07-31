@@ -4,4 +4,4 @@
 
 Beneran lagi iseng pengen ngeblog gak punya ide :P
 
-<!-- {"time": "2007-12-26 07:49:12", "title": "Iseng, Tampilan Desktop Terbaru"} -->
+<!-- METADATA: {"time": "2007-12-26 07:49:12", "title": "Iseng, Tampilan Desktop Terbaru"} -->

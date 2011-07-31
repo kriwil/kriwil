@@ -6,4 +6,4 @@ Salah satu yang belum itu kotak-kotak di kanan atas itu. Rencananya itu adalah _
 
 Sementara gini aja dulu, kali aja mau diganti lagi.
 
-<!-- {"time": "2008-03-18 17:03:13", "title": "Ganti Desain Lagi"} -->
+<!-- METADATA: {"time": "2008-03-18 17:03:13", "title": "Ganti Desain Lagi"} -->

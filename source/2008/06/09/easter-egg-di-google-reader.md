@@ -10,4 +10,4 @@ _note: yang pernah main Contra di Nitendo pasti tau itu kode apa :D_
 
 (via [Google Blogoscoped](http://blogoscoped.com/archive/2008-06-09-n29.html))
 
-<!-- {"time": "2008-06-09 10:09:44", "title": "Easter Egg di Google Reader"} -->
+<!-- METADATA: {"time": "2008-06-09 10:09:44", "title": "Easter Egg di Google Reader"} -->

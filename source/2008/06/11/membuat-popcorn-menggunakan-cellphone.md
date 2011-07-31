@@ -4,4 +4,4 @@ Bisa gitu [membuat popcorn menggunakan radiasi dari hp](http://www.youtube.com/w
 
 (via [ma.tt](http://ma.tt/2008/06/cell-phone-popcorn/))
 
-<!-- {"time": "2008-06-11 19:18:25", "title": "Membuat Popcorn menggunakan Cellphone?"} -->
+<!-- METADATA: {"time": "2008-06-11 19:18:25", "title": "Membuat Popcorn menggunakan Cellphone?"} -->

@@ -23,4 +23,4 @@ Bagi teman-teman <abbr title="Fakultas Ilmu Komputer">Fasilkom</abbr> 01 yang pu
 **update**: [planet](http://planetplanet.org)-nya pindah ke
 [http://planet.csui01.net](http://planet.csui01.net). Jadi update bookmark-nya yah ^^
 
-<!-- {"time": "2005-04-10 03:22:56", "title": "Planet CSUI 01"} -->
+<!-- METADATA: {"time": "2005-04-10 03:22:56", "title": "Planet CSUI 01"} -->

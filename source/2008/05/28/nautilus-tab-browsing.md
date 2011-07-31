@@ -4,4 +4,4 @@ Akhirnya file manager punya gnome, [nautilus](http://www.gnome.org/projects/naut
 
 Apa untungnya? Gak perlu buka banyak window nautilus lagi :)
 
-<!-- {"time": "2008-05-28 16:55:22", "title": "Nautilus Tab Browsing"} -->
+<!-- METADATA: {"time": "2008-05-28 16:55:22", "title": "Nautilus Tab Browsing"} -->

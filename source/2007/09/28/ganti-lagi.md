@@ -6,4 +6,4 @@ Kali ini, seperti gue bilang [sebelumnya](http://kriwil.com/journal/bukan-ngeblo
 
 Kenapa? Kalo berdasarkan [pengalaman](http://maniacalrage.net/past/2007/9/13/the_primary_reason_i_redesigned/) [Garrett Murray](http://maniacalrage.net) -oh ya, akhirnya desainnya ngikutin dikit blog dia-, menghilangkan dua _item_ di atas (judul dan komentar) berhasil meningkatkan fokus ke bagian menulisnya, bagian yang justru paling penting dari _ngeblog_. Well, itu yang gue butuhkan. Fokus. Walau gue gak melihat koneksinya antara menghilangkan dua hal tadi dengan meningkatnya fokus gue dalam menulis, ngga ada salahnya juga dicoba. Lagian gue emang lagi nyari suasana baru kok.
 
-<!-- {"time": "2007-09-28 12:13:08", "title": "Ganti Lagi"} -->
+<!-- METADATA: {"time": "2007-09-28 12:13:08", "title": "Ganti Lagi"} -->

@@ -4,4 +4,4 @@ Gue bukan pengguna tetap [Banshee](http://banshee-project.org/Main_Page). Euh, g
 
 Sekarang, [banshee 1.0 Beta 2](http://gburt.blogspot.com/2008/05/banshee-10-beta-2-released.html) dirilis, berarti saatnya gue kembali mencoba banshee.
 
-<!-- {"time": "2008-05-27 17:12:57", "title": "Banshee 1.0 Beta 2 Dirilis"} -->
+<!-- METADATA: {"time": "2008-05-27 17:12:57", "title": "Banshee 1.0 Beta 2 Dirilis"} -->

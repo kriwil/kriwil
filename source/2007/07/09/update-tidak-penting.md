@@ -5,4 +5,4 @@ Sesuai judul, cuma mau mengisi aja biar kelihatan masih di-update. Gue masih ter
 Oiya, bagi yang belum tau, di Indonesia udah ada tempat buat sharing foto secara online loh. Hari gini gitu loh, ngga cuma [flickr](http://flickr.com/ "Flickr") atau [picasa](http://picasaweb.google.com/ "Picasa Web Album") aja. Namanya [sharingfoto](http://sharingfoto.com/ "SharingFoto"), dengan alamat di [http://sharingfoto.com](http://sharingfoto.com). Kelebihannya? selain buatan anak bangsa (cieh), servernya terletak di IIX, jadi dijamin cepet banget kalau diakses dari Indonesia. Dicoba yah ;)
 
 
-<!-- {"time": "2007-07-09 01:35:52", "title": "Update Tidak Penting"} -->
+<!-- METADATA: {"time": "2007-07-09 01:35:52", "title": "Update Tidak Penting"} -->

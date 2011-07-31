@@ -26,4 +26,4 @@ Tinggat kemampuan yang berimbang antar anggota tim, walau tidak begitu penting, 
 
 Kenapa ini penting? Karena ada beberapa programmer yang suka merasa gatal kalau melihat fungsi atau potongan kode yang menurut dia kurang efisien atau terlalu ribet (saya, contohnya :D)
 
-<!-- {"time": "2008-10-12 17:06:03", "title": "Pemrograman Tim"} -->
+<!-- METADATA: {"time": "2008-10-12 17:06:03", "title": "Pemrograman Tim"} -->

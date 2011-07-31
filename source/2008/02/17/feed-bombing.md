@@ -7,4 +7,4 @@ Emang gak penting post kali ini (_again, as if there is any_), soalnya aslinya c
 
 Oiya, pertanyaan buat yang tau. Penggunaan yang bener untuk kondisi di atas itu _as if there *is* any_ atau _as if there *was* any_ yah? Gue bingung.
 
-<!-- {"time": "2008-02-17 07:14:02", "title": "Feed Bombing!"} -->
+<!-- METADATA: {"time": "2008-02-17 07:14:02", "title": "Feed Bombing!"} -->

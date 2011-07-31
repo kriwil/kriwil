@@ -10,4 +10,4 @@ Ini lagi kurang kerjaan ngambil foto keluarga kura-kura peliharaan keluarga gue.
 
 Foto-foto lain bisa dilihat di "halaman flickr gue":http://flickr.com/photos/kriwil dengan tag "kurakura kriwil":http://www.flickr.com/search/?q=kurakura+kriwil&m=tags&w=99991096%40N00&z=t.
 
-<!-- {"time": "2008-12-08 01:04:22", "title": "Ula, Gembul, Gaban, dan Trio Kwek-Kwek"} -->
+<!-- METADATA: {"time": "2008-12-08 01:04:22", "title": "Ula, Gembul, Gaban, dan Trio Kwek-Kwek"} -->

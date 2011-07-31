@@ -8,4 +8,4 @@
 * There's a time and a place for optimizations, the time and place are AFTER YOU ARE DONE.
 
 
-<!-- {"time": "2009-01-12 12:00:01", "title": "Free Programming Tips are Worth Every Penny"} -->
+<!-- METADATA: {"time": "2009-01-12 12:00:01", "title": "Free Programming Tips are Worth Every Penny"} -->

@@ -6,4 +6,4 @@ Just thing I do before I go to bed. I played with [conky](http://conky.sourcefor
 
 You could grab the [conkyrc](http://kriwil.com/file_download/1/conkyrc.txt) if you want.
 
-<!-- {"time": "2008-02-18 10:38:13", "title": "My Current Conky Setup"} -->
+<!-- METADATA: {"time": "2008-02-18 10:38:13", "title": "My Current Conky Setup"} -->

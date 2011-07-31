@@ -6,4 +6,4 @@ Kayaknya perlu juga ya belajar [AWK](http://en.wikipedia.org/wiki/Awk). Buat yan
 * [Bagian dua](http://www.catonmat.net/blog/awk-one-liners-explained-part-two/)
 * [Bagian tiga](http://www.catonmat.net/blog/awk-one-liners-explained-part-three/)
 
-<!-- {"time": "2009-01-05 12:00:01", "title": "Belajar AWK"} -->
+<!-- METADATA: {"time": "2009-01-05 12:00:01", "title": "Belajar AWK"} -->

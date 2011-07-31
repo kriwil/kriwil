@@ -4,4 +4,4 @@
 
 Boleh juga. Walau bahasa-nya agak-agak campur Java dan C++ (dan C?).
 
-<!-- {"time": "2008-04-06 17:22:38", "title": "Source Code Vista?"} -->
+<!-- METADATA: {"time": "2008-04-06 17:22:38", "title": "Source Code Vista?"} -->

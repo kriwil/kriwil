@@ -18,4 +18,4 @@ Blog lain yang ber-merah-putih:
 
 <ins datetime="2005-08-07T17:16:05+00:00">update: [Clipping tentang disain MERDEKA](http://flickr.com/photos/lunge)</ins>
 
-<!-- {"time": "2005-08-06 14:50:25", "title": "Merah Putih"} -->
+<!-- METADATA: {"time": "2005-08-06 14:50:25", "title": "Merah Putih"} -->

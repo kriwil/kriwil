@@ -19,4 +19,4 @@ deb http://download.virtualbox.org/virtualbox/debian intrepid non-free #VirtualB
 Tambahan:
 Kalau butuh key untuk repositorinya, bisa dicoba cara [ngambil dari keyserver](http://littlebrain.org/2008/11/25/an-error-occurred-during-the-signature-verification/).
 
-<!-- {"time": "2008-11-27 19:19:55", "title": "Catatan: sources.list untuk Ubuntu 8.10 Intrepid Ibex"} -->
+<!-- METADATA: {"time": "2008-11-27 19:19:55", "title": "Catatan: sources.list untuk Ubuntu 8.10 Intrepid Ibex"} -->

@@ -8,4 +8,4 @@ Mari kita teruskan kemenangan pada tanggal [22 Mei](http://www.uefa.com/competit
 
 [Glory Glory Man United](http://en.wikipedia.org/wiki/Glory_Glory_Man_United)!
 
-<!-- {"time": "2008-05-11 19:25:34", "title": "Selamat!"} -->
+<!-- METADATA: {"time": "2008-05-11 19:25:34", "title": "Selamat!"} -->

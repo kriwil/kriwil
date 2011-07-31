@@ -30,4 +30,4 @@ Akhirnya, gw memutuskan untuk menggunakan <a href="http://www.mystarone.com">sta
 Tanggak 4 September, gw ditelpon sama orang Telkom, mengabarkan bahwa fasiltas ADSL Telkom sudah bisa gw gunakan. Tanpa membuang waktu, gw langsung datang ke Telkom (lagi) untuk mendaftarkan diri.
 Akhirnya, setelah membereskan segala adminstrasi, tanggal 8 September 2004 gw diberi kabar bahwa fasilitas ADSL gw udah aktif ... dan here I am ... :)
 
-<!-- {"time": "2004-09-09 07:49:03", "title": "Telkom Speedy"} -->
+<!-- METADATA: {"time": "2004-09-09 07:49:03", "title": "Telkom Speedy"} -->

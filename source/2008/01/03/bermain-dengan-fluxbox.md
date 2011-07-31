@@ -18,4 +18,4 @@ Oh, tulisan panjang di atas cuma iseng aja. Aslinya sih cuma mau nampilin tangka
 Lama-lama isi blog gue kalo gak tampilan desktop, ya informasi ganti desain blog :P
 
 
-<!-- {"time": "2008-01-03 08:51:30", "title": "Bermain dengan Fluxbox"} -->
+<!-- METADATA: {"time": "2008-01-03 08:51:30", "title": "Bermain dengan Fluxbox"} -->

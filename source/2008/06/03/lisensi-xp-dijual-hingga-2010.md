@@ -6,4 +6,4 @@ Tapi, pilih mana? XP yang dirilis Oktober 2001 atau [Ubuntu Netbook Remix](http:
 
 ([via lifehacker](http://lifehacker.com/394789/xp-stays-alive-till-2010))
 
-<!-- {"time": "2008-06-03 22:17:37", "title": "Lisensi XP Dijual Hingga 2010"} -->
+<!-- METADATA: {"time": "2008-06-03 22:17:37", "title": "Lisensi XP Dijual Hingga 2010"} -->

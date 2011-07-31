@@ -9,4 +9,4 @@ Oke, sekarang pertanyaannya, bagaimana kita membuktikan bahwa minyak goreng itu 
 Pertanyaan selanjutnya, bagaimana kita membuktikan bahwa minyak goreng tidak bisa diminum, yang kalau menurut iklan yang gue sebut di atas, berarti tidak baik, tanpa meminumnya?
 tentunya liat saja orang lain yang meminumnya dan mendapatkan efek negatifnya :D
 
-<!-- {"time": "2008-02-29 00:21:20", "title": "Iklan Minyak Goreng"} -->
+<!-- METADATA: {"time": "2008-02-29 00:21:20", "title": "Iklan Minyak Goreng"} -->

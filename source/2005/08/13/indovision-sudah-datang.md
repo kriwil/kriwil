@@ -30,4 +30,4 @@ Sementara ini, karena baru saja terpasang, semua saluran tersedia. *"Itu masih t
 kata teknisinya. Jadi, gue nikmati aja semua saluran yang ada. Sekarang lagi nonton
 Manchester United vs Everton di ESPN ;)
 
-<!-- {"time": "2005-08-13 19:17:07", "title": "Indovision sudah datang"} -->
+<!-- METADATA: {"time": "2005-08-13 19:17:07", "title": "Indovision sudah datang"} -->

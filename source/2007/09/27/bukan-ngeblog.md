@@ -12,4 +12,4 @@ Ngomongin Andrea Hirata, tentu yang terlintas adalah Tetralogi Laskar Pelangi. W
 
 Tuh kan, tulisan panjang yang mengalir begitu saja. Yah, bukan berarti tulisannya bagus juga sih, tapi kan yang penting panjang. Jadi inget jaman SD/SMP dulu. Ada yang bilang, kalau ulangan/ujian PMP (PPKn) jawabannya harus panjang biar kelihatan bagus. Katanya kalau panjang-panjang, kita jadi kelihatan pintar. Tapi gue gak pernah kayak gitu. Pegel gila. Buat gue sih, selama jawaban gue udah menjawab pertanyaan, ya berarti udah cukup, walau jawaban gue kadang cuma satu atau dua kalimat, bukannya satu atau dua paragraf.
 
-<!-- {"time": "2007-09-27 12:13:08", "title": "Bukan Ngeblog"} -->
+<!-- METADATA: {"time": "2007-09-27 12:13:08", "title": "Bukan Ngeblog"} -->

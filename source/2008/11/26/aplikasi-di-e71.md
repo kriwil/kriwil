@@ -22,4 +22,4 @@ Jadi ini aplikasi yang terinstall di E71 gue, tentunya selain aplikasi yang seca
 
 Kecuali psiloc connect, aplikasi yang terdaftar adalah aplikasi gratis (atau masih beta). Saat ini hp gue bersih dari aplikasi illegal (karena firmware 110.07.127 belum bisa dihack :D).
 
-<!-- {"time": "2008-11-26 12:39:31", "title": "Aplikasi di E71"} -->
+<!-- METADATA: {"time": "2008-11-26 12:39:31", "title": "Aplikasi di E71"} -->

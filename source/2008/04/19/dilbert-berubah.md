@@ -10,4 +10,4 @@ Ada satu fitur yang menarik, namanya [Mashups](http://dilbert.com/mashups/punchl
 
 _Anyway, kudos to all dilbert team._
 
-<!-- {"time": "2008-04-19 08:43:07", "title": "Dilbert Berubah!"} -->
+<!-- METADATA: {"time": "2008-04-19 08:43:07", "title": "Dilbert Berubah!"} -->

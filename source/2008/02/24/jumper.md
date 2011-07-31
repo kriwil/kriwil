@@ -10,4 +10,4 @@ Kalau yang udah liat traliernya, ya udah cukup sampai situ. Semua yang gue bilan
 
 Kalau ada yang emang tetap mau nonton, ya silahkan aja sih, ngapain juga saya ngelarang. Tapi siap-siap aja kecewa :D
 
-<!-- {"time": "2008-02-24 03:46:19", "title": "Jumper"} -->
+<!-- METADATA: {"time": "2008-02-24 03:46:19", "title": "Jumper"} -->

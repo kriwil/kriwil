@@ -35,4 +35,4 @@ Sebuah fakta yang bisa ditebak, sang pencipta <b>Gloomy Sunday</b>, <b>Rezs? Ser
 dikutip dari [http://www.phespirit.info/gloomysunday/](http://www.phespirit.info/gloomysunday/)
 untuk keterangan lebih lengkap lihat situs di atas
 
-<!-- {"time": "2004-09-17 21:38:58", "title": "Gloomy Sunday - the suicide song"} -->
+<!-- METADATA: {"time": "2004-09-17 21:38:58", "title": "Gloomy Sunday - the suicide song"} -->
