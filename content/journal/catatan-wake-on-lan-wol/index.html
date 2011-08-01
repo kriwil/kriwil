@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="/css/main.css" rel="stylesheet">
+<title>kriwil.com &ndash; Catatan: Wake On LAN (WOL)</title>
+<link rel="openid.server" href="http://www.myopenid.com/server">
+<link rel="openid.delegate" href="http://kriwil.myopenid.com/">
+<link rel="openid2.local_id" href="http://kriwil.myopenid.com">
+<link rel="openid2.provider" href="http://www.myopenid.com/server">
+<meta http-equiv="X-XRDS-Location" content="http://www.myopenid.com/xrds?username=kriwil.myopenid.com">
+<link rel="shortcut icon" type="image/ico" href="/img/favicon.ico">
+<link rel="home" href="http://kriwil.com/">
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://feeds2.feedburner.com/kriwil">
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-2022719-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</head>
+<body>
+<div class="header">
+    <div class="clearfix container">
+        <h1><a href="/">kriwil</a></h1>
+        <div class="about-me">
+            <p>Hi, I'm Aldiantoro Nugroho, (web) developer from Jakarta, Indonesia.<br>I currently live in Kuala Lumpur, Malaysia.</p>
+        </div>
+    </div>
+</div>
+<div class="navigation">
+    <div class="clearfix container">
+        <ul>
+            <li class="active"><a href="/">journal</a></li>
+            <li class=""><a href="/archive/2011/">archive</a></li>
+        </ul>
+    </div>
+</div>
+<div class="content">
+    <div class="clearfix container">
+        
+<div class="post">
+    <div class="date">2008-01-26</div>
+    <h3><a href="/journal/catatan-wake-on-lan-wol">Catatan: Wake On LAN (WOL)</a></h3>
+    <p>Buat catatan aja, soalnya suka lupa kalau abis install ulang komputer. Dan juga buat bagi-bagi ilmu kalau yang belum tau.</p>
+
+<p>bq. Wake on LAN (WOL, sometimes WoL) is an Ethernet computer networking standard that allows a shut-down computer to be booted remotely. (dari <a href="http://en.wikipedia.org/wiki/Wake-on-LAN">wikipedia</a>)</p>
+
+<p>Jadi, fungsinya itu biar kita bisa menyalakan komputer secara <em>remote</em>. Hal ini berguna buat orang-orang seperti gue yang meletakkan data di komputer terpisah di dalam satu jaringan, dan ingin mengakses sewaktu-waktu, tetapi tidak ingin membiarkan komputernya nyala terus.</p>
+
+<p>Syarat pertama dari menggunakan fitur Wake On LAN ini adalah dukungan dari ethernet card (dan motherboard? gak tau juga sih) komputer yang akan "dibangunkan". Cara taunya liat di BIOS, dan cari tulisan yang mirip-mirip Wake on LAN. Aktifkan jika belum aktif.</p>
+
+<p>Kemudian, kita harus tau nama perangkat jaringan (<em>network device</em>) yang akan digunakan. Di terminal, ketikkan</p>
+
+<p><code>ifconfig</code></p>
+
+<p>Hasil di komputer saya seperti ini:</p>
+
+<pre><code>eth0      Link encap:Ethernet  HWaddr 00:50:8D:9D:D1:84  
+inet addr:10.0.0.6  Bcast:255.255.255.255  Mask:255.255.255.0
+inet6 addr: fe80::250:8dff:fe9d:d184/64 Scope:Link
+UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+RX packets:166 errors:0 dropped:0 overruns:0 frame:0
+TX packets:118 errors:0 dropped:0 overruns:0 carrier:0
+collisions:0 txqueuelen:1000 
+RX bytes:20233 (19.7 KB)  TX bytes:84689 (82.7 KB)
+Interrupt:16 
+
+lo        Link encap:Local Loopback  
+inet addr:127.0.0.1  Mask:255.0.0.0
+inet6 addr: ::1/128 Scope:Host
+UP LOOPBACK RUNNING  MTU:16436  Metric:1
+RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+collisions:0 txqueuelen:0 
+RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+</code></pre>
+
+<p>Perangkat yang akan saya gunakan adalah <code>eth0</code>. Catat (dan maksud catat di sini adalah copy - paste ke text editor, gak usah ambil kertas dan pensil) <em>hardware address</em> perangkat bersangkutan, punya saya adalah <code>00:50:8D:9D:D1:84</code>.</p>
+
+<p>Setelah kita mengetahui jenis perangkat yang digunakan, sekarang kita perlu membuat skrip yang akan mengaktifkan opsi WOL di ethernet kita setiap kali komputer dinyalakan. Di terminal, ketikkan</p>
+
+<p><code>sudo vi /etc/init.d/wakeonlanconfig</code></p>
+
+<p><code>vi</code> bisa diganti dengan editor kesayangan masing-masing, gedit, pico, nano, whatever.</p>
+
+<p>Lalu copy - paste tulisan di bawah ini dan simpan lalu keluar dari editor.</p>
+
+<p>pre. #!/bin/bash
+ethtool -s eth0 wol g
+exit</p>
+
+<p>Kemudian kita perlu membuat skrip yang kita buat menjadi <em>executable</em></p>
+
+<p><code>sudo chmod a+x /etc/init.d/wakeonlanconfig</code></p>
+
+<p>Dan membuat skrip yang kita buat jalan saat komputer dinyalakan</p>
+
+<p><code>sudo update-rc.d -f wakeonlanconfig defaults</code></p>
+
+<p>Pengaturan di komputer tujuan (yang akan "dibangunkan") sudah selesai. Untuk memastikan, bisa dicoba jalankan</p>
+
+<p><code>sudo /etc/init.d/wakeonlanconfig</code></p>
+
+<p>Jika tidak ada error, berarti kita bisa mematikan komputer.</p>
+
+<p><code>sudo halt</code> atau <code>sudo shutdown -h now</code></p>
+
+<p>Sekarang beralih ke komputer yang akan "membangunkan" komputer tadi. Pertama-tama kita harus memasang paket wakeonlan. Jika menggunakan ubuntu, aktifkan repositori <em>universe</em> dan lakukan</p>
+
+<p><code>sudo apt-get install wakeonlan</code></p>
+
+<p>Setelah selesai, jalankan perintah <code>wakeonlan</code> ditambah <em>hardware address</em> komputer yang akan dibangunkan tadi. Kalau punya saya jadi</p>
+
+<p><code>wakeonlan 00:50:8D:9D:D1:84</code></p>
+
+<p>Tunggu beberapa saat, dan komputer bisa diakses ;)</p>
+
+<p><em>(diambil secara brutal dari <a href="http://ubuntuforums.org/showthread.php?t=234588">HOWTO: Set your system up for Wake On LAN (WOL)</a>)</em></p>
+
+<!-- METADATA: {"time": "2008-01-26 20:38:38", "title": "Catatan: Wake On LAN (WOL)"} -->
+
+</div>
+
+    </div>
+</div>
+<div class="information">
+    <div class="clearfix container">
+        <div class="about">
+            <p>Hi, I'm Aldiantoro Nugroho, (web) developer from Jakarta, Indonesia. I currently live in Kuala Lumpur, Malaysia.</p>
+            <p>Currently, I have interests in python, django, html, css, javascript, and web development in general.</p>
+            <p>And this is my personal website.</p>
+        </div>
+        <div class="social">
+            <p>Since I'm internet citizen, I'm also several in social network sites.</p>
+            <ul>
+                <li><a href="http://twitter.com/kriwil">twitter</a></li>
+                <li><a href="http://facebook.com/aldiantoro">facebook</a></li>
+                <li><a href="https://plus.google.com/117977652006585312863">google+</a></li>
+                <li><a href="http://github.com/kriwil">github</a></li>
+                <li><a href="http://linkedin.com/in/aldiantoro">linkedin</a></li>
+            </ul>
+            <p>I have some others, but I'll be a long list. So if you see user <strong>kriwil</strong>, that's most probably me.</p>
+        </div>
+    </div>
+</div>
+<div class="footer">
+    <div class="container">
+        2004-2011 &ndash; <a href="/">kriwil.com</a>
+    </div>
+</div>
+</body>
+</html>
