@@ -6,12 +6,28 @@
         <link>http://kriwil.com/</link>
         <language>en</language>
         <copyright>kriwil.com</copyright>
-        <pubDate>Tue, 31 Aug 2010 21:40:27 +0700</pubDate>
-        <lastBuildDate>Tue, 31 Aug 2010 21:40:27 +0700</lastBuildDate>
+        <pubDate>Mon, 01 Aug 2011 01:00:00 +0700</pubDate>
+        <lastBuildDate>Mon, 01 Aug 2011 01:00:00 +0700</lastBuildDate>
         <generator>http://github.com/kriwil/tulisaja/</generator>
         <ttl>30</ttl>
         <atom:link href="http://kriwil.com/feed.xml" rel="self" type="application/rss+xml" />
         
+        
+        <item>
+            <title>Hello World Again (?)</title>
+            <description>&lt;p&gt;Jadi, masih ada yang ngeblog kah?&lt;/p&gt;
+
+&lt;p&gt;Oh, salah. Blog masih ada kah? Masih normalkah gue ngeblog? Di saat serangan &lt;em&gt;social media&lt;/em&gt; begitu brutalnya?&lt;/p&gt;
+
+&lt;p&gt;Post terakhir sebelum ini itu hampir setahun yang lalu. Wow.&lt;/p&gt;
+
+&lt;!-- METADATA: {&#34;time&#34;: &#34;2011-08-01 01:00:00&#34;, &#34;title&#34;: &#34;Hello World Again (?)&#34;} --&gt;
+</description>
+            <link>http://kriwil.com/journal/hello-world-again/</link>
+            <guid isPermaLink="true">http://kriwil.com/journal/hello-world-again/</guid>
+            <pubDate>Mon, 01 Aug 2011 01:00:00 +0700</pubDate>
+            <source url="http://kriwil.com/">kriwil.com</source>
+        </item>
         
         <item>
             <title>Double Standard?</title>
@@ -156,22 +172,6 @@
             <link>http://kriwil.com/journal/saykoji-five-minutes-edane-jamrud-titi-kamal/</link>
             <guid isPermaLink="true">http://kriwil.com/journal/saykoji-five-minutes-edane-jamrud-titi-kamal/</guid>
             <pubDate>Wed, 01 Jul 2009 10:30:25 +0700</pubDate>
-            <source url="http://kriwil.com/">kriwil.com</source>
-        </item>
-        
-        <item>
-            <title>Bye Yahoo Messenger</title>
-            <description>&lt;p&gt;Buat yang memiliki nama gue di daftar teman di yahoo messengernya pasti sadar kalau gue sudah sangat lama tidak login di yahoo messenger. Gue tidak lagi menggunakan protokol yahoo messenger untuk melakukan aktivitas &lt;em&gt;chat&lt;/em&gt;. Alasannya? Yang utama adalah protokol tertutup yahoo messenger.&lt;/p&gt;
-
-&lt;p&gt;Tertutupnya protokol yahoo messenger membuat pengembang aplikasi kesulitan membuat aplikasi yang dapat menggunakan protokol itu. Mereka tidak pernah tau secara pasti apa dan bagaimana protokol itu bekerja. Gue sehari-hari menggunakan linux, jadi sangat tidak mungkin gue menggunakan &lt;em&gt;yahoo messenger client&lt;/em&gt; yang disediakan, karena client itu hanya untuk windows.&lt;/p&gt;
-
-&lt;p&gt;Gue hanya mengecek akun yahoo messenger satu atau dua hari sekali. Jadi kalau mau &lt;em&gt;ngobrol&lt;/em&gt; dengan gue, silahkan gunakan google talk atau layanan yang menggunakan jabber, dan tambahkan akun kriwil@gmail.com sebagai teman.&lt;/p&gt;
-
-&lt;!-- METADATA: {&#34;time&#34;: &#34;2009-06-17 21:26:36&#34;, &#34;title&#34;: &#34;Bye Yahoo Messenger&#34;} --&gt;
-</description>
-            <link>http://kriwil.com/journal/bye-yahoo-messenger/</link>
-            <guid isPermaLink="true">http://kriwil.com/journal/bye-yahoo-messenger/</guid>
-            <pubDate>Wed, 17 Jun 2009 21:26:36 +0700</pubDate>
             <source url="http://kriwil.com/">kriwil.com</source>
         </item>
         
