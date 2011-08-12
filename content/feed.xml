@@ -6,12 +6,32 @@
         <link>http://kriwil.com/</link>
         <language>en</language>
         <copyright>kriwil.com</copyright>
-        <pubDate>Mon, 01 Aug 2011 01:00:00 +0700</pubDate>
-        <lastBuildDate>Mon, 01 Aug 2011 01:00:00 +0700</lastBuildDate>
+        <pubDate>Fri, 12 Aug 2011 01:00:00 +0700</pubDate>
+        <lastBuildDate>Fri, 12 Aug 2011 01:00:00 +0700</lastBuildDate>
         <generator>http://github.com/kriwil/tulisaja/</generator>
         <ttl>30</ttl>
         <atom:link href="http://kriwil.com/feed.xml" rel="self" type="application/rss+xml" />
         
+        
+        <item>
+            <title>Gonta-ganti Blog Engine</title>
+            <description>&lt;p&gt;Ini udah &lt;a href=&#34;http://en.wikipedia.org/wiki/Blog_software&#34;&gt;&lt;em&gt;blog engine&lt;/em&gt;&lt;/a&gt; ke-5 yang gue pake. Ternyata gue suka gonta-ganti blog engine tanpa alasan jelas.&lt;/p&gt;
+
+&lt;p&gt;Dari &lt;a href=&#34;http://sourceforge.net/projects/bblog/&#34;&gt;bblog&lt;/a&gt;, ke &lt;a href=&#34;http://wordpress.org&#34;&gt;wordpress&lt;/a&gt;, trus ke &lt;a href=&#34;http://textpattern.com&#34;&gt;textpattern&lt;/a&gt;, true bikin sendiri dengan &lt;a href=&#34;http://codeigniter.com&#34;&gt;CodeIgniter&lt;/a&gt;, dan sekarang, &lt;em&gt;full static html&lt;/em&gt;, di-generate menggunakan, lagi-lagi buatan sendiri, &lt;a href=&#34;https://github.com/kriwil/tulisaja&#34;&gt;tulisaja&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Tentang blog engine terakhir ini, dibuat menggunakan python dan markdown untuk membuat static html. Walau sebenarnya sudah ada solusi model ini seperti &lt;a href=&#34;http://jekyllrb.com/&#34;&gt;jekyll&lt;/a&gt; dan &lt;a href=&#34;http://ringce.com/hyde&#34;&gt;hyde&lt;/a&gt;, gue akhirnya memutuskan bikin sendiri karena beberapa hal.&lt;/p&gt;
+
+&lt;p&gt;Untuk jekyll, ditulis dengan &lt;a href=&#34;http://www.ruby-lang.org/&#34;&gt;ruby&lt;/a&gt;. Dan sebagai programmer python, bakal buang-buang waktu kalau harus belajar bahasa yang menurut gue mirip seperti python, lebih baik menggunakan bahasa yang sudah jelas gue bisa. Kenapa? supaya gue bisa ganti kode-nya sesuai kebutuhan.&lt;/p&gt;
+
+&lt;p&gt;Dari situ, gue mencoba hyde. Ribet. Entah lagi males, entah terlalu kompleks. Jadilah bikin sendiri dengan bantuan markdown2 dan jinja. Dan lagi, gue iseng, mau belajar sesuatu yang baru. Dunia penuh dengan hal-hal menarik yang bisa dipelajari, kayaknya sayang aja kalau gue setidaknya mencoba satu-dua kali. Ini untuk berlaku untuk segala hal. Mengutip Steve Jobs, &#34;stay hungry, stay foolish&#34;.&lt;/p&gt;
+
+&lt;!-- METADATA: {&#34;time&#34;: &#34;2011-08-12 01:00:00&#34;, &#34;title&#34;: &#34;Gonta-ganti  Blog Engine&#34;} --&gt;
+</description>
+            <link>http://kriwil.com/journal/gonta-ganti-blog-engine/</link>
+            <guid isPermaLink="true">http://kriwil.com/journal/gonta-ganti-blog-engine/</guid>
+            <pubDate>Fri, 12 Aug 2011 01:00:00 +0700</pubDate>
+            <source url="http://kriwil.com/">kriwil.com</source>
+        </item>
         
         <item>
             <title>Hello World Again (?)</title>
@@ -154,22 +174,6 @@
             <link>http://kriwil.com/journal/8-144-label-di-gmail/</link>
             <guid isPermaLink="true">http://kriwil.com/journal/8-144-label-di-gmail/</guid>
             <pubDate>Thu, 02 Jul 2009 08:37:33 +0700</pubDate>
-            <source url="http://kriwil.com/">kriwil.com</source>
-        </item>
-        
-        <item>
-            <title>Saykoji, Five Minutes, Edane, Jamrud, Titi Kamal</title>
-            <description>&lt;p&gt;&lt;a href=&#34;http://files.getdropbox.com/u/112837/kriwil.com/image/post/saykoji_full.png&#34;&gt;&lt;img src=&#34;http://files.getdropbox.com/u/112837/kriwil.com/image/post/saykoji_min.png&#34; alt=&#34;saykoji, titi kamal&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Saykoji serupa dengan Five Minutes, Edane, Jamrud, dan Titi Kamal. Hmm ...&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;mungkin karena &lt;a href=&#34;http://www.last.fm/tag/indonesia&#34;&gt;tag indonesia&lt;/a&gt;?&lt;/em&gt;&lt;/p&gt;
-
-&lt;!-- METADATA: {&#34;time&#34;: &#34;2009-07-01 10:30:25&#34;, &#34;title&#34;: &#34;Saykoji, Five Minutes, Edane, Jamrud, Titi Kamal&#34;} --&gt;
-</description>
-            <link>http://kriwil.com/journal/saykoji-five-minutes-edane-jamrud-titi-kamal/</link>
-            <guid isPermaLink="true">http://kriwil.com/journal/saykoji-five-minutes-edane-jamrud-titi-kamal/</guid>
-            <pubDate>Wed, 01 Jul 2009 10:30:25 +0700</pubDate>
             <source url="http://kriwil.com/">kriwil.com</source>
         </item>
         
