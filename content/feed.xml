@@ -6,12 +6,32 @@
         <link>http://kriwil.com/</link>
         <language>en</language>
         <copyright>kriwil.com</copyright>
-        <pubDate>Sat, 13 Aug 2011 01:00:00 +0700</pubDate>
-        <lastBuildDate>Sat, 13 Aug 2011 01:00:00 +0700</lastBuildDate>
+        <pubDate>Sat, 01 Jan 2011 23:00:00 +0700</pubDate>
+        <lastBuildDate>Sat, 01 Jan 2011 23:00:00 +0700</lastBuildDate>
         <generator>http://github.com/kriwil/tulisaja/</generator>
         <ttl>30</ttl>
         <atom:link href="http://kriwil.com/feed.xml" rel="self" type="application/rss+xml" />
         
+        
+        <item>
+            <title>2012</title>
+            <description>&lt;p&gt;And it&#39;s 2012 already. Life&#39;s fast, isn&#39;t it? Resolutions? Nope. Don&#39;t I have them. Oh wait, I have them. Won&#39;t share though.&lt;/p&gt;
+
+&lt;p&gt;2011 was a great year. Some reasons, use python profesionally and working abroad. Other small things: relearn c++/qt/qml for symbian development, released (two) free apps to the nokia store, have two webapps in the net (though I haven&#39;t promote them, yet).&lt;/p&gt;
+
+&lt;p&gt;2012, I&#39;ll still use python, it&#39;s my main language now. Maybe I&#39;ll write more mobile apps, for fun. Another plan is to spend more time in my webapps. And more vacations.&lt;/p&gt;
+
+&lt;p&gt;More surprise to come. Hopefully.&lt;/p&gt;
+
+&lt;p&gt;So, what&#39;s yours?&lt;/p&gt;
+
+&lt;!-- METADATA: {&#34;time&#34;: &#34;2011-01-01 23:00:00&#34;, &#34;title&#34;: &#34;2012&#34;} --&gt;
+</description>
+            <link>http://kriwil.com/journal/2012/</link>
+            <guid isPermaLink="true">http://kriwil.com/journal/2012/</guid>
+            <pubDate>Sat, 01 Jan 2011 23:00:00 +0700</pubDate>
+            <source url="http://kriwil.com/">kriwil.com</source>
+        </item>
         
         <item>
             <title>About Dreams</title>
@@ -166,22 +186,6 @@
             <link>http://kriwil.com/journal/we-well-not-go-down/</link>
             <guid isPermaLink="true">http://kriwil.com/journal/we-well-not-go-down/</guid>
             <pubDate>Fri, 17 Jul 2009 16:31:59 +0700</pubDate>
-            <source url="http://kriwil.com/">kriwil.com</source>
-        </item>
-        
-        <item>
-            <title>booting using gimp?</title>
-            <description>&lt;blockquote&gt;
-  &lt;p&gt;I had ubuntu installed and i installed windows inside it. How do I uninstall ubuntu without reinstalling windows? It is booting using gimp if that?s any help.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.centerarticles.com/how-do-i-uninstall-ubuntu-while-windows-is-installed-within-it/&#34;&gt;Centerarticles&lt;/a&gt;. I&#39;ll be glad to know how image editor could boot OS.&lt;/p&gt;
-
-&lt;!-- METADATA: {&#34;time&#34;: &#34;2009-07-16 17:14:29&#34;, &#34;title&#34;: &#34;booting using gimp?&#34;} --&gt;
-</description>
-            <link>http://kriwil.com/journal/booting-using-gimp/</link>
-            <guid isPermaLink="true">http://kriwil.com/journal/booting-using-gimp/</guid>
-            <pubDate>Thu, 16 Jul 2009 17:14:29 +0700</pubDate>
             <source url="http://kriwil.com/">kriwil.com</source>
         </item>
         
