@@ -6,12 +6,26 @@
         <link>http://kriwil.com/</link>
         <language>en</language>
         <copyright>kriwil.com</copyright>
-        <pubDate>Sat, 01 Jan 2011 23:00:00 +0700</pubDate>
-        <lastBuildDate>Sat, 01 Jan 2011 23:00:00 +0700</lastBuildDate>
+        <pubDate>Sun, 02 Jan 2011 12:00:00 +0700</pubDate>
+        <lastBuildDate>Sun, 02 Jan 2011 12:00:00 +0700</lastBuildDate>
         <generator>http://github.com/kriwil/tulisaja/</generator>
         <ttl>30</ttl>
         <atom:link href="http://kriwil.com/feed.xml" rel="self" type="application/rss+xml" />
         
+        
+        <item>
+            <title>Cari webhosting murah</title>
+            <description>&lt;p&gt;Ok. Gue gak bisa rajin ngeblog lagi. Udah gak jaman. Sekarang itu jamannya, euh, gak ngeblog. Jadi gue memutuskan untuk menghentikan layanan hosting di tempat yang sekarang karena lebih sering gak kepake. Domain ini sekarang satu hosting dengan blog littlebrain.org. Littlebrain.org akan gue migrasi ke wordpress.com (yang gratis tentunya), dan domain-domain lain lain yang berada di hosting itu juga akan pindah (entah ke mana).&lt;/p&gt;
+
+&lt;p&gt;Kenapa pindah? mau cari yang lebih murah dan perusahaan luar. Sekarang gue host di perusahaan Indonesia. Mengingat kondisi gue sekarang, agak susah kalau harus berurusan dengan perusahan Indonesia (kendala lokasi). Gue gak butuh database server, server side scripting (PHP etc), email, dkk. Gue cuma butuh html hosting. Cuma buat simple blog model ini dan mungkin portfolio. Ada saran?&lt;/p&gt;
+
+&lt;!-- METADATA: {&#34;time&#34;: &#34;2011-01-02 12:00:00&#34;, &#34;title&#34;: &#34;Cari webhosting murah&#34;} --&gt;
+</description>
+            <link>http://kriwil.com/journal/cari-webhosting-murah/</link>
+            <guid isPermaLink="true">http://kriwil.com/journal/cari-webhosting-murah/</guid>
+            <pubDate>Sun, 02 Jan 2011 12:00:00 +0700</pubDate>
+            <source url="http://kriwil.com/">kriwil.com</source>
+        </item>
         
         <item>
             <title>2012</title>
@@ -172,20 +186,6 @@
             <link>http://kriwil.com/journal/harry-potter-and-the-half-blood-prince/</link>
             <guid isPermaLink="true">http://kriwil.com/journal/harry-potter-and-the-half-blood-prince/</guid>
             <pubDate>Wed, 29 Jul 2009 16:46:35 +0700</pubDate>
-            <source url="http://kriwil.com/">kriwil.com</source>
-        </item>
-        
-        <item>
-            <title>We Will not Go Down</title>
-            <description>&lt;p&gt;My deepest condolences go to all the victims of &lt;a href=&#34;http://thejakartaglobe.com/home/nine-killed-in-jakarta-blasts/318630&#34;&gt;Ritz-Carton and Marriott bombing&lt;/a&gt;. I don&#39;t have anything to say, this is just too sad.&lt;/p&gt;
-
-&lt;p&gt;&lt;object width=&#34;425&#34; height=&#34;344&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/HEw1iHc6CP4&amp;amp;hl=en&amp;amp;fs=1&amp;amp;&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34;&gt;&lt;/param&gt;&lt;embed src=&#34;http://www.youtube.com/v/HEw1iHc6CP4&amp;amp;hl=en&amp;amp;fs=1&amp;amp;&#34; type=&#34;application/x-shockwave-flash&#34; allowscriptaccess=&#34;always&#34; allowfullscreen=&#34;true&#34; width=&#34;425&#34; height=&#34;344&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
-
-&lt;!-- METADATA: {&#34;time&#34;: &#34;2009-07-17 16:31:59&#34;, &#34;title&#34;: &#34;We Will not Go Down&#34;} --&gt;
-</description>
-            <link>http://kriwil.com/journal/we-well-not-go-down/</link>
-            <guid isPermaLink="true">http://kriwil.com/journal/we-well-not-go-down/</guid>
-            <pubDate>Fri, 17 Jul 2009 16:31:59 +0700</pubDate>
             <source url="http://kriwil.com/">kriwil.com</source>
         </item>
         
