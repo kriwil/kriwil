@@ -1,9 +1,0 @@
-### *injek-injek Malaysia*
-
-Udah beberapa <span style="text-decoration:line-through">(banyak?)</span> hari ini RI bersengketa (lagi) dengan Malaysia berkaitan dengan batas wilayah negara, tepatnya di perairan Ambalat (Kalimantan Timur). Klaim Malaysia, berdasarkan peta yang dibuat mereka tahun 1979, perairan yang kabarnya mengandung minyak tersebut adalah perairan mereka. Sedangkan klaim Indonesia, perairan itu sudah menjadi bagian dari <abbr title="Negara Kesatuan Republik Indonesia">NKRI</abbr> jauh sebelum itu, bahkan di masa penjajahan Belanda.
-
-Beberapa hari yang lalu kapal perang dari kedua negara sempat berhadapan langsung di perairan tersebut, dan saling memberi peringatan telah melewati batas negara masing-masing. Demi mepertahankan kedaulatan negara, Pemerintah RI menaruh beberapa kapal perang di perairan tersebut. Pesawat dari Malaysia juga beberapa kali terlihat memantau daerah tersebut. Pengerahan kekuatan militer dari Pemerintah Indonesia juga sudah didukung oleh Komisi I DPR RI, walaupun tetap menyarankan jalur diplomasi. Pada hari ini Presiden <abbr title="Susilo Bambang Yudhoyono">SBY</abbr> berkunjung ke daerah yang sedang diperebutkan tersebut, guna memberikan dukungan moral.
-
-Saat ini, kedua belah pihak sedang mengusahakan jalur diplomasi. Kita lihat aja beberapa hari ke depan, bagaimana kelanjutannya. Saya sendiri tetap berharap jalur diplomasi. Tentunya masih jelas terbayang dalam kepala kita, bagaimana kasus Sipadan dan Ligitan yang dimenangkan oleh Malaysia. Kita berharap, semoga kasus serupa tidak terjadi lagi.
-
-<!-- METADATA: {"time": "2005-03-07 13:05:50", "title": "*injek-injek Malaysia*"} -->
