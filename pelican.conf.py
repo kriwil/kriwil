@@ -11,3 +11,10 @@ CATEGORY_SAVE_AS = 'category/{name}/index.html'
 AUTHOR_URL = 'author/{name}/'
 AUTHOR_SAVE_AS = 'author/{name}/index.html'
 DEFAULT_PAGINATION = 5
+
+FEED_RSS = 'feeds/all.rss.xml'
+CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
+
+TWITTER_USERNAME = 'kriwil'
+DISQUS_SITENAME = 'kriwil'
+GOOGLE_ANALYTICS = 'UA-2022719-1'
