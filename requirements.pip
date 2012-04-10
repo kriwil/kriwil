@@ -4,6 +4,6 @@ Pygments==1.5
 argparse==1.2.1
 docutils==0.8.1
 feedgenerator==1.2.1
--e git+https://github.com/kriwil/pelican.git@b9973bcf8a0a10f4fa4e5a1dc84163a9d9cbf4f7#egg=pelican-dev
+-e git+https://github.com/kriwil/pelican.git@header-category-link#egg=pelican-dev
 pytz==2012b
 wsgiref==0.1.2
