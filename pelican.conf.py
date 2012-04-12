@@ -10,6 +10,8 @@ CATEGORY_URL = 'category/{name}/'
 CATEGORY_SAVE_AS = 'category/{name}/index.html'
 AUTHOR_URL = 'author/{name}/'
 AUTHOR_SAVE_AS = 'author/{name}/index.html'
+
+DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = 5
 
 FEED_RSS = 'feeds/all.rss.xml'
