@@ -1,170 +1,144 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-        <meta charset="utf-8" />
-        <title>kriwil.com</title>
-        <link rel="stylesheet" href="/theme/css/main.css" />
-
-        <!--[if IE]>
-            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
+		<title>kriwil.com</title>
+		<meta charset="utf-8" />
+		<link rel="profile" href="http://gmpg.org/xfn/11" />
+		<link rel="stylesheet" type="text/css" href="./theme/css/style.css" />
+		<link rel='stylesheet' id='oswald-css'  href='http://fonts.googleapis.com/css?family=Oswald&#038;ver=3.3.2' type='text/css' media='all' />
+		<style type="text/css">
+			body.custom-background { background-color: #f5f5f5; }
+		</style>
+		<link rel="alternate" type="application/atom+xml"
+			title="kriwil.com — Flux Atom"
+			href="./" /> 
+		<!--[if lte IE 8]><script src="./theme/js/html5shiv.js"></script><![endif]-->
 </head>
 
-<body id="index" class="home">
-        <header id="banner" class="body">
-                <h1><a href="/">kriwil.com </a></h1>
-                <nav><ul>
-                    <li><a href="/category/journal/">journal</a></li>
-                </ul></nav>
-        </header><!-- /#banner -->
+<body class="home blog custom-background " >
+	<div id="container">
+		<div id="header">
+				<h1 id="site-title"><a href=".">kriwil.com</a></h1>
+		</div><!-- /#banner -->
+		
+		<div id="menu">
+			<div class="menu-navigation-container">
+				<ul id="menu-navigation" class="menu">
+						<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="./category/journal/">journal</a></li>
 
-                <section id="content" class="body">
-                    <ol id="posts-list" class="hfeed" start="4">
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="/journal/gak-bisa-mount-ntfs-external-drive/" rel="bookmark"
-                           title="Permalink to Gak Bisa Mount NTFS External Drive">Gak Bisa Mount NTFS External Drive</a></h1>
-                </header>
+				</ul>
+			</div> <!--/#menu-navigation-container-->
+		</div><!-- /#menu -->
+		
+		<div class="page-title">
+		</div>
+	
+		<div id="contents">
+<div class="post type-post status-publish format-standard hentry category-general" id="post">
+	<div class="entry-meta">
+		<div class="date"><a href="./journal/gtk-theme-elegant-blankon/">Tue 01 April 2008</a></div>
+		<span class="byline">By <a href="./author/aldi/">aldi</a></span>
+			<div class="comments"><a href="./journal/gtk-theme-elegant-blankon/#disqus_thread" title="Comment on GTK Theme: Elegant Blankon">comments</a></div>
+			<span class="cat-links"><a href="./category/journal/" title="View all posts in journal" rel="category tag">journal</a></span>
+	</div> <!-- /#entry-meta -->
+	<div class="main">
+		<h2 class="entry-title">
+			<a href="./journal/gtk-theme-elegant-blankon/" title="Permalink to GTK Theme: Elegant Blankon" rel="bookmark">GTK Theme: Elegant Blankon</a>
+		</h2>
+		<div class="entry-content">
+			<p><a href="http://gnome-look.org/content/show.php?content=78134">GTK Theme: Elegant Blankon</a></p>
+<p>Ini cuma modifikasi dari <a href="http://gnome-look.org/content/show.php/Elegant+Brit?content=74553">Elegant Brit yang dibuat oleh fmrbpensador</a>. Saya cuma mengganti warna agar bisa cocok dengan warna desktop blankon.</p>
+<p><a href="http://www.blankonlinux.or.id">Blankon</a> adalah distribusi linux buatan Indonesia yang dibuat berdasarkan ubuntu linux.</p>
+<p><a href="http://kriwil.com/images/6.png"><img alt="" src="http://kriwil.com/images/6t.png" /></a> [<img alt="" src="http://kriwil.com/images/7t.png" />[http://kriwil.com/images/7.png] <a href="http://kriwil.com/images/8.png"><img alt="" src="http://kriwil.com/images/8t.png" /></a></p>
+		</div> <!--/#entry-content-->
+	</div> <!--/#main-->
+</div>  <!--/#post--><div class="post type-post status-publish format-standard hentry category-general" id="post">
+	<div class="entry-meta">
+		<div class="date"><a href="./journal/gak-bisa-mount-ntfs-external-drive/">Tue 01 April 2008</a></div>
+		<span class="byline">By <a href="./author/aldi/">aldi</a></span>
+			<div class="comments"><a href="./journal/gak-bisa-mount-ntfs-external-drive/#disqus_thread" title="Comment on Gak Bisa Mount NTFS External Drive">comments</a></div>
+			<span class="cat-links"><a href="./category/journal/" title="View all posts in journal" rel="category tag">journal</a></span>
+	</div> <!-- /#entry-meta -->
+	<div class="main">
+		<h2 class="entry-title">
+			<a href="./journal/gak-bisa-mount-ntfs-external-drive/" title="Permalink to Gak Bisa Mount NTFS External Drive" rel="bookmark">Gak Bisa Mount NTFS External Drive</a>
+		</h2>
+		<div class="entry-content">
+			<p>Pernah gak bisa mount hard disk external yang menggunakan NTFS di linux? Biasanya terjadi karena pas di windows kita gak umount/disconnect/unplug drive itu terlebih dahulu sebelum mematikan/restart komputer.</p>
+<p>Cara paling logis adalah restart ke windows trus umount/disconnect/unplug drive itu dulu, trus balik lagi ke linux. Tapi jadi ribet dong yah. Yang benar itu pakai perintah <code>ntfsfix</code>.</p>
+<div class="highlight"><pre><span class="nx">ntfsfix</span> <span class="o">&lt;</span><span class="nx">device</span><span class="o">&gt;</span>
+</pre></div>
 
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2008-04-01T16:27:43">
-                Tue 01 April 2008
-        </abbr>
 
-        <address class="vcard author">
-                By <a class="url fn" href="/author/aldi/">aldi</a>
-        </address>
-<p>In <a href="/category/journal/">journal</a>. </p>
+<p>Misal kalau device external kita ada di <code>/dev/sdb1</code>,</p>
+<div class="highlight"><pre><span class="n">ntfsfix</span> <span class="o">/</span><span class="n">dev</span><span class="o">/</span><span class="n">sdb1</span>
+</pre></div>
 
-</footer><!-- /.post-info -->                <p>Pernah gak bisa mount hard disk external yang menggunakan NTFS di linux? Biasanya terjadi karena pas di windows kita gak umount/disconnect/unplug drive itu terlebih dahulu sebelum mematikan/restart komputer.</p>
-<p>Cara paling logis adalah restart ke windows trus umount/disconnect/unplug drive itu dulu, trus balik lagi ke linux ...</p>
-                <a class="readmore" href="/journal/gak-bisa-mount-ntfs-external-drive/">read more</a>
-<p>There are <a href="/journal/gak-bisa-mount-ntfs-external-drive/#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
-            </article></li>
 
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="/journal/what-will-life-be-like-in-the-year-2008/" rel="bookmark"
-                           title="Permalink to What Will Life Be Like in the Year 2008?">What Will Life Be Like in the Year 2008?</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2008-03-27T16:57:49">
-                Thu 27 March 2008
-        </abbr>
-
-        <address class="vcard author">
-                By <a class="url fn" href="/author/aldi/">aldi</a>
-        </address>
-<p>In <a href="/category/journal/">journal</a>. </p>
-
-</footer><!-- /.post-info -->                <p><a href="http://blog.modernmechanix.com/2008/03/24/what-will-life-be-like-in-the-year-2008/">What Will Life Be Like in the Year 2008?</a></p>
-<p>Harusnya tahun 2008 ini mobil-mobil standar udah bergerak dengan kecepatan 150 mph, TV di rumah udah menutupi tembok, tamasya ke bawah laut dan ke luar angkasa sudah jadi hal yang biasa. Tapi masih ada 9 bulan kok sebelum 2009. Masih banyak ...</p>
-                <a class="readmore" href="/journal/what-will-life-be-like-in-the-year-2008/">read more</a>
-<p>There are <a href="/journal/what-will-life-be-like-in-the-year-2008/#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="/journal/desktop-20080325/" rel="bookmark"
-                           title="Permalink to Desktop @ 20080325">Desktop @ 20080325</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2008-03-25T16:23:21">
-                Tue 25 March 2008
-        </abbr>
-
-        <address class="vcard author">
-                By <a class="url fn" href="/author/aldi/">aldi</a>
-        </address>
-<p>In <a href="/category/journal/">journal</a>. </p>
-
-</footer><!-- /.post-info -->                <p>Ikutan <a href="http://kusaeni.com/blog/zenheron">kus</a>, sekalian post rutin desktop.
+<p>Semoga bisa membantu.</p>
+		</div> <!--/#entry-content-->
+	</div> <!--/#main-->
+</div>  <!--/#post--><div class="post type-post status-publish format-standard hentry category-general" id="post">
+	<div class="entry-meta">
+		<div class="date"><a href="./journal/what-will-life-be-like-in-the-year-2008/">Thu 27 March 2008</a></div>
+		<span class="byline">By <a href="./author/aldi/">aldi</a></span>
+			<div class="comments"><a href="./journal/what-will-life-be-like-in-the-year-2008/#disqus_thread" title="Comment on What Will Life Be Like in the Year 2008?">comments</a></div>
+			<span class="cat-links"><a href="./category/journal/" title="View all posts in journal" rel="category tag">journal</a></span>
+	</div> <!-- /#entry-meta -->
+	<div class="main">
+		<h2 class="entry-title">
+			<a href="./journal/what-will-life-be-like-in-the-year-2008/" title="Permalink to What Will Life Be Like in the Year 2008?" rel="bookmark">What Will Life Be Like in the Year 2008?</a>
+		</h2>
+		<div class="entry-content">
+			<p><a href="http://blog.modernmechanix.com/2008/03/24/what-will-life-be-like-in-the-year-2008/">What Will Life Be Like in the Year 2008?</a></p>
+<p>Harusnya tahun 2008 ini mobil-mobil standar udah bergerak dengan kecepatan 150 mph, TV di rumah udah menutupi tembok, tamasya ke bawah laut dan ke luar angkasa sudah jadi hal yang biasa. Tapi masih ada 9 bulan kok sebelum 2009. Masih banyak hal yang bisa terjadi.</p>
+		</div> <!--/#entry-content-->
+	</div> <!--/#main-->
+</div>  <!--/#post--><div class="post type-post status-publish format-standard hentry category-general" id="post">
+	<div class="entry-meta">
+		<div class="date"><a href="./journal/desktop-20080325/">Tue 25 March 2008</a></div>
+		<span class="byline">By <a href="./author/aldi/">aldi</a></span>
+			<div class="comments"><a href="./journal/desktop-20080325/#disqus_thread" title="Comment on Desktop @ 20080325">comments</a></div>
+			<span class="cat-links"><a href="./category/journal/" title="View all posts in journal" rel="category tag">journal</a></span>
+	</div> <!-- /#entry-meta -->
+	<div class="main">
+		<h2 class="entry-title">
+			<a href="./journal/desktop-20080325/" title="Permalink to Desktop @ 20080325" rel="bookmark">Desktop @ 20080325</a>
+		</h2>
+		<div class="entry-content">
+			<p>Ikutan <a href="http://kusaeni.com/blog/zenheron">kus</a>, sekalian post rutin desktop.
 [<img alt="" src="http://kriwil.com/images/5t.png" />[http://kriwil.com/images/5.png]</p>
 <p>Masih Gutsy Gibbon.</p>
-                <a class="readmore" href="/journal/desktop-20080325/">read more</a>
-<p>There are <a href="/journal/desktop-20080325/#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="/journal/ganti-desain-lagi/" rel="bookmark"
-                           title="Permalink to Ganti Desain Lagi">Ganti Desain Lagi</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2008-03-18T17:03:13">
-                Tue 18 March 2008
-        </abbr>
-
-        <address class="vcard author">
-                By <a class="url fn" href="/author/aldi/">aldi</a>
-        </address>
-<p>In <a href="/category/journal/">journal</a>. </p>
-
-</footer><!-- /.post-info -->                <p>Kali ini pakai yang dulu sudah pernah dibuat tapi gak dipakai. Belum sempurna sih sebenarnya desain yang ini, masih mau diutak-atik lagi, tapi gak sempat aja.</p>
-<p>Salah satu yang belum itu kotak-kotak di kanan atas itu. Rencananya itu adalah <em>style changer</em>. Euh, buat ganti warna aja sih. Tapi belum pake ...</p>
-                <a class="readmore" href="/journal/ganti-desain-lagi/">read more</a>
-<p>There are <a href="/journal/ganti-desain-lagi/#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="/journal/buat-yang-kebingungan-antara-kilobitbyte/" rel="bookmark"
-                           title="Permalink to Buat yang kebingungan antara Kilobit/Byte">Buat yang kebingungan antara Kilobit/Byte</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2008-03-10T07:22:37">
-                Mon 10 March 2008
-        </abbr>
-
-        <address class="vcard author">
-                By <a class="url fn" href="/author/aldi/">aldi</a>
-        </address>
-<p>In <a href="/category/journal/">journal</a>. </p>
-
-</footer><!-- /.post-info -->                <p><img src="http://imgs.xkcd.com/comics/kilobyte.png" width="500px" height="470px" /></p>
-<ul>
-<li><a href="http://xkcd.com/394/">xkcd.com - Kilobyte</a></li>
-</ul>
-                <a class="readmore" href="/journal/buat-yang-kebingungan-antara-kilobitbyte/">read more</a>
-<p>There are <a href="/journal/buat-yang-kebingungan-antara-kilobitbyte/#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
-            </article></li>
-            </ol><!-- /#posts-list -->
-<p class="paginator">
-        <a href="/index26.html">&laquo;</a>
-    Page 27 / 58
-        <a href="/index28.html">&raquo;</a>
-</p>
-            </section><!-- /#content -->
-        <section id="extras" class="body">
-        </section><!-- /#extras -->
-
-        <footer id="contentinfo" class="body">
-                <address id="about" class="vcard body">
-                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
-                </address><!-- /#about -->
-
-                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
-        </footer><!-- /#contentinfo -->
-
-    <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-2022719-1']);
-    _gaq.push(['_trackPageview']);
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-    </script>
+		</div> <!--/#entry-content-->
+	</div> <!--/#main-->
+</div>  <!--/#post--><div class="post type-post status-publish format-standard hentry category-general" id="post">
+	<div class="entry-meta">
+		<div class="date"><a href="./journal/ganti-desain-lagi/">Tue 18 March 2008</a></div>
+		<span class="byline">By <a href="./author/aldi/">aldi</a></span>
+			<div class="comments"><a href="./journal/ganti-desain-lagi/#disqus_thread" title="Comment on Ganti Desain Lagi">comments</a></div>
+			<span class="cat-links"><a href="./category/journal/" title="View all posts in journal" rel="category tag">journal</a></span>
+	</div> <!-- /#entry-meta -->
+	<div class="main">
+		<h2 class="entry-title">
+			<a href="./journal/ganti-desain-lagi/" title="Permalink to Ganti Desain Lagi" rel="bookmark">Ganti Desain Lagi</a>
+		</h2>
+		<div class="entry-content">
+			<p>Kali ini pakai yang dulu sudah pernah dibuat tapi gak dipakai. Belum sempurna sih sebenarnya desain yang ini, masih mau diutak-atik lagi, tapi gak sempat aja.</p>
+<p>Salah satu yang belum itu kotak-kotak di kanan atas itu. Rencananya itu adalah <em>style changer</em>. Euh, buat ganti warna aja sih. Tapi belum pake <em>cookie</em>, jadi warnanya berganti pada saat itu aja. Kalau browser sudah pindah halaman atau ditutup, balik lagi ke warna asal. Maunya sih sekali ganti, akan tetap muncul sesuai pilihannya. Tapi itu kalau sempat.</p>
+<p>Sementara gini aja dulu, kali aja mau diganti lagi.</p>
+		</div> <!--/#entry-content-->
+	</div> <!--/#main-->
+</div>  <!--/#post--><div class="navigation">
+		<div class="nav-previous">
+				<a href="./index26.html">
+			<span class="meta-nav">&larr;</span> Newer posts</a>
+		</div>		
+		<div class="nav-next"><a href="./index28.html" >Older posts <span class="meta-nav">&rarr;</span></a></div>
+</div>
+		</div>
+		
+		<div id="footer">
+			<p>Powered by <a href="http://pelican.readthedocs.org">Pelican</a>, theme by <a href="http://bunnyman.info">tBunnyMan</a>.</p>
 <script type="text/javascript">
     var disqus_shortname = 'kriwil';
     (function () {
@@ -173,6 +147,8 @@
         s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
         (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
     }());
-</script>
+</script>		</div><!-- /#footer -->
+	</div><!-- /#container -->
+	<div style="display:none"></div>
 </body>
 </html>

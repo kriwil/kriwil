@@ -8,6 +8,7 @@ SITEURL = ''
 
 TIMEZONE = 'Asia/Jakarta'
 
+THEME = 'chunk'
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
@@ -26,12 +27,8 @@ AUTHOR_SAVE_AS = 'author/{name}/index.html'
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = 5
 
-FEED_RSS = 'feeds/all.rss.xml'
-CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
-
-TWITTER_USERNAME = 'kriwil'
 DISQUS_SITENAME = 'kriwil'
-GOOGLE_ANALYTICS = 'UA-2022719-1'
+TWITTER_USERNAME = 'kriwil'
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
