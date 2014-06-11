@@ -8,7 +8,7 @@ SITEURL = ''
 
 TIMEZONE = 'Asia/Jakarta'
 
-THEME = 'chunk'
+THEME = 'pelican-cait'
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
