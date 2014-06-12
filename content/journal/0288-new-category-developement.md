@@ -1,6 +1,7 @@
 Title: New category, development
 date: 2014-06-12 17:00
 slug: new-category-development
+status: draft
 
 In case you haven't noticed, I have new category for this blog: [development](/development/).
 
