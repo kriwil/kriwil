@@ -1,10 +1,10 @@
 Title: Building a PC
-date: 2014-09-17 12:00
+date: 2014-09-17 13:00
 slug: buliding-a-pc
 
 ## tl;dr
 
-It was fun, mini ITX case rocks!
+It was fun, mini ITX case rocks! Check [flickr][flickrset] for photos.
 
 - [Gigabyte H87N-WIFI][motherboard]
 - [Intel i5 4670][cpu]
@@ -22,6 +22,7 @@ becase my need was simple and portable device. I didn't need powerful machine
 because I only play [Football Manager series][fm series].
 
 [fm series]: http://en.wikipedia.org/wiki/Football_Manager
+[flickrset]: https://www.flickr.com/photos/kriwil/sets/72157647683968811/
 
 But then, I got a job developing stuff around [edX][]. At first, I assumed my
 [MacBook Air][mba] could handle the job. And it did. Barely. The [edX Developer Stack][eds]
@@ -85,3 +86,5 @@ well so you could use the space optimally. Because temperature matters.
 
 So here I am. Using ubuntu again for working (and occasional
 [StarCraft II][sc2] &mdash; on windows &mdash; for fun).
+
+Also, check [flickr][flickrset] for photos.
