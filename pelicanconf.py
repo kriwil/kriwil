@@ -4,11 +4,11 @@ from __future__ import unicode_literals
 
 AUTHOR = u'aldi'
 SITENAME = u'kriwil'
-SITEURL = ''
+SITEURL = 'http://www.kriwil.com'
 
 TIMEZONE = 'Asia/Jakarta'
 
-THEME = 'Just-Read'
+THEME = '../pelican-themes/Just-Read'
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
