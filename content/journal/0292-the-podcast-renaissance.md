@@ -51,7 +51,7 @@ excluding the two I mentioned above:
 [relayfm]: http://www.relay.fm/
 [hifm]: http://www.hellointernet.fm/
 [atpfm]: http://atp.fm/
-[cgpgreycom]: http://www.cgpgrey.com/
+[cgpgrey]: http://www.cgpgrey.com/
 [serialpodcast]: http://serialpodcast.org/
 [podcastwikipedia]: https://en.wikipedia.org/wiki/Podcast
 [bradyharan]: http://www.bradyharan.com/
