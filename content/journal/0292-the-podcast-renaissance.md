@@ -32,7 +32,7 @@ hosted by [CGP Grey][cgpgrey] and [Brady Haran][bradyharan]. You'll enjoy it.
 
 Serial is probably the most popular podcast in 2014. Before serial, podcast is
 probably listened only by internet geeks. But now it reaches more people.
-This is why Mike Hurley of [Relay FM][relay.fm] called it a podcast rennaissance
+This is why Mike Hurley of [Relay FM][relayfm] called it a podcast rennaissance
 in is talk, ["How I became an Independent Podcaster"][hibaip]. It is indeed
 the perfect time for you to start listen to podcast.
 
