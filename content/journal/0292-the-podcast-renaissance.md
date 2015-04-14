@@ -7,9 +7,9 @@ popular.
 
 So, what is podcast? Quoting [wikipedia][podcastwikipedia]:
 
-    A podcast is a digital medium that consists of an episodic series of audio,
-    video, digital radio, PDF, or ePub files subscribed to and downloaded through
-    web syndication or streamed on-line to a computer or mobile device.
+> A podcast is a digital medium that consists of an episodic series of audio,
+> video, digital radio, PDF, or ePub files subscribed to and downloaded through
+> web syndication or streamed on-line to a computer or mobile device.
 
 I often use _audio blog_ or _video blog_ to explain what podcast is. After all,
 people know what blog is.
