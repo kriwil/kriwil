@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block title %}Archives - {{ SITENAME }}{% endblock %}
+
+{% block content %}
+<ol class="archivelist">
+  {% for year, dates in dates|groupby('date.year')|sort(reverse=True) %}
+  <li>
+    <h2>{{ year }}</h2>
+    <ol>
+      {% for article in dates %}
+      <li>
+        <a href="{{ article.url }}">{{ article.title }}</a>
+        <span class="date">{{ article.date.strftime('%A, %b %-d') }}</span>
+      </li>
+      {% endfor %}
+    </ol>
+  </li>
+  {% endfor %}
+</ol>
+
+{% endblock %}

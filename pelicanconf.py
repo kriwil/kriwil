@@ -8,13 +8,13 @@ SITEURL = 'http://www.kriwil.com'
 
 TIMEZONE = 'Asia/Jakarta'
 
-THEME = '../pelican-themes/Just-Read'
+THEME = 'themes/kriwil'
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
+FEED_ALL_ATOM = None
 
 # format
 ARTICLE_URL = '{category}/{slug}/'
