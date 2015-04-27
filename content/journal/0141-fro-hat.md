@@ -4,6 +4,6 @@ Slug: fro-hat
 
 Pagi-pagi udah ketawa :D
 
-![](http://kriwil.com/images/4.jpg)
+![fro hat](http://kriwil.com/images/4.jpg)
 
 ([via digg](http://digg.com/comedy/Creativity_8))

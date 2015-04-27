@@ -2,7 +2,7 @@ Title: Jangan Dibuka Pakai IE
 Date: 2008-02-17 08:56:02
 Slug: jangan-dibuka-pakai-ie
 
-![](http://kriwil.com/images/1.gif)
+![1](http://kriwil.com/images/1.gif)
 
 Barusan liat tampilan blog ini dari IE(Internet Explorer), hancur. Oke, gak hancur banget sih, tapi tetap aja gak sesuai dengan apa yang gue buat. Buat design, kurang atau lebih 1 _pixel_ itu menghasilkan penampilan yang berbeda.
 
