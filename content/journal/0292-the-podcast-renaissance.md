@@ -1,5 +1,5 @@
 Title: The Podcast Renaissance
-date: 2015-05-01 23:00
+date: 2015-04-01 23:00
 slug: the-podcast-renaissance
 
 Podcast is back! Well sort of. It never went away anyway. But sure it gets more
