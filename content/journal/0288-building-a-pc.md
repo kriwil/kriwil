@@ -80,9 +80,6 @@ well so you could use the space optimally. Because temperature matters.
 
 [labster]: http://www.labster.com/
 [sc2]: http://us.battle.net/sc2/en/
-[ubuntusystem]: http://dl.dropbox.com/u/112837/Details_008.png "ubuntu system"
-
-![ubuntu system][ubuntusystem]
 
 So here I am. Using ubuntu again for working (and occasional
 [StarCraft II][sc2] &mdash; on windows &mdash; for fun).
