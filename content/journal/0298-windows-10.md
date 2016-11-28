@@ -13,7 +13,7 @@ I had high hopes that I could finally have gaming machine and could still do
 development on it.
 
 The main reason I finally did this is I need to fix my work on IE/Edge. I usually
-[BrowserStack](https://www.browserstack.com/) for testing IE (I still do), But
+use [BrowserStack](https://www.browserstack.com/) for testing IE (I still do), but
 it's very painful to use it for a long period of time. It requires a good upload
 connection, and in Indonesia, "good" and "upload connection" don't go together
 in one sentence. So when I had a hard drive lying around, I decided that it's
