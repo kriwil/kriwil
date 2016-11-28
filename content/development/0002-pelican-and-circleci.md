@@ -25,6 +25,7 @@ I found [a blog post][pelican-meet-circleci] that gives instruction to do that, 
 it's better to use that one instead. Pelican [doesn't support awscli yet][pelican-awscli],
 so there's some steps need to be done to use that.
 
+1. update your `Makefile` to [use `awscli` instead][makefile-awscli]
 1. insert your [AWS S3 access key ID, and secret key ID][circleci-awscli]
 2. create circle.yml in your repository
 
@@ -46,7 +47,7 @@ Here's how the circle.yml should be:
         commands:
           - make html
           - make s3_upload
-          
+
 Now, everytime you push your commits to master, CircleCI will deploy them to S3.
 You should be able to see the deployment progress on you CircleCI dashboard.
 
@@ -62,3 +63,4 @@ You don't need to create special environment to install pelican etc, just git an
 [circleci-awscli]: https://circleci.com/docs/continuous-deployment-with-amazon-s3/
 [pelican-awscli]: https://github.com/getpelican/pelican/issues/1626
 [github-new-file]: https://help.github.com/articles/creating-new-files/
+[makefile-awscli]: https://github.com/kriwil/kriwil/commit/671eb80a124bdb88822cc82982511ce8d0cb9a4c#diff-b67911656ef5d18c4ae36cb6741b7965
