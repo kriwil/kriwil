@@ -3,6 +3,10 @@ dependencies:
     - pip install -r requirements.txt
     - echo -e "[default] \naccess_key = $S3CFG_ACCESS_KEY \nsecret_key = $S3CFG_SECRET_KEY \n" > /home/ubuntu/.s3cfg
 
+test:
+  override:
+    - echo "test"
+
 deployment:
   aws:
     branch: master
