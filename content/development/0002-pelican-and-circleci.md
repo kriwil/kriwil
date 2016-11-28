@@ -26,7 +26,10 @@ it's better to use that one instead. Pelican [doesn't support awscli yet][pelica
 so there's some steps need to be done to use that.
 
 1. insert your [AWS S3 access key ID, and secret key ID][circleci-awscli]
-2. create circle.yml in your repository:  
+2. create circle.yml in your repository
+
+Here's how the circle.yml should be:
+
     :::yml
     dependencies:
       override:
@@ -44,14 +47,13 @@ so there's some steps need to be done to use that.
           - make html
           - make s3_upload
           
-3. commit and push  
-
+Now, everytime you push your commits to master, CircleCI will deploy them to S3.
 You should be able to see the deployment progress on you CircleCI dashboard.
 
-Now, you don't need to create special environment to install pelican etc, just git and text-editor. You could even use
+You don't need to create special environment to install pelican etc, just git and text-editor. You could even use
 [github's feature][github-new-file] to create blog post directly inside your browser (I wrote this using that!).
 
-[![new post via github][https://s3-ap-southeast-1.amazonaws.com/s.kriwil.com/www/development/0002-new-post-via-github.png]](https://s3-ap-southeast-1.amazonaws.com/s.kriwil.com/www/development/0002-new-post-via-github.png)
+[![new post via github](https://s3-ap-southeast-1.amazonaws.com/s.kriwil.com/www/development/0002-new-post-via-github.png)](https://s3-ap-southeast-1.amazonaws.com/s.kriwil.com/www/development/0002-new-post-via-github.png)
 
 [pelican]: https://github.com/getpelican/pelican
 [circleci]: https://circleci.com
