@@ -2,4 +2,4 @@
 
 /* temp hack. of course :P */
 .content img { max-width: 100%; }
-.content p { overflow-x: scroll; }
+.content pre { overflow-x: scroll; }
