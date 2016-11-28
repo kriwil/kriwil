@@ -1,0 +1,11 @@
+dependencies:
+  override:
+    - pip install -r requirements.txt
+    - echo -e "[default] \naccess_key = $S3CFG_ACCESS_KEY \nsecret_key = $S3CFG_SECRET_KEY \n" > /home/ubuntu/.s3cfg
+
+deployment:
+  aws:
+    branch: master
+    commands:
+      - make html
+      - make s3_upload
