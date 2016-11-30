@@ -11,6 +11,9 @@ TIMEZONE = 'Asia/Jakarta'
 THEME = 'themes/kriwil'
 DEFAULT_LANG = u'en'
 
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['assets']
+
 # Feed generation is usually not desired when developing
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None

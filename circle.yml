@@ -1,3 +1,8 @@
+checkout:
+  post:
+    - git submodule init
+    - git submodule update
+
 dependencies:
   override:
     - pip install -r requirements.txt
