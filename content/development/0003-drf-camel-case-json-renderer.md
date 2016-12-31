@@ -1,9 +1,9 @@
 Title: Camel-case JSON Renderer for Django REST Framework
-date: 2016-11-28 12:00
+date: 2016-12-31 21:00
 tags: django, django-rest-framework, json, camel-case
 slug: camel-case-json-drf
 
-Because I'm too lazy to create python package for this.
+Because I'm too lazy to create python package for this. [Just use it](http://choosealicense.com/licenses/unlicense/).
 
 Django REST framework version: 3.5.x
 
