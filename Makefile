@@ -12,10 +12,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=localhost
-SSH_PORT=22
-SSH_USER=root
-SSH_TARGET_DIR=/var/www
+SSH_HOST=irc.kriwil.id
+SSH_PORT=2222
+SSH_USER=aldi
+SSH_TARGET_DIR=/home/aldi/kriwil.com/www
 
 S3_BUCKET=www.kriwil.com
 
