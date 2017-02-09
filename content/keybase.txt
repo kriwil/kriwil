@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/kriwil
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.kriwil.com
+  * I am kriwil (https://keybase.io/kriwil) on keybase.
+  * I have a public key ASDMRP28YgLI5ABMyeXFWNl5ANGdXFPLoI_31kmkozsHngo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120cc44fdbc6202c8e4004cc9e5c558d97900d19d5c53cba08ff7d649a4a33b079e0a",
+            "host": "keybase.io",
+            "kid": "0120cc44fdbc6202c8e4004cc9e5c558d97900d19d5c53cba08ff7d649a4a33b079e0a",
+            "uid": "0de941a9f39d82b024b1ad39ea1a6400",
+            "username": "kriwil"
+        },
+        "service": {
+            "hostname": "www.kriwil.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1486650907,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1486650885,
+        "hash": "7d215a3330ff9c6f2a8904dac80fe5da96eedb48d23331ea64964d6e0e5419d9400d6b94fa33400e3034dfab8b9fb9ea1e6d5c5dcb2a212c237cad29212bf412",
+        "seqno": 857910
+    },
+    "prev": "36d15b21aba45173bfa586d146699a0995c051d5a2bd218b5a56e729101aedfe",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzET9vGICyOQATMnlxVjZeQDRnVxTy6CP99ZJpKM7B54Kp3BheWxvYWTFAvR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwY2M0NGZkYmM2MjAyYzhlNDAwNGNjOWU1YzU1OGQ5NzkwMGQxOWQ1YzUzY2JhMDhmZjdkNjQ5YTRhMzNiMDc5ZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwY2M0NGZkYmM2MjAyYzhlNDAwNGNjOWU1YzU1OGQ5NzkwMGQxOWQ1YzUzY2JhMDhmZjdkNjQ5YTRhMzNiMDc5ZTBhIiwidWlkIjoiMGRlOTQxYTlmMzlkODJiMDI0YjFhZDM5ZWExYTY0MDAiLCJ1c2VybmFtZSI6ImtyaXdpbCJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3LmtyaXdpbC5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4NjY1MDkwNywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDg2NjUwODg1LCJoYXNoIjoiN2QyMTVhMzMzMGZmOWM2ZjJhODkwNGRhYzgwZmU1ZGE5NmVlZGI0OGQyMzMzMWVhNjQ5NjRkNmUwZTU0MTlkOTQwMGQ2Yjk0ZmEzMzQwMGUzMDM0ZGZhYjhiOWZiOWVhMWU2ZDVjNWRjYjJhMjEyYzIzN2NhZDI5MjEyYmY0MTIiLCJzZXFubyI6ODU3OTEwfSwicHJldiI6IjM2ZDE1YjIxYWJhNDUxNzNiZmE1ODZkMTQ2Njk5YTA5OTVjMDUxZDVhMmJkMjE4YjVhNTZlNzI5MTAxYWVkZmUiLCJzZXFubyI6NSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDS8M4UmO1fd1nDfQN43lSYD3EbB52oLoNkFl76sTeRm4WkUML2fBLjQgy3C5wi3S3+oRHOdD5GRHTFRIdwb3kJqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgzbXmT14xCCFsXful+4W+YrnjvSOUeb4xOnd4gE1wkS2jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kriwil
+
+==================================================================
