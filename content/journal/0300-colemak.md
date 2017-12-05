@@ -6,8 +6,8 @@ I've always wanted to type correctly. By that I mean touch-typing using 10 finge
 I got the touch-typing part nailed pretty good. The 10 fingers? Sort of. I'm pretty sure I'm using all my 10 fingers to type.
 Do I use it correctly? Now that's the concern. I don't think I do. And it's hard to change the habbit.
 
-I figured, if I want to change the habbit, I might as well learn new layout. Partly because I felt the muscle memory is easier to
-change if I learn new layout, partly because I just wanted it for the sake of it. I picked Colemak, because most of the GUI shortcuts
+I figured, if I wanted to change the habbit, I might as well learn new layout. Partly because I felt the muscle memory is easier to
+change if I learn new layout, partly because I just wanted it for the sake of it. I picked [Colemak](https://colemak.com/), because most of the GUI shortcuts
 (like ctrl+c, ctrl+v, you know, 2 most important shortcuts for progammer) stays on the same position (as in qwerty).
 So I changed my layout in OS level and started the journey. I put this image on my second monitor as cheatsheet.
 I also printed the image and put it next to my keyboard.
