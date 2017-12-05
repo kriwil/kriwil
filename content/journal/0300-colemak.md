@@ -1,7 +1,6 @@
 Title: Colemak
 date: 2016-12-05 22:00
 slug: colemak
-status: draft
 
 I've always wanted to type correctly. By that I mean touch-typing using 10 fingers and with finger on the right position.
 I got the touch-typing part nailed pretty good. The 10 fingers? Sort of. I'm pretty sure I'm using all my 10 fingers to type.
