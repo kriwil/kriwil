@@ -43,6 +43,7 @@
   </li>
   <li>
 
+    {#
     {% if DISQUS_SITENAME %}
     <div class="comments">
       <div id="disqus_thread"></div>
@@ -56,6 +57,7 @@ var disqus_identifier = "{{ article.url }}";
       </script>
     </div>
     {% endif %} 
+    #}
 
   </li>
 </ol>
