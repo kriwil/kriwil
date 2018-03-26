@@ -13,4 +13,6 @@ link: https://www.unrankedsmurfs.com/blog/dota-vs-lol
 > announced LoL now gets over 100 million active players a month.
 > That's a lot of players for an online game!
 
-TIL League of Legends player base is way bigger than Dota2.
+TIL [League of Legends](https://en.wikipedia.org/wiki/League_of_Legends)
+player base is way bigger than 
+[Dota 2](https://en.wikipedia.org/wiki/Dota_2).
