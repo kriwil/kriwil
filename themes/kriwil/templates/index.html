@@ -3,7 +3,14 @@
 <ol class="itemlist">
   {% for article in articles_page.object_list %}
   <li>
-    <h2><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
+    {% if article.link %}
+      <h2>
+        <a href="{{ article.link }}">{{ article.title }}</a>
+        <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}" class="text-decoration-none">&middot;</a>
+      </h2>
+    {% else %}
+      <h2><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
+    {% endif %}
     {{ article.content }}
     <div class="end">&mdash; &ndash; &mdash;</div>
   </li>

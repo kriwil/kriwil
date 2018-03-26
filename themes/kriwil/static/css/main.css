@@ -3,3 +3,4 @@
 /* temp hack. of course :P */
 .content img { max-width: 100%; }
 .content pre { overflow-x: scroll; }
+a.text-decoration-none { text-decoration: none; }
