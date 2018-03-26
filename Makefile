@@ -1,4 +1,4 @@
-PY=python
+PY=pipenv run python
 PELICAN=pipenv run pelican
 PELICANOPTS=
 
