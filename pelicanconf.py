@@ -12,7 +12,7 @@ THEME = 'themes/kriwil'
 DEFAULT_LANG = u'en'
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['assets', 'custom_article_urls']
+PLUGINS = ['assets', 'custom_article_urls', 'sitemap']
 
 # Feed generation is usually not desired when developing
 CATEGORY_FEED_ATOM = None
@@ -32,6 +32,16 @@ TAG_URL = 'tag/{slug}/'
 TAG_SAVE_AS = 'tag/{slug}/index.html'
 TAGS_URL = 'tags/'
 TAGS_SAVE_URL = 'tags/index.html'
+
+SITEMAP = {
+    'format': 'xml',
+    'changefreqs': {
+        'articles': 'daily',
+        'pages': 'daily',
+        'indexes': 'daily',
+    },
+    'exclude': ['tag/', 'category/'],
+}
 
 CUSTOM_ARTICLE_URLS = {
     'links': {
