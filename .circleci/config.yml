@@ -4,7 +4,10 @@ jobs:
     docker:
       - image: circleci/python:3.6.4
     steps:
-      - checkout
+      - checkout:
+          post:
+            - git submodule init
+            - git submodule update
       - add_ssh_keys:
           fingerprints:
               - "76:fc:71:c0:ed:03:af:c0:65:f9:11:75:81:4f:68:0c"
