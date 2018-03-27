@@ -22,7 +22,6 @@ jobs:
             - ".venv"
             - "/usr/local/bin"
             - "/usr/local/lib/python3.6/site-packages"
-            - "output"
       - run:
           command: |
             make ssh_upload
