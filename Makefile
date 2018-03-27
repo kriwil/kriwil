@@ -12,7 +12,7 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=devbox
+SSH_HOST=kriwil.com
 SSH_PORT=22
 SSH_USER=root
 SSH_TARGET_DIR=/root/kriwil.com
