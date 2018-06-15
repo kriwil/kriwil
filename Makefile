@@ -14,8 +14,8 @@ FTP_TARGET_DIR=/
 
 SSH_HOST=kriwil.com
 SSH_PORT=22
-SSH_USER=root
-SSH_TARGET_DIR=/root/kriwil.com
+SSH_USER=kriwil
+SSH_TARGET_DIR=/kriwil/www
 
 S3_BUCKET=www.kriwil.com
 
