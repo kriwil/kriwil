@@ -33,7 +33,7 @@ workflows:
           filters:
             branches:
               only:
-                - master
+                - manual
   nightly:
     triggers:
       - schedule:
