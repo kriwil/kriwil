@@ -27,6 +27,13 @@ jobs:
             make ssh_upload
 workflows:
   version: 2
+  manual:
+    jobs:
+      - build:
+          filters:
+            branches:
+              only:
+                - master
   nightly:
     triggers:
       - schedule:
