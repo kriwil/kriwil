@@ -15,13 +15,13 @@ jobs:
       - run:
           command: |
             pip install pipenv
-            pipenv install --python=3.6
+            pipenv install --python=3.7
       - save_cache:
           key: deps9-{{ .Branch }}-{{ checksum "Pipfile.lock" }}
           paths:
             - ".venv"
             - "/usr/local/bin"
-            - "/usr/local/lib/python3.6/site-packages"
+            - "/usr/local/lib/python3.7/site-packages"
       - run:
           command: |
             make ssh_upload
