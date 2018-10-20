@@ -1,5 +1,5 @@
 title: DHH on working with family people
-date: 2018-10-20 21:00
+date: 2018-10-21 07:00
 tags: work
 link: https://signalvnoise.com/posts/996-why-i-love-working-with-family-people
 
