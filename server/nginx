@@ -2,7 +2,7 @@ server {
     listen 443 ssl;
 
     root /home/kriwil/www;
-    server_name www.kriwil.com;
+    server_name kriwil.com;
 
     location / {
             try_files $uri $uri/ /index.html;
@@ -18,22 +18,22 @@ server {
 server {
     listen 443 ssl;
 
-    server_name kriwil.com;
+    server_name www.kriwil.com;
 
     ssl_certificate /etc/letsencrypt/live/kriwil.com/fullchain.pem; # managed by Certbot
     ssl_certificate_key /etc/letsencrypt/live/kriwil.com/privkey.pem; # managed by Certbot
 
-    return 301 https://www.kriwil.com$request_uri;
+    return 301 https://kriwil.com$request_uri;
 }
 
 server {
     if ($host = www.kriwil.com) {
-        return 301 https://www.kriwil.com$request_uri;
+        return 301 https://kriwil.com$request_uri;
     } # managed by Certbot
 
 
     if ($host = kriwil.com) {
-        return 301 https://www.kriwil.com$request_uri;
+        return 301 https://kriwil.com$request_uri;
     } # managed by Certbot
 
     listen 80;
