@@ -7,7 +7,7 @@ jobs:
       - checkout
       - add_ssh_keys:
           fingerprints:
-            - "d6:77:b2:56:87:92:2a:7e:cb:06:d5:7d:10:b2:7b:d2"
+            - "3f:f7:43:b1:de:22:3e:5b:7a:28:ef:9d:73:a7:a7:59"
       - run: sudo chown -R circleci:circleci /usr/local/bin
       - run: sudo chown -R circleci:circleci /usr/local/lib/python3.7/site-packages
       - restore_cache:
