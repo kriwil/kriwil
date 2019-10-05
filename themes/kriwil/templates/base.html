@@ -48,9 +48,14 @@
     <div class="container">
       <header>
         <h1><a href="/"><img src="{{ SITEURL }}/theme/img/header.png" alt="kriwil logo" title="kriwil" style="width:250px"></a></h1>
-        <p><strong>aldiantoro nugroho</strong>. <a href="https://www.twitter.com/kriwil">@kriwil</a>. indonesia. part-time programmer.
-          full-time dreamer. elm. linux. ubuntu. python. django. vim.
-          indiana pacers. manchester united. random.</p>
+
+        {% if category and category.slug == 'development' %}
+          <p>Hi, I'm <strong>Aldiantoro Nugroho</strong>. Here I talk all about development. Mostly Technical. Enjoy!</p>
+        {% else %}
+          <p><strong>aldiantoro nugroho</strong>. <a href="https://www.twitter.com/kriwil">@kriwil</a>. indonesia. part-time programmer.
+            full-time dreamer. elm. linux. ubuntu. python. django. vim.
+            indiana pacers. manchester united. random.</p>
+        {% endif %}
       </header>
 
       <div class="content">
