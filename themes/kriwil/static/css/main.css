@@ -9,3 +9,4 @@
 .content pre { overflow-x: scroll; }
 a.text-decoration-none { text-decoration: none; }
 .container .archivelist { margin-bottom: 100px; }
+.content code { font-size: smaller; background-color: #eee; padding: 2px 3px; }
