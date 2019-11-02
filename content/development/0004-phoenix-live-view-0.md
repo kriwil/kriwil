@@ -1,5 +1,5 @@
 Title: Phoenix Live View, The Beginner Guide
-date: 2019-11-03 07:00
+date: 2019-11-02 13:00
 tags: elixir, phoenix, liveview
 slug: phoenix-live-view-beginner-guide
 
