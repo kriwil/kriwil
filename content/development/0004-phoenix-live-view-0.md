@@ -182,6 +182,18 @@ Our mount is simple. It's trying to fetch data from `http://aws.random.cat/meow`
 fallback it the data is invalid, or the fetch is failed. If we get the data sucessfully,
 we show the cat image.
 
+The last part is add the LiveView to the router. Open `lib/random_cat_web/router.ex`, andd add `live "/cat", CatLive` to `scope "/"` so:
+
+```
+scope "/", RandomCatWeb do
+  pipe_through :browser
+
+  get "/", PageController, :index
+  live "/cat", CatLive
+end
+```
+
+
 Now everything is ready, restart the server just to be sure,
 then open [http://localhost:4000/cat](http://localhost:4000/cat)
 The cat image should show up.
@@ -240,7 +252,7 @@ end
 ```
 
 Last, in function to handle `moar` event, we assign `:url` to new url from `get_cat_url`
-everytime the function is call.
+everytime the function is called.
 
 ```
 def handle_event("moar", _values, socket) do
