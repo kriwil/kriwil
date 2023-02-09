@@ -1,4 +1,4 @@
-Markdown==2.3.1
+Markdown==3.4.1
 awscli==1.11.21
 cssmin==0.2.0
 pelican==3.5
