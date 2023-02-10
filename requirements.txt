@@ -1,5 +1,5 @@
-Markdown==3.4.1
-awscli==1.11.21
-cssmin==0.2.0
-pelican==3.5
-webassets==0.12.1
+black
+isort
+pelican[markdown]
+pelican-sitemap
+pelican-tailwindcss
