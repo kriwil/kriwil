@@ -61,6 +61,13 @@ SITEMAP = {
 
 THEME = "theme/krwl2023"
 
+STATIC_PATHS = [
+    "static/favicon.ico",
+]
+EXTRA_PATH_METADATA = {
+    "static/favicon.ico": {"path": "favicon.ico"},
+}
+
 TAILWIND = {
     "version": "3.2.7",
     "plugins": [
