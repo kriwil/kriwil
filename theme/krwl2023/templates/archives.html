@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}Archives - {{ SITENAME }}{% endblock %}
+
+{% block content %}
+<ol class="border-y border-t-gray-100 border-b-gray-300 py-10">
+    {% for year, dates in dates|groupby('date.year')|sort(reverse=True) %}
+    <li class="text-gray-600 pb-12 max-w-screen-sm mx-auto">
+        <div class="px-6">
+            <h2 class="pb-6 text-2xl">{{ year }}</h2>
+            <ol>
+                {% for article in dates %}
+                <li>
+                    <a class="underline" href="{{ SITE_URL }}/{{ article.url }}">{{ article.title }}</a>
+                    <span class="text-gray-400">{{ article.date.strftime('%A, %b %-d') }}</span>
+                </li>
+                {% endfor %}
+            </ol>
+        </div>
+    </li>
+    {% endfor %}
+</ol>
+{% endblock %}
