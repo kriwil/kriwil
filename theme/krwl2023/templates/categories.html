@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block title %}Categories - {{ SITENAME }}{% endblock %}
+
+{% block content %}
+<ol class="border-y border-t-gray-100 border-b-gray-300 py-10">
+    <li class="text-gray-600 pb-12 max-w-screen-sm mx-auto">
+        <div class="px-6">
+            <h2 class="pb-6 text-2xl">Categories</h2>
+            <ol>
+                {% for category, articles in categories %}
+                <li>
+                    <a class="underline" href="{{ SITE_URL }}/{{ category.url }}">{{ category.name }}</a>
+                    <span class="text-gray-400">{{ articles|length }}</span>
+                </li>
+                {% endfor %}
+            </ol>
+        </div>
+    </li>
+</ol>
+{% endblock %}
