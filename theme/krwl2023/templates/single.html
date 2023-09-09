@@ -1,0 +1,31 @@
+<div class="border-y border-t-gray-100 border-b-gray-300 py-10">
+    <div class="text-gray-600 pb-12 max-w-screen-sm mx-auto">
+        <div class="px-6 mb-12">
+            {% if article.link %}
+            <h2 class="pb-6 text-2xl">
+                <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
+                    title="Permalink to {{ article.title|striptags }}">&#8727;</a>
+                <a class="underline" href="{{ article.link }}">{{ article.title }}</a>
+            </h2>
+            {% else %}
+            <h2 class="pb-6 text-2xl">
+                <a class="underline" href="{{ SITE_URL }}/{{ article.url }}" rel="bookmark"
+                    title="Permalink to {{ article.title|striptags }}">{{
+                    article.title }}</a>
+            </h2>
+            {% endif %}
+            <div class="prose">
+                {{ article.content }}
+            </div>
+        </div>
+        <div class="px-6 flex justify-end text-gray-400">
+            {% if article.category %}
+            <div class="mr-6"><a href="{{ SITE_URL }}/{{ article.category.url }}">{{ article.category
+                    }}</a></div>
+            {% endif %}
+            <a href="{{ SITE_URL }}/{{ article.url }}" rel="bookmark"
+                title="Permalink to {{ article.title|striptags }}">
+                <time datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time></a>
+        </div>
+    </div>
+</div>

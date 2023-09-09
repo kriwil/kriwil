@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block head %}
+{{ super() }}
+{% for keyword in article.keywords %}
+<meta name="keywords" contents="{{ keyword }}" />
+{% endfor %}
+
+{% for description in article.description %}
+<meta name="description" contents="{{ description }}" />
+{% endfor %}
+
+{% for tag in article.tags %}
+<meta name="tags" contents="{{ tag }}" />
+{% endfor %}
+
+{% endblock %}
+{% block title %}{{ article.title }} - {{ SITENAME }}{% endblock %}
+
+{% block content %}
+<div>
+    {% include "single.html" %}
+    <div class="text-md text-gray-400 py-6 max-w-screen-sm mx-auto">
+        If you have any comment, mention me <a class="underline text-gray-600 font-medium"
+            href="https://mastodon.social/@kriwil">@kriwil</a>.
+    </div>
+</div>
+{% endblock %}
