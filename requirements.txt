@@ -3,3 +3,4 @@ isort
 pelican[markdown]
 pelican-sitemap
 pelican-tailwindcss
+typogrify

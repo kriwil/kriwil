@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {% for article in articles_page.object_list %}
+    <div class="border-y-2 border-t-gray-100 border-b-gray-300 py-10">
+      <div class="text-gray-600 pb-12 max-w-screen-sm mx-auto">
+        <div class="px-6">
+          {% if article.link %}
+            <h2 class="pb-6 text-2xl">
+              <a href="{{ article.link }}">{{ article.title }}</a>
+              <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}" class="text-5xl">&middot;</a>
+            </h2>
+          {% else %}
+            <h2 class="pb-6 text-2xl">
+              <a href="{{ SITE_URL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+            </h2>
+          {% endif %}
+          <div class="">
+            {{ article.content }}
+          </div>
+        </div>
+        <div class="px-6">
+          <time class="" datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time>
+          {% if article.category %}
+          <div><a href="{{ SITE_URL }}/{{ article.category.url }}">{{ article.category }}</a></div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+{% endblock %}

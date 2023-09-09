@@ -1,5 +1,5 @@
 AUTHOR = "aldi"
-SITENAME = "kriwil.com"
+SITENAME = "kriwil"
 SITEURL = "https://kriwil.com"
 
 PATH = "content"
@@ -8,7 +8,7 @@ TIMEZONE = "Asia/Jakarta"
 
 DEFAULT_LANG = "en"
 
-PLUGINS = ["sitemap"]
+PLUGINS = ["sitemap", "tailwindcss"]
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -16,8 +16,9 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+RSS_FEED_SUMMARY_ONLY = False
 
-DEFAULT_PAGINATION = True
+DEFAULT_PAGINATION = 20
 
 # format
 ARTICLE_URL = "{category}/{slug}/"
@@ -56,4 +57,16 @@ RELATIVE_URLS = True
 
 SITEMAP = {
     "format": "xml",
+}
+
+THEME = "theme/krwl2023"
+
+TAILWIND = {
+    "version": "3.2.7",
+    "plugins": [
+        "@tailwindcss/typography",
+        # "@tailwindcss/forms",
+        # "@tailwindcss/line-clamp",
+        # "@tailwindcss/aspect-ratio",
+    ],
 }
