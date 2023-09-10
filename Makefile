@@ -8,10 +8,10 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-SSH_HOST=localhost
+SSH_HOST=kriwil.com
 SSH_PORT=22
-SSH_USER=root
-SSH_TARGET_DIR=/var/www
+SSH_USER=aldi
+SSH_TARGET_DIR=/home/aldi/prod/kriwil.com
 
 
 DEBUG ?= 0
