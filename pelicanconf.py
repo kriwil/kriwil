@@ -69,7 +69,7 @@ EXTRA_PATH_METADATA = {
 }
 
 TAILWIND = {
-    "version": "3.2.7",
+    "version": "3.3.3",
     "plugins": [
         "@tailwindcss/typography",
         # "@tailwindcss/forms",
