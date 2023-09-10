@@ -77,3 +77,13 @@ TAILWIND = {
         # "@tailwindcss/aspect-ratio",
     ],
 }
+
+MARKDOWN = {
+    "extension_configs": {
+        "markdown.extensions.toc": {},
+        # "markdown.extensions.codehilite": {"css_class": "highlight"},
+        # "markdown.extensions.extra": {},
+        # "markdown.extensions.meta": {},
+    },
+    "output_format": "html5",
+}
