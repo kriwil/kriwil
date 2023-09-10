@@ -3,6 +3,9 @@ date: 2019-11-02 13:00
 tags: elixir, phoenix, liveview
 slug: phoenix-live-view-beginner-guide
 
+## Table of Contents
+[TOC]
+
 _This guide assumes you have [Elixir](https://elixir-lang.org/install.html)
 and [Phoenix](https://hexdocs.pm/phoenix/installation.html#content) installed.
 So go do that if you haven't._
