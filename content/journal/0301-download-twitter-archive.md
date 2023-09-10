@@ -7,9 +7,9 @@ I haven't used twitter for a while, so I guess while I remember, I should probab
 
 From twitter page go to:  
 **More**
--> **Settings and Support**
--> **Settings and privacy**
--> **Your account**
--> **Download an archive of your data**
+&rarr; **Settings and Support**
+&rarr; **Settings and privacy**
+&rarr; **Your account**
+&rarr; **Download an archive of your data**
 
 Then just follow the instructions.
