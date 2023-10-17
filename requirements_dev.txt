@@ -1,0 +1,6 @@
+black
+isort
+pelican[markdown]
+pelican-sitemap
+pelican-tailwindcss
+typogrify
