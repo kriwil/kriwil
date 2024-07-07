@@ -1,5 +1,5 @@
 Title: Working While Standing, A Year Later ...
-date: 2015-09-21 18:00
+date: 2015-09-21 18:00:00
 slug: standing
 
 Last August marks 1 year I work by standing. And I'm still rocking it ...

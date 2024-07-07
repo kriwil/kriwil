@@ -1,7 +1,6 @@
 title: $169 development Chromebook
 date: 2018-03-27 17:00
 tags: chromebook, development
-slug: 169-development-chromebook
 link: https://blog.lessonslearned.org/building-a-more-secure-development-chromebook/
 
 > Nearly every how-to and blog post I've found on "Chromebooks for developers" essentially 

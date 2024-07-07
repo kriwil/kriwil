@@ -1,7 +1,6 @@
 title: Debugging Python Like a Boss
 date: 2018-10-13 18:00
 tags: python
-slug: debugging-python-like-a-boss
 link: https://zapier.com/engineering/debugging-python-boss/
 
 > Thankfully, there is a better way. Since the first segfault in C, 

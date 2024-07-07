@@ -1,5 +1,5 @@
 Title: DuckDuckGo
-date: 2015-04-08 10:00
+date: 2015-04-08 10:00:00
 slug: duckduckgo
 
 

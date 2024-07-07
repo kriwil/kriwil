@@ -1,5 +1,5 @@
 Title: Colemak
-date: 2017-12-05 22:00
+date: 2017-12-05 22:00:00
 slug: colemak
 
 I've always wanted to type correctly. By that I mean touch-typing using 10 fingers and with finger on the right position.

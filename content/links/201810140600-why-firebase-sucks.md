@@ -1,5 +1,5 @@
 title: Why Firebase sucks
-date: 2018-10-14 6:00
+date: 2018-10-14 06:00
 tags: firebase
 link: https://medium.com/@scosta/why-firebase-sucks-ce5d2302eb20
 

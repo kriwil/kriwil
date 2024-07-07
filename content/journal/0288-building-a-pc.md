@@ -1,5 +1,5 @@
 Title: Building a PC
-date: 2014-09-17 13:00
+date: 2014-09-17 13:00:00
 slug: buliding-a-pc
 
 ## tl;dr

@@ -1,5 +1,5 @@
 Title: Taking Break is Fun
-date: 2014-09-18 05:00
+date: 2014-09-18 05:00:00
 slug: taking-break-is-fun
 
 I love coding. It's fun. I code for fun. My best way to spend free time

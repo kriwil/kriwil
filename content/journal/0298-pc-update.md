@@ -1,5 +1,5 @@
 Title: PC Build Update
-date: 2016-07-20 10:00
+date: 2016-07-20 10:00:00
 slug: pc-build-update
 
 Thanks to some [dude](http://kecebongsoft.com/2016/07/im-building-a-pc.html), I remember I need to

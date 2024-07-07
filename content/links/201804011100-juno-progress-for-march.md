@@ -1,7 +1,6 @@
 title: Juno Progress for March
 date: 2018-04-01 11:00
 tags: juno, elementaryos
-slug: juno-progress-for-march
 link: https://medium.com/elementaryos/juno-progress-for-march-6fd2d553c237
 
 > As we steadily march towards Juno’s release (Ha! See what I did there?) 

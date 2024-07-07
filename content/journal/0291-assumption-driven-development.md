@@ -1,5 +1,5 @@
 Title: Assumption Driven Development
-date: 2014-09-29 20:00
+date: 2014-09-29 20:00:00
 slug: assumption-driven-development
 
 Assumption driven development is when you develop based on assumption.

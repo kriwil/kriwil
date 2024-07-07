@@ -1,5 +1,5 @@
 title: Fascinating story from Google+ team
-date: 2018-10-15 7:00
+date: 2018-10-15 07:00
 tags: google
 link: https://threader.app/thread/1049523067506966529
 

@@ -1,5 +1,5 @@
 Title: Windows 10
-date: 2016-11-28 10:00
+date: 2016-11-28 10:00:00
 slug: windows-10
 
 ![systeminfo](https://s3-ap-southeast-1.amazonaws.com/s.kriwil.com/www/journal/0298-systeminfo_big_annotate.png "systeminfo")

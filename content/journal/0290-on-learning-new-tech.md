@@ -1,5 +1,5 @@
 Title: On Learning New Technology
-date: 2014-09-25 16:00
+date: 2014-09-25 16:00:00
 slug: on-learning-new-tech
 
 _Disclaimer: since I'm a programmer, by technology, I mean technology revolves

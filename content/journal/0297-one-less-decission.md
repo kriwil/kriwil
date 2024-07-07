@@ -1,5 +1,5 @@
 Title: On Less Decission
-date: 2016-02-12 20:00
+date: 2016-02-12 20:00:00
 slug: on-less-decission
 
 One less decision to make. That's what comes to mind when

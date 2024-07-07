@@ -1,7 +1,6 @@
 title: Switch to Colemak for the sheer unholy joy of it
 date: 2018-05-01 06:00
 tags: colemak
-slug: switching-to-colemak
 link: https://thisisforeveryone.com/switch-to-colemak-for-the-sheer-unholy-joy-of-it/
 
 > Qwerty keys were not placed as a result of ergonomic considerations.
